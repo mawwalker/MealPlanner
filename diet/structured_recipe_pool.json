@@ -1,0 +1,4008 @@
+{
+  "version": 1,
+  "count": 172,
+  "recipes": [
+    {
+      "id": "HowToCook:dishes/vegetable_dish/葱煎豆腐.md",
+      "name": "葱煎豆腐",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/vegetable_dish/葱煎豆腐.md",
+      "protein": "tofu",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well",
+        "spicy",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "倒入豆腐，翻炒，加入盐与鸡精，中火翻炒 1 分钟后倒入 10 ML 水，大火收汁。",
+      "estimatedMinutes": 20,
+      "reheatScore": 2,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": true,
+      "spicyFriendly": true,
+      "homeScore": 8
+    },
+    {
+      "id": "HowToCook:dishes/meat_dish/鱼香肉丝.md",
+      "name": "鱼香肉丝",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/meat_dish/鱼香肉丝.md",
+      "protein": "pork",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "jiangxi-friendly",
+        "reheats-well",
+        "spicy",
+        "workday"
+      ],
+      "ingredients": [
+        "生抽 5ml",
+        "料酒 5ml",
+        "淀粉 5g",
+        "水 20ml",
+        "蛋清 1 个",
+        "醋 15ml"
+      ],
+      "method": "将锅烧热，加入 15ml 油。；将锅烧热，加入 5ml 油。",
+      "estimatedMinutes": 20,
+      "reheatScore": 2,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": true,
+      "spicyFriendly": true,
+      "homeScore": 8
+    },
+    {
+      "id": "HowToCook:dishes/meat_dish/麻婆豆腐/麻婆豆腐.md",
+      "name": "麻婆豆腐",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/meat_dish/麻婆豆腐/麻婆豆腐.md",
+      "protein": "tofu",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "jiangxi-friendly",
+        "reheats-well",
+        "spicy",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "肉糜中加入一半的食盐和味极鲜酱油，搅拌均匀，备用；调成小火，放入大蒜、生姜、辣椒圈、花椒、咸鸭蛋、蒜蓉辣酱翻炒 20 秒",
+      "estimatedMinutes": 20,
+      "reheatScore": 2,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": false,
+      "spicyFriendly": true,
+      "homeScore": 8
+    },
+    {
+      "id": "HowToCook:dishes/meat_dish/鱼香茄子/鱼香茄子.md",
+      "name": "鱼香茄子",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/meat_dish/鱼香茄子/鱼香茄子.md",
+      "protein": "fish",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "jiangxi-friendly",
+        "reheats-well",
+        "spicy",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "锅中倒入 15-30ml 油，放入豆瓣酱、葱白、姜、蒜炒香，然后倒入肉沫翻炒均匀。；加入 80-150ml 清水（水面预",
+      "estimatedMinutes": 20,
+      "reheatScore": 2,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": true,
+      "spicyFriendly": true,
+      "homeScore": 8
+    },
+    {
+      "id": "HowToCook:dishes/vegetable_dish/家常日本豆腐.md",
+      "name": "家常日本豆腐",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/vegetable_dish/家常日本豆腐.md",
+      "protein": "tofu",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "加入蚝油、生抽、盐、鸡精、白砂糖、番茄酱；轻轻翻炒至颜色均匀",
+      "estimatedMinutes": 20,
+      "reheatScore": 2,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 7
+    },
+    {
+      "id": "HowToCook:dishes/meat_dish/豉汁排骨.md",
+      "name": "豉汁排骨",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/meat_dish/豉汁排骨.md",
+      "protein": "pork",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well"
+      ],
+      "ingredients": [],
+      "method": "豉汁排骨是粤式茶楼经典蒸点，豉香浓郁，排骨滑嫩多汁，超下饭！；水开后上锅蒸 18 分钟",
+      "estimatedMinutes": 20,
+      "reheatScore": 2,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 7
+    },
+    {
+      "id": "HowToCook:dishes/aquatic/红烧鲤鱼.md",
+      "name": "红烧鲤鱼",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/aquatic/红烧鲤鱼.md",
+      "protein": "fish",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well",
+        "spicy",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "锅里多倒点油，烧至 7 成热（刚刚开始冒烟），下入鱼炸 1 分钟至鱼皮稍稍变硬捞出备用（注意不要一下锅就拨弄鱼，等炸一会",
+      "estimatedMinutes": 20,
+      "reheatScore": 2,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": true,
+      "spicyFriendly": true,
+      "homeScore": 7
+    },
+    {
+      "id": "HowToCook:dishes/aquatic/红烧鱼头.md",
+      "name": "红烧鱼头",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/aquatic/红烧鱼头.md",
+      "protein": "fish",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well",
+        "spicy",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "将清洗好的鱼块放入盆中，加入 5g 盐、10g 生抽、10g 料酒。放入葱（前半段切碎的那个）、1/3 姜片。将其拌匀，",
+      "estimatedMinutes": 20,
+      "reheatScore": 2,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 7
+    },
+    {
+      "id": "HowToCook:dishes/aquatic/红烧鱼.md",
+      "name": "红烧鱼",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/aquatic/红烧鱼.md",
+      "protein": "fish",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well",
+        "spicy",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "加入 30-50ml 油，等待锅热...；放入姜蒜辣椒，翻炒出香味",
+      "estimatedMinutes": 20,
+      "reheatScore": 2,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": true,
+      "spicyFriendly": true,
+      "homeScore": 7
+    },
+    {
+      "id": "CookLikeHOC:炒菜/宫保鸡丁.md",
+      "name": "宫保鸡丁",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/炒菜/宫保鸡丁.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well",
+        "spicy",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "1. 180g 大豆油烧至 170℃，下入 1050g 鸡丁煸炒变色；2. 倒入 250g 胡萝卜丁翻炒至表面微软",
+      "estimatedMinutes": 20,
+      "reheatScore": 2,
+      "weekdayFriendly": true,
+      "light": false,
+      "heavy": false,
+      "spicyFriendly": true,
+      "homeScore": 7
+    },
+    {
+      "id": "HowToCook:dishes/vegetable_dish/西红柿豆腐汤羹/西红柿豆腐汤羹.md",
+      "name": "西红柿豆腐汤羹",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/vegetable_dish/西红柿豆腐汤羹/西红柿豆腐汤羹.md",
+      "protein": "tofu",
+      "vegTypes": [
+        "colorful"
+      ],
+      "tags": [
+        "reheats-well",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "起锅烧油，放入姜片 5 S 后倒入入西红柿翻炒 30 S；锅中加入开水，汤水烧开，60 S 后到入鸡蛋液、豆腐块",
+      "estimatedMinutes": 20,
+      "reheatScore": 2,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 7
+    },
+    {
+      "id": "HowToCook:dishes/vegetable_dish/包菜炒鸡蛋粉丝/包菜炒鸡蛋粉丝.md",
+      "name": "包菜炒鸡蛋粉丝",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/vegetable_dish/包菜炒鸡蛋粉丝/包菜炒鸡蛋粉丝.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "leafy"
+      ],
+      "tags": [
+        "reheats-well",
+        "spicy",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "粉丝先用冷水浸泡 1 小时，然后将粉丝放入锅中，加入开水烧至粉丝烫软捞出备用；鸡蛋打入碗中，加入盐后搅拌 15 秒",
+      "estimatedMinutes": 20,
+      "reheatScore": 2,
+      "weekdayFriendly": true,
+      "light": false,
+      "heavy": true,
+      "spicyFriendly": true,
+      "homeScore": 7
+    },
+    {
+      "id": "CookLikeHOC:炒菜/笋子鸡丁盖饭.md",
+      "name": "笋子鸡丁盖饭",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/炒菜/笋子鸡丁盖饭.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "jiangxi-friendly",
+        "reheats-well",
+        "spicy",
+        "workday"
+      ],
+      "ingredients": [
+        "罗汉笋块",
+        "茶叶蛋",
+        "菜苔",
+        "豉油汁",
+        "鸡精",
+        "老抽"
+      ],
+      "method": "②下入 8g 老抽、5g 鸡精、2g 盐，将鸡丁炒制上色；③下入 120g 剁椒酱、300g 焯水罗汉笋块，一起炒香",
+      "estimatedMinutes": 20,
+      "reheatScore": 2,
+      "weekdayFriendly": true,
+      "light": false,
+      "heavy": false,
+      "spicyFriendly": true,
+      "homeScore": 7
+    },
+    {
+      "id": "CookLikeHOC:炒菜/毛豆烧土鸡.md",
+      "name": "毛豆烧土鸡",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/炒菜/毛豆烧土鸡.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "jiangxi-friendly",
+        "reheats-well",
+        "spicy",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "2. 倒入 1500g 鸡块，煸炒至鸡肉表面泛黄；3. 鸡肉中加入 60g 蒜子、60g 姜片、50g 剁椒翻炒",
+      "estimatedMinutes": 20,
+      "reheatScore": 2,
+      "weekdayFriendly": true,
+      "light": false,
+      "heavy": true,
+      "spicyFriendly": true,
+      "homeScore": 7
+    },
+    {
+      "id": "CookLikeHOC:炒菜/小炒鸡丁.md",
+      "name": "小炒鸡丁",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/炒菜/小炒鸡丁.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "jiangxi-friendly",
+        "reheats-well",
+        "spicy",
+        "workday"
+      ],
+      "ingredients": [
+        "老抽",
+        "蒜子",
+        "鲜红小米辣",
+        "大豆油",
+        "藤椒油",
+        "2. 下入 60g 蒜子炒香"
+      ],
+      "method": "1. 取 150g 大豆油烧热，加入 1400g 鸡丁煸炒至变色；2. 下入 60g 蒜子炒香",
+      "estimatedMinutes": 20,
+      "reheatScore": 2,
+      "weekdayFriendly": true,
+      "light": false,
+      "heavy": false,
+      "spicyFriendly": true,
+      "homeScore": 7
+    },
+    {
+      "id": "CookLikeHOC:炒菜/外婆菜炒鸡蛋.md",
+      "name": "外婆菜炒鸡蛋",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/炒菜/外婆菜炒鸡蛋.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well",
+        "spicy",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "1. 锅中倒入 250g 大豆油烧热，将 800g 鸡蛋液炒成鸡蛋片状，盛装出锅备用；2. 下入20g 大豆油、20g ",
+      "estimatedMinutes": 20,
+      "reheatScore": 2,
+      "weekdayFriendly": true,
+      "light": false,
+      "heavy": true,
+      "spicyFriendly": true,
+      "homeScore": 7
+    },
+    {
+      "id": "CookLikeHOC:主食/香辣鸡丁拌面.md",
+      "name": "香辣鸡丁拌面",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/主食/香辣鸡丁拌面.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "leafy"
+      ],
+      "tags": [
+        "reheats-well",
+        "spicy",
+        "workday"
+      ],
+      "ingredients": [
+        "大豆油",
+        "底料",
+        "拌菜红油",
+        "芝麻酱",
+        "青菜",
+        "1. 香辣鸡丁炒制"
+      ],
+      "method": "1. 香辣鸡丁炒制：；②下入60g 拍蒜、100g 鲜红小米辣炒香",
+      "estimatedMinutes": 20,
+      "reheatScore": 2,
+      "weekdayFriendly": true,
+      "light": false,
+      "heavy": false,
+      "spicyFriendly": true,
+      "homeScore": 7
+    },
+    {
+      "id": "CookLikeHOC:主食/香辣牛肉面.md",
+      "name": "香辣牛肉面",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/主食/香辣牛肉面.md",
+      "protein": "beef",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well",
+        "spicy"
+      ],
+      "ingredients": [],
+      "method": "1. 汤底调制：将150g 牛肉面汤料、20g 姜片、10g 香葱、5000g水，烧开后煮20 分钟，捞渣备用；2. 香",
+      "estimatedMinutes": 30,
+      "reheatScore": 2,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": false,
+      "spicyFriendly": true,
+      "homeScore": 7
+    },
+    {
+      "id": "HowToCook:dishes/vegetable_dish/金针菇日本豆腐煲.md",
+      "name": "金针菇日本豆腐煲",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/vegetable_dish/金针菇日本豆腐煲.md",
+      "protein": "tofu",
+      "vegTypes": [
+        "fungi"
+      ],
+      "tags": [
+        "reheats-well",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "热锅放油，油热放小米椒、蒜末爆香，先放金针菇，炒软，把煎好的豆腐平铺在金针菇上，倒入#2 配好的料汁，焖 5 分钟，大火",
+      "estimatedMinutes": 45,
+      "reheatScore": 2,
+      "weekdayFriendly": false,
+      "light": true,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 7
+    },
+    {
+      "id": "HowToCook:dishes/aquatic/鳊鱼炖豆腐/鳊鱼炖豆腐.md",
+      "name": "鳊鱼炖豆腐",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/aquatic/鳊鱼炖豆腐/鳊鱼炖豆腐.md",
+      "protein": "fish",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well",
+        "spicy",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "炒出佐料香味后，加入料酒，生抽，老抽，冰糖，桂皮，倒入热水，水量和鱼平齐或者少点；大火烧开后，放入老豆腐，豆腐贴在锅边，",
+      "estimatedMinutes": 45,
+      "reheatScore": 2,
+      "weekdayFriendly": false,
+      "light": true,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 7
+    },
+    {
+      "id": "HowToCook:dishes/meat_dish/西红柿土豆炖牛肉/西红柿土豆炖牛肉.md",
+      "name": "西红柿土豆炖牛肉",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/meat_dish/西红柿土豆炖牛肉/西红柿土豆炖牛肉.md",
+      "protein": "beef",
+      "vegTypes": [
+        "colorful"
+      ],
+      "tags": [
+        "reheats-well",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "下入牛肉，葱姜，炒香，炒多久都无所谓，看着有点要糊可以舀 10ml 汤，此下同理；炒香后加入生抽 15ml，料酒 15m",
+      "estimatedMinutes": 45,
+      "reheatScore": 2,
+      "weekdayFriendly": false,
+      "light": true,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 7
+    },
+    {
+      "id": "HowToCook:dishes/meat_dish/土豆炖排骨/土豆炖排骨.md",
+      "name": "土豆炖排骨",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/meat_dish/土豆炖排骨/土豆炖排骨.md",
+      "protein": "pork",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well",
+        "spicy",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "排骨 750g 冷水下锅，加入姜片、葱段、料酒焯水 2 分钟，焯干水后捞出清洗干净（一定要用热水，不能用冷水）；热锅凉油",
+      "estimatedMinutes": 45,
+      "reheatScore": 2,
+      "weekdayFriendly": false,
+      "light": true,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 7
+    },
+    {
+      "id": "CookLikeHOC:烫菜/麻辣鸡块.md",
+      "name": "麻辣鸡块",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/烫菜/麻辣鸡块.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well",
+        "spicy",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "1. 老母鸡炖制：每只老母鸡加入 2g 盐，冷藏腌制 20 分钟；每 500g 老母鸡，加入 16g 盐、60g 鸡油、",
+      "estimatedMinutes": 45,
+      "reheatScore": 2,
+      "weekdayFriendly": false,
+      "light": true,
+      "heavy": false,
+      "spicyFriendly": true,
+      "homeScore": 7
+    },
+    {
+      "id": "CookLikeHOC:炖菜/香辣鸡杂.md",
+      "name": "香辣鸡杂",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/炖菜/香辣鸡杂.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well",
+        "spicy"
+      ],
+      "ingredients": [
+        "芝麻香油",
+        "香葱",
+        "2. 料汁中倒入 1300g 清洗好的鸡肫炖煮 5 分钟",
+        "3. 再加入 1500g 清洗好的鸡肝，继续炖煮 5 分钟",
+        "4. 最后淋入 40g 芝麻香油，加入 40g 葱段"
+      ],
+      "method": "1. 将 3200g 水、1500g 鸡杂料、30g 盐倒入锅中，烧开后熬制 20 分钟，捞出料渣备用；2. 料汁中倒入",
+      "estimatedMinutes": 45,
+      "reheatScore": 2,
+      "weekdayFriendly": false,
+      "light": true,
+      "heavy": true,
+      "spicyFriendly": true,
+      "homeScore": 7
+    },
+    {
+      "id": "HowToCook:dishes/vegetable_dish/脆皮豆腐.md",
+      "name": "脆皮豆腐",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/vegetable_dish/脆皮豆腐.md",
+      "protein": "tofu",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well"
+      ],
+      "ingredients": [],
+      "method": "参考原文步骤制作。",
+      "estimatedMinutes": 30,
+      "reheatScore": 2,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 6
+    },
+    {
+      "id": "HowToCook:dishes/vegetable_dish/皮蛋豆腐.md",
+      "name": "皮蛋豆腐",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/vegetable_dish/皮蛋豆腐.md",
+      "protein": "tofu",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well",
+        "spicy"
+      ],
+      "ingredients": [],
+      "method": "参考原文步骤制作。",
+      "estimatedMinutes": 30,
+      "reheatScore": 2,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 6
+    },
+    {
+      "id": "HowToCook:dishes/vegetable_dish/凉拌豆腐.md",
+      "name": "凉拌豆腐",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/vegetable_dish/凉拌豆腐.md",
+      "protein": "tofu",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well",
+        "spicy"
+      ],
+      "ingredients": [],
+      "method": "锅中加入 500 ml 饮用水，大火烧开。；在一个干净的小碗中，加入 15 ml 生抽，5 ml 香油，5 ml 醋（可",
+      "estimatedMinutes": 30,
+      "reheatScore": 2,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 6
+    },
+    {
+      "id": "HowToCook:dishes/staple/鲜肉烧卖.md",
+      "name": "鲜肉烧卖",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/staple/鲜肉烧卖.md",
+      "protein": "shrimp",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well",
+        "spicy",
+        "workday"
+      ],
+      "ingredients": [
+        "用虎口轻轻收拢皮子边缘，形成“花瓶”状，顶部留开口",
+        "用手指轻轻压实底部，确保站立稳定",
+        "如果要加虾仁，在顶部加一颗虾仁"
+      ],
+      "method": "鲜肉烧卖以肥瘦三七的猪肉为主馅，融入冬笋、皮冻与香菇，蒸出半透明皮子与多汁内馅，一口咬下，汤汁四溢，咸鲜交织，尽显江南精",
+      "estimatedMinutes": 20,
+      "reheatScore": 2,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 6
+    },
+    {
+      "id": "HowToCook:dishes/staple/照烧鸡腿饭.md",
+      "name": "照烧鸡腿饭",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/staple/照烧鸡腿饭.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well",
+        "spicy"
+      ],
+      "ingredients": [],
+      "method": "去骨鸡腿加入黑胡椒粉、黑胡椒碎、盐、姜片腌制 5 分钟；碗里加入料酒、生抽、蜂蜜、老抽清水拌匀",
+      "estimatedMinutes": 30,
+      "reheatScore": 2,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 6
+    },
+    {
+      "id": "HowToCook:dishes/meat_dish/红烧鸡翅.md",
+      "name": "红烧鸡翅",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/meat_dish/红烧鸡翅.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well",
+        "spicy",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "起锅开火，锅中加入清水没过所有鸡翅，冷水下锅放入处理好的鸡翅，加入 20ml 黄酒或料酒、2 片姜片（约 5g），开大火",
+      "estimatedMinutes": 30,
+      "reheatScore": 2,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 6
+    },
+    {
+      "id": "HowToCook:dishes/aquatic/糖醋鲤鱼/糖醋鲤鱼.md",
+      "name": "糖醋鲤鱼",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/aquatic/糖醋鲤鱼/糖醋鲤鱼.md",
+      "protein": "fish",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "加入 20g 盐，25g 料酒，然后给鲤鱼搓个澡，涂抹均匀；找个干净的盆，加入 100g 面粉、200g 淀粉、180g",
+      "estimatedMinutes": 20,
+      "reheatScore": 2,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 6
+    },
+    {
+      "id": "HowToCook:dishes/aquatic/小龙虾/小龙虾.md",
+      "name": "小龙虾",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/aquatic/小龙虾/小龙虾.md",
+      "protein": "shrimp",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well",
+        "spicy",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "葱姜蒜爆香后，加入郫县豆瓣、黄豆酱，炒出红油。；下小龙虾，翻炒至变色。",
+      "estimatedMinutes": 20,
+      "reheatScore": 2,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 6
+    },
+    {
+      "id": "HowToCook:dishes/soup/昂刺鱼豆腐汤/昂刺鱼豆腐汤.md",
+      "name": "昂刺鱼豆腐汤",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/soup/昂刺鱼豆腐汤/昂刺鱼豆腐汤.md",
+      "protein": "fish",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "待鱼全部煎好之后，倒入开水、5ml 料酒、姜片，小火转至大火，盖上锅盖、大火煮 10 分钟（水要稍微多一些，后面会蒸发掉",
+      "estimatedMinutes": 20,
+      "reheatScore": 2,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 6
+    },
+    {
+      "id": "HowToCook:dishes/vegetable_dish/洋葱炒鸡蛋/洋葱炒鸡蛋.md",
+      "name": "洋葱炒鸡蛋",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/vegetable_dish/洋葱炒鸡蛋/洋葱炒鸡蛋.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "鸡蛋打入大碗中，加入洋葱片、盐后搅拌 60 S；起锅烧油，倒入鸡蛋，一面煎炸 30-45 S ，翻面继续翻炒，反复 2-",
+      "estimatedMinutes": 20,
+      "reheatScore": 2,
+      "weekdayFriendly": true,
+      "light": false,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 6
+    },
+    {
+      "id": "HowToCook:dishes/vegetable_dish/榄菜肉末四季豆/榄菜肉末四季豆.md",
+      "name": "榄菜肉末四季豆",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/vegetable_dish/榄菜肉末四季豆/榄菜肉末四季豆.md",
+      "protein": "pork",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well",
+        "spicy",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "将锅烧热，然后加入 20ml 油滑锅，锅滑好之后将热油倒出，然后加入 10ml 冷油，这就是传说中热锅冷油，这么做主要是",
+      "estimatedMinutes": 20,
+      "reheatScore": 2,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 6
+    },
+    {
+      "id": "CookLikeHOC:蒸菜/酱蒸豆腐.md",
+      "name": "酱蒸豆腐",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/蒸菜/酱蒸豆腐.md",
+      "protein": "tofu",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well"
+      ],
+      "ingredients": [
+        "1. 取 160g 豆腐，辅以 60g 酱蒸白干料",
+        "2. 蒸柜上汽后，蒸制 20 分钟出品"
+      ],
+      "method": "# 酱蒸豆腐；![酱蒸豆腐](../images/酱蒸豆腐.jpg)",
+      "estimatedMinutes": 20,
+      "reheatScore": 2,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 6
+    },
+    {
+      "id": "CookLikeHOC:蒸菜/胡萝卜牛肉.md",
+      "name": "胡萝卜牛肉",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/蒸菜/胡萝卜牛肉.md",
+      "protein": "beef",
+      "vegTypes": [
+        "colorful"
+      ],
+      "tags": [
+        "reheats-well"
+      ],
+      "ingredients": [],
+      "method": "1. 餐具中加入 110g 胡萝卜片；2. 取 55g 红烧牛肉片平铺在胡萝卜上，再加入 70g 红烧牛肉汤汁",
+      "estimatedMinutes": 20,
+      "reheatScore": 2,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 6
+    },
+    {
+      "id": "CookLikeHOC:炒菜/莴笋丝炒鸡蛋.md",
+      "name": "莴笋丝炒鸡蛋",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/炒菜/莴笋丝炒鸡蛋.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "1. 锅中倒入 200g 大豆油烧热，将 600g 鸡蛋液炒成鸡蛋片状，盛装出锅备用；2. 锅中下入 50g 大豆油、1",
+      "estimatedMinutes": 20,
+      "reheatScore": 2,
+      "weekdayFriendly": true,
+      "light": false,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 6
+    },
+    {
+      "id": "CookLikeHOC:卤菜/卤鸡腿.md",
+      "name": "卤鸡腿",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/卤菜/卤鸡腿.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well",
+        "spicy"
+      ],
+      "ingredients": [],
+      "method": "1. 在不锈钢桶中放入 5000g 水、500g 卤料和 500g 卤油，大火烧开后，捞出料渣，备用；2. 解冻后的卤鸡",
+      "estimatedMinutes": 30,
+      "reheatScore": 2,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 6
+    },
+    {
+      "id": "CookLikeHOC:主食/特色鸡汤馄饨.md",
+      "name": "特色鸡汤馄饨",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/主食/特色鸡汤馄饨.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well"
+      ],
+      "ingredients": [],
+      "method": "1. 每只鸡用2g 盐均匀揉搓鸡表皮，冷藏20 分钟；2. 每500g 老母鸡，加入16g 盐，60g 鸡油，2500g",
+      "estimatedMinutes": 30,
+      "reheatScore": 2,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 6
+    },
+    {
+      "id": "HowToCook:dishes/meat_dish/小炒鸡肝/小炒鸡肝.md",
+      "name": "小炒鸡肝",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/meat_dish/小炒鸡肝/小炒鸡肝.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "jiangxi-friendly",
+        "reheats-well",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "清洗后的鸡肝放入锅内，加入凉水淹没鸡肝，并放入 100g 切段的大葱、70g 切片的姜和 30ml 料酒；开中火。锅内加",
+      "estimatedMinutes": 20,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": true,
+      "spicyFriendly": true,
+      "homeScore": 6
+    },
+    {
+      "id": "HowToCook:dishes/meat_dish/凉拌鸡丝/凉拌鸡丝.md",
+      "name": "凉拌鸡丝",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/meat_dish/凉拌鸡丝/凉拌鸡丝.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well",
+        "spicy",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "加入鸡胸肉、姜片；碗中加入准备好的麻油、生抽、香醋、白糖、盐",
+      "estimatedMinutes": 20,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": false,
+      "spicyFriendly": true,
+      "homeScore": 6
+    },
+    {
+      "id": "HowToCook:dishes/soup/陈皮排骨汤.md",
+      "name": "陈皮排骨汤",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/soup/陈皮排骨汤.md",
+      "protein": "pork",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well"
+      ],
+      "ingredients": [],
+      "method": "加入热水进煲汤盅，水不宜太满；煲汤容器加入水，炖煮 1.5 小时即可",
+      "estimatedMinutes": 45,
+      "reheatScore": 2,
+      "weekdayFriendly": false,
+      "light": true,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 6
+    },
+    {
+      "id": "HowToCook:dishes/meat_dish/黄焖鸡.md",
+      "name": "黄焖鸡",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/meat_dish/黄焖鸡.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well",
+        "spicy",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "# 黄焖鸡的做法；黄焖鸡是一道十分下饭的美食，食材平平无奇又十分容易烹制，一学就会。",
+      "estimatedMinutes": 45,
+      "reheatScore": 2,
+      "weekdayFriendly": false,
+      "light": false,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 6
+    },
+    {
+      "id": "HowToCook:dishes/meat_dish/白菜猪肉炖粉条.md",
+      "name": "白菜猪肉炖粉条",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/meat_dish/白菜猪肉炖粉条.md",
+      "protein": "pork",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "放入五花肉，保持翻炒至肉变色；加入老抽，炒 **1 分钟**，给肉上色",
+      "estimatedMinutes": 45,
+      "reheatScore": 2,
+      "weekdayFriendly": false,
+      "light": false,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 6
+    },
+    {
+      "id": "CookLikeHOC:炒菜/糖醋排骨.md",
+      "name": "糖醋排骨",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/炒菜/糖醋排骨.md",
+      "protein": "pork",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well"
+      ],
+      "ingredients": [],
+      "method": "1. 1300g 糖醋汁和 1550g 排骨倒入锅中，大火烧开；2. 烧开后炖煮 6 分钟",
+      "estimatedMinutes": 45,
+      "reheatScore": 2,
+      "weekdayFriendly": false,
+      "light": true,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 6
+    },
+    {
+      "id": "HowToCook:dishes/meat_dish/柱候牛腩/柱候牛腩.md",
+      "name": "柱候牛腩",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/meat_dish/柱候牛腩/柱候牛腩.md",
+      "protein": "beef",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well",
+        "spicy",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "碗 7：加入 50g 柱候酱，20g 蚝油，20g 叉烧酱，5g 老抽，60g 生抽；中小火，倒入碗 2（香料），翻炒均",
+      "estimatedMinutes": 45,
+      "reheatScore": 2,
+      "weekdayFriendly": false,
+      "light": false,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 6
+    },
+    {
+      "id": "HowToCook:dishes/soup/玉米排骨汤/玉米排骨汤.md",
+      "name": "玉米排骨汤",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/soup/玉米排骨汤/玉米排骨汤.md",
+      "protein": "pork",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "先下入玉米，放入胡椒粉，盖盖小火炖二十分钟，然后放入胡萝卜，盖盖继续小火炖四十分钟",
+      "estimatedMinutes": 45,
+      "reheatScore": 2,
+      "weekdayFriendly": false,
+      "light": true,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 6
+    },
+    {
+      "id": "CookLikeHOC:炖菜/土豆牛腩.md",
+      "name": "土豆牛腩",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/炖菜/土豆牛腩.md",
+      "protein": "beef",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "jiangxi-friendly",
+        "reheats-well",
+        "spicy",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "1. 锅中下入2130g 牛腩汤料、750g 土豆、300g 胡萝卜；2. 混合炖烧10 分钟，期间不断翻拌防止糊锅，出",
+      "estimatedMinutes": 45,
+      "reheatScore": 2,
+      "weekdayFriendly": false,
+      "light": true,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 6
+    },
+    {
+      "id": "CookLikeHOC:汤/肥西老母鸡汤（单品）.md",
+      "name": "肥西老母鸡汤（单品）",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/汤/肥西老母鸡汤（单品）.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well"
+      ],
+      "ingredients": [
+        "4. 剁好的鸡块放入汤中，加入 35g 盐炖煮 15 分钟",
+        "5. 出品前捞去浮沫"
+      ],
+      "method": "1. 每 1 只鸡使用 2g 盐均匀揉搓鸡的表皮，处理后冷藏 20 分钟；2. 在锅中加入 1 只鸡、75g 鸡油料、5",
+      "estimatedMinutes": 45,
+      "reheatScore": 2,
+      "weekdayFriendly": false,
+      "light": true,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 6
+    },
+    {
+      "id": "CookLikeHOC:汤/老鸡汤.md",
+      "name": "老鸡汤",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/汤/老鸡汤.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well"
+      ],
+      "ingredients": [],
+      "method": "每 500g 老母鸡，加入 16g 盐、60g 鸡油、2500g 水，烧开后炖制 60 分钟",
+      "estimatedMinutes": 45,
+      "reheatScore": 2,
+      "weekdayFriendly": false,
+      "light": true,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 6
+    },
+    {
+      "id": "CookLikeHOC:主食/香菇鸡汤面.md",
+      "name": "香菇鸡汤面",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/主食/香菇鸡汤面.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "fungi"
+      ],
+      "tags": [
+        "reheats-well"
+      ],
+      "ingredients": [],
+      "method": "1. 每只鸡用2g 盐均匀揉搓鸡表皮，冷藏20 分钟；2. 每500g 老母鸡，加入16g 盐、60g 鸡油、2500g",
+      "estimatedMinutes": 45,
+      "reheatScore": 2,
+      "weekdayFriendly": false,
+      "light": true,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 6
+    },
+    {
+      "id": "CookLikeHOC:主食/肥西老母鸡汤面.md",
+      "name": "肥西老母鸡汤面",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/主食/肥西老母鸡汤面.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "1. 每只鸡用2g 盐均匀揉搓鸡表皮，冷藏20 分钟；2. 每500g 老母鸡，加入16g 盐、60g 鸡油、2500g",
+      "estimatedMinutes": 45,
+      "reheatScore": 2,
+      "weekdayFriendly": false,
+      "light": true,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 6
+    },
+    {
+      "id": "CookLikeHOC:主食/浓香整块鸡汤面.md",
+      "name": "浓香整块鸡汤面",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/主食/浓香整块鸡汤面.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well"
+      ],
+      "ingredients": [],
+      "method": "1. 10 份汤底调制：1000g 开水中加入50g 汤料，搅拌均匀备用；2. 老鸡汤熬制：",
+      "estimatedMinutes": 45,
+      "reheatScore": 2,
+      "weekdayFriendly": false,
+      "light": true,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 6
+    },
+    {
+      "id": "CookLikeHOC:主食/大大大块牛腩面.md",
+      "name": "大大大块牛腩面",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/主食/大大大块牛腩面.md",
+      "protein": "beef",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well",
+        "spicy",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "1. 牛腩烧制：；②下入1000g 焯过水的牛腩、25g 大葱段充分煸炒，下入12g 老抽上色",
+      "estimatedMinutes": 45,
+      "reheatScore": 2,
+      "weekdayFriendly": false,
+      "light": false,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 6
+    },
+    {
+      "id": "HowToCook:dishes/aquatic/油焖大虾/油焖大虾.md",
+      "name": "油焖大虾",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/aquatic/油焖大虾/油焖大虾.md",
+      "protein": "shrimp",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well"
+      ],
+      "ingredients": [],
+      "method": "# 油焖大虾的做法；![成品](./油焖大虾.jpg)",
+      "estimatedMinutes": 30,
+      "reheatScore": 2,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 5
+    },
+    {
+      "id": "HowToCook:dishes/meat_dish/干煸仔鸡/干煸仔鸡.md",
+      "name": "干煸仔鸡",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/meat_dish/干煸仔鸡/干煸仔鸡.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well",
+        "spicy",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "鸡腿肉中加入盐、鸡精（可选）、胡椒粉、生抽、老抽、料酒，抓拌至粘手时加入淀粉拌匀，加入食用油防止粘连，腌制 30 分钟。",
+      "estimatedMinutes": 30,
+      "reheatScore": 2,
+      "weekdayFriendly": true,
+      "light": false,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 5
+    },
+    {
+      "id": "CookLikeHOC:炒菜/小炒河虾.md",
+      "name": "小炒河虾",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/炒菜/小炒河虾.md",
+      "protein": "shrimp",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "jiangxi-friendly",
+        "reheats-well",
+        "spicy",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "小炒河虾料（生抽、蒸鱼豉油、鸡精、白胡椒、蚝油等）（老乡鸡中央厨房搅拌均匀，详细成分与配比官方未公布，请依据个人口味适量",
+      "estimatedMinutes": 20,
+      "reheatScore": 2,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": true,
+      "spicyFriendly": true,
+      "homeScore": 5
+    },
+    {
+      "id": "CookLikeHOC:主食/雪菜肉丝面.md",
+      "name": "雪菜肉丝面",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/主食/雪菜肉丝面.md",
+      "protein": "pork",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well",
+        "spicy",
+        "workday"
+      ],
+      "ingredients": [
+        "葱花",
+        "2. 将 275g 手擀面在沸水中煮 3 分钟"
+      ],
+      "method": "1. 面条汤底制做（5 份）：将 250g 西红柿片用 100g 大豆油炒制表皮收缩；加入 2800g 水、140g 汤",
+      "estimatedMinutes": 20,
+      "reheatScore": 2,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 5
+    },
+    {
+      "id": "HowToCook:dishes/meat_dish/黄油鸡.md",
+      "name": "黄油鸡",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/meat_dish/黄油鸡.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well",
+        "spicy",
+        "workday"
+      ],
+      "ingredients": [
+        "此菜通常搭配印度烤饼或巴斯马蒂米饭食用"
+      ],
+      "method": "加入红辣椒粉 5g、香菜粉 5g、孜然粉 3g、盐 5g；翻炒 **3-5 分钟**，直至*酱汁颜色变深且油花浮出",
+      "estimatedMinutes": 20,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": false,
+      "heavy": false,
+      "spicyFriendly": true,
+      "homeScore": 5
+    },
+    {
+      "id": "HowToCook:dishes/meat_dish/酱排骨/酱排骨.md",
+      "name": "酱排骨",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/meat_dish/酱排骨/酱排骨.md",
+      "protein": "pork",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "小火起锅，加入食用油，加入白砂糖 ，轻轻搅拌到糖水变成黄色；倒入排骨翻炒 30 S 后，加入生抽、蚝油、五香粉、蒜、小米",
+      "estimatedMinutes": 20,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 5
+    },
+    {
+      "id": "HowToCook:dishes/meat_dish/贵州辣子鸡/贵州辣子鸡.md",
+      "name": "贵州辣子鸡",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/meat_dish/贵州辣子鸡/贵州辣子鸡.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "jiangxi-friendly",
+        "spicy",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "在锅中加入和锅一半高度的油，将切成长条的土豆先炸至表面金黄然后捞出备用，等油温上至烤手时候将切好的鸡块放入锅中炸，并放入",
+      "estimatedMinutes": 20,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": false,
+      "heavy": true,
+      "spicyFriendly": true,
+      "homeScore": 5
+    },
+    {
+      "id": "HowToCook:dishes/meat_dish/巴基斯坦牛肉咖喱/巴基斯坦牛肉咖喱.md",
+      "name": "巴基斯坦牛肉咖喱",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/meat_dish/巴基斯坦牛肉咖喱/巴基斯坦牛肉咖喱.md",
+      "protein": "beef",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well",
+        "spicy",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "炒锅中倒入一层油（用来防止番茄蓉沸腾蒸发）；加入 5g 蒜粉，5g 姜粉和 1 包 50g 的 Masala 粉，搅拌均",
+      "estimatedMinutes": 20,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 5
+    },
+    {
+      "id": "HowToCook:dishes/meat_dish/小炒黄牛肉/小炒黄牛肉.md",
+      "name": "小炒黄牛肉",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/meat_dish/小炒黄牛肉/小炒黄牛肉.md",
+      "protein": "beef",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "jiangxi-friendly",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "放入牛里脊和芹菜，然后**大火翻炒 1 分钟",
+      "estimatedMinutes": 20,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": false,
+      "heavy": false,
+      "spicyFriendly": true,
+      "homeScore": 5
+    },
+    {
+      "id": "HowToCook:dishes/meat_dish/姜炒鸡/姜炒鸡.md",
+      "name": "姜炒鸡",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/meat_dish/姜炒鸡/姜炒鸡.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well",
+        "spicy",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "下入姜片后转中火炒 30 秒，；下入鸡块翻炒 3 分钟，炒干水分，炒出鸡油",
+      "estimatedMinutes": 20,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": false,
+      "heavy": false,
+      "spicyFriendly": true,
+      "homeScore": 5
+    },
+    {
+      "id": "HowToCook:dishes/vegetable_dish/鸡蛋羹/鸡蛋羹.md",
+      "name": "鸡蛋羹",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/vegetable_dish/鸡蛋羹/鸡蛋羹.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well"
+      ],
+      "ingredients": [],
+      "method": "鸡蛋羹，又称水蒸蛋，不需要准备复杂的食材，是一道简单快捷易做的菜，当早餐或是正餐都可，制作时长约为 15 分钟。；加入食",
+      "estimatedMinutes": 20,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 5
+    },
+    {
+      "id": "CookLikeHOC:蒸菜/蒜蓉粉丝虾.md",
+      "name": "蒜蓉粉丝虾",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/蒸菜/蒜蓉粉丝虾.md",
+      "protein": "shrimp",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "1. 调味汁配比：400g 味极鲜酱油，250g 纯净水，100g 葱油；2. 将 7 个开背虾首尾交错摆放在 85g ",
+      "estimatedMinutes": 20,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 5
+    },
+    {
+      "id": "CookLikeHOC:蒸菜/竹笋蒸鸡翅.md",
+      "name": "竹笋蒸鸡翅",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/蒸菜/竹笋蒸鸡翅.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "workday"
+      ],
+      "ingredients": [
+        "1. 取 70g 清水笋丝放于餐具中",
+        "2. 在笋丝上均匀平铺 75g 鸡翅块",
+        "3. 将 70g 鸡翅调料平铺在鸡翅块上",
+        "4. 蒸柜上汽后，蒸制 20 分钟出品"
+      ],
+      "method": "# 竹笋蒸鸡翅；![竹笋蒸鸡翅](../images/竹笋蒸鸡翅.jpg)",
+      "estimatedMinutes": 20,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 5
+    },
+    {
+      "id": "CookLikeHOC:蒸菜/剁椒鱼头.md",
+      "name": "剁椒鱼头",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/蒸菜/剁椒鱼头.md",
+      "protein": "fish",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "jiangxi-friendly",
+        "spicy"
+      ],
+      "ingredients": [
+        "1. 单份鱼头上均匀平铺 120g 剁椒鱼头料"
+      ],
+      "method": "1. 单份鱼头上均匀平铺 120g 剁椒鱼头料；2. 蒸柜上汽后，蒸制 10 分钟，出品时撒 1g 葱花点缀。",
+      "estimatedMinutes": 20,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": false,
+      "spicyFriendly": true,
+      "homeScore": 5
+    },
+    {
+      "id": "CookLikeHOC:炒菜/家常小炒.md",
+      "name": "家常小炒",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/炒菜/家常小炒.md",
+      "protein": "pork",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "jiangxi-friendly",
+        "workday"
+      ],
+      "ingredients": [
+        "蒜子",
+        "大豆油",
+        "老抽",
+        "1. 锅中下入 180g 大豆油，将 60g 蒜子炒香",
+        "2. 加入 500g 肉丝炒至变色",
+        "4. 加入 200g 油片丝，大火爆炒 20 秒出品"
+      ],
+      "method": "1. 锅中下入 180g 大豆油，将 60g 蒜子炒香；2. 加入 500g 肉丝炒至变色",
+      "estimatedMinutes": 20,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": false,
+      "heavy": true,
+      "spicyFriendly": true,
+      "homeScore": 5
+    },
+    {
+      "id": "CookLikeHOC:炒菜/剁椒木耳炒鸡蛋.md",
+      "name": "剁椒木耳炒鸡蛋",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/炒菜/剁椒木耳炒鸡蛋.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "fungi"
+      ],
+      "tags": [
+        "jiangxi-friendly",
+        "spicy",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "1. 10 份混合鸡蛋液调配：800g 鸡蛋液、50g 剁椒、6g 盐；2. 下入 170g 菜籽油、10 份混合鸡蛋液",
+      "estimatedMinutes": 20,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": false,
+      "heavy": true,
+      "spicyFriendly": true,
+      "homeScore": 5
+    },
+    {
+      "id": "CookLikeHOC:炒菜/农家小炒肉（鸡蛋干）.md",
+      "name": "农家小炒肉（鸡蛋干）",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/炒菜/农家小炒肉（鸡蛋干）.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "jiangxi-friendly",
+        "reheats-well",
+        "workday"
+      ],
+      "ingredients": [
+        "1. 将 800g 肉片用 60g 大豆油煸炒至油脂渗出",
+        "2. 下入 60g 蒜子一起炒香",
+        "3. 下入 150g 调味料炒至肉片上色，备用"
+      ],
+      "method": "1. 将 800g 肉片用 60g 大豆油煸炒至油脂渗出；2. 下入 60g 蒜子一起炒香",
+      "estimatedMinutes": 20,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": false,
+      "heavy": false,
+      "spicyFriendly": true,
+      "homeScore": 5
+    },
+    {
+      "id": "HowToCook:dishes/aquatic/鲤鱼炖白菜/鲤鱼炖白菜.md",
+      "name": "鲤鱼炖白菜",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/aquatic/鲤鱼炖白菜/鲤鱼炖白菜.md",
+      "protein": "fish",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well",
+        "spicy",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "加入“水”（水量尽量和鱼平齐，可以少一点点） 放入 “生抽” “老抽” “娃娃菜”",
+      "estimatedMinutes": 45,
+      "reheatScore": 2,
+      "weekdayFriendly": false,
+      "light": true,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 5
+    },
+    {
+      "id": "HowToCook:dishes/meat_dish/香辣鸡爪煲/香辣鸡爪煲.md",
+      "name": "香辣鸡爪煲",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/meat_dish/香辣鸡爪煲/香辣鸡爪煲.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well",
+        "spicy",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "加入香叶、八角、生抽、老抽，盖盖小火慢煮三十分钟。；起锅烧油，用小火炒香姜末、蒜末、小米椒，能吃辣再放点辣椒面。加入生抽",
+      "estimatedMinutes": 45,
+      "reheatScore": 2,
+      "weekdayFriendly": false,
+      "light": true,
+      "heavy": true,
+      "spicyFriendly": true,
+      "homeScore": 5
+    },
+    {
+      "id": "HowToCook:dishes/meat_dish/西红柿牛腩/西红柿牛腩.md",
+      "name": "西红柿牛腩",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/meat_dish/西红柿牛腩/西红柿牛腩.md",
+      "protein": "beef",
+      "vegTypes": [
+        "colorful"
+      ],
+      "tags": [
+        "reheats-well",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "另起锅 2L 水烧开，加入 2cm 两段葱段、两片姜片、八角、料/黄酒 5-10ml，放入焯好的牛肉，盖盖炖制（砂锅 1",
+      "estimatedMinutes": 45,
+      "reheatScore": 2,
+      "weekdayFriendly": false,
+      "light": false,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 5
+    },
+    {
+      "id": "HowToCook:dishes/staple/电饭煲三文鱼炊饭/电饭煲三文鱼炊饭.md",
+      "name": "电饭煲三文鱼炊饭",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/staple/电饭煲三文鱼炊饭/电饭煲三文鱼炊饭.md",
+      "protein": "fish",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well"
+      ],
+      "ingredients": [],
+      "method": "参考原文步骤制作。",
+      "estimatedMinutes": 45,
+      "reheatScore": 2,
+      "weekdayFriendly": false,
+      "light": true,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 5
+    },
+    {
+      "id": "HowToCook:dishes/staple/微波炉腊肠煲仔饭/微波炉腊肠煲仔饭.md",
+      "name": "微波炉腊肠煲仔饭",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/staple/微波炉腊肠煲仔饭/微波炉腊肠煲仔饭.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well"
+      ],
+      "ingredients": [
+        "米 200 ml",
+        "腊肠 1 根",
+        "鸡蛋 1 个",
+        "红萝卜 1 个",
+        "油 15 ml",
+        "生抽 10 ml"
+      ],
+      "method": "将米淘洗干净后倒入 `饭碗` 内，加入 400ml 的水，**盖上盖",
+      "estimatedMinutes": 45,
+      "reheatScore": 2,
+      "weekdayFriendly": false,
+      "light": false,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 5
+    },
+    {
+      "id": "CookLikeHOC:炖菜/红烧鱼块.md",
+      "name": "红烧鱼块",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/炖菜/红烧鱼块.md",
+      "protein": "fish",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well"
+      ],
+      "ingredients": [],
+      "method": "1. 锅中下入1300g 水、50g 鸡油、10g 盐、700g 红烧鱼块料，大火烧开；2. 下入800g 炸制鱼块炖烧",
+      "estimatedMinutes": 45,
+      "reheatScore": 2,
+      "weekdayFriendly": false,
+      "light": true,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 5
+    },
+    {
+      "id": "CookLikeHOC:主食/老鸡扬米面.md",
+      "name": "老鸡扬米面",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/主食/老鸡扬米面.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well"
+      ],
+      "ingredients": [],
+      "method": "1. 每只鸡用2g 盐均匀揉搓鸡表皮，冷藏20 分钟；2. 每500g 老母鸡，加入16g 盐、60g 鸡油、2500g",
+      "estimatedMinutes": 45,
+      "reheatScore": 2,
+      "weekdayFriendly": false,
+      "light": false,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 5
+    },
+    {
+      "id": "CookLikeHOC:炒菜/鱼香肉丝盖饭.md",
+      "name": "鱼香肉丝盖饭",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/炒菜/鱼香肉丝盖饭.md",
+      "protein": "pork",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "jiangxi-friendly",
+        "reheats-well",
+        "spicy",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "② 下入 600g 笋丝、300g 胡萝卜丝、300g 木耳丝翻炒均匀；③ 下入 300g 鱼香风味酱翻炒 2 分钟出品",
+      "estimatedMinutes": 20,
+      "reheatScore": 2,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": false,
+      "spicyFriendly": true,
+      "homeScore": 4
+    },
+    {
+      "id": "HowToCook:dishes/vegetable_dish/鸡蛋火腿炒黄瓜.md",
+      "name": "鸡蛋火腿炒黄瓜",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/vegetable_dish/鸡蛋火腿炒黄瓜.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "spicy",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "油热后转小火，倒入打散的`鸡蛋液`，用筷子划散，翻炒至鸡蛋结为固体且颜色微微发黄，即为 `半熟鸡蛋`，盛出备用；不用洗锅",
+      "estimatedMinutes": 20,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": false,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 4
+    },
+    {
+      "id": "HowToCook:dishes/vegetable_dish/西红柿炒鸡蛋.md",
+      "name": "西红柿炒鸡蛋",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/vegetable_dish/西红柿炒鸡蛋.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "colorful"
+      ],
+      "tags": [
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "将鸡蛋打入碗中，加入 `1g * 份数` 的盐，搅匀，即为 `鸡蛋液`；可以考虑向鸡蛋中加入 1ml 醋，这可以去除腥味",
+      "estimatedMinutes": 20,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": false,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 4
+    },
+    {
+      "id": "HowToCook:dishes/vegetable_dish/炒茄子.md",
+      "name": "炒茄子",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/vegetable_dish/炒茄子.md",
+      "protein": "pork",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "workday"
+      ],
+      "ingredients": [
+        "预估烹饪难度：★★★",
+        "茄子",
+        "八角",
+        "虾皮",
+        "香葱",
+        "肉末"
+      ],
+      "method": "待锅内的油到 9 成熟，将碗中的茄子倒入锅内用锅铲进行翻炒。；翻炒约 40 秒，将锅铲悬空，与锅平行，把酱油倒入锅铲内。",
+      "estimatedMinutes": 20,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 4
+    },
+    {
+      "id": "HowToCook:dishes/staple/炒年糕.md",
+      "name": "炒年糕",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/staple/炒年糕.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "leafy"
+      ],
+      "tags": [
+        "reheats-well",
+        "workday"
+      ],
+      "ingredients": [
+        "预估烹饪难度：★★★",
+        "年糕/白粿",
+        "调味料: 酱油，盐",
+        "鸡蛋，青菜",
+        "每次制作前需要确定计划做几份。一份正好够 1 个人食用",
+        "总量"
+      ],
+      "method": "热锅，加入 30ml 食用油。；重新热锅，加入 20ml 食用油。",
+      "estimatedMinutes": 20,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": false,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 4
+    },
+    {
+      "id": "HowToCook:dishes/soup/西红柿鸡蛋汤.md",
+      "name": "西红柿鸡蛋汤",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/soup/西红柿鸡蛋汤.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "colorful"
+      ],
+      "tags": [
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "1. 将西红柿洗净，切块。；2. 葱姜蒜切碎。",
+      "estimatedMinutes": 30,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 4
+    },
+    {
+      "id": "HowToCook:dishes/soup/番茄牛肉蛋花汤.md",
+      "name": "番茄牛肉蛋花汤",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/soup/番茄牛肉蛋花汤.md",
+      "protein": "beef",
+      "vegTypes": [
+        "colorful"
+      ],
+      "tags": [
+        "spicy"
+      ],
+      "ingredients": [],
+      "method": "加入姜片和牛肉片，煮至牛肉变色；加入番茄块，煮至番茄变软",
+      "estimatedMinutes": 30,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 4
+    },
+    {
+      "id": "HowToCook:dishes/meat_dish/香干肉丝.md",
+      "name": "香干肉丝",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/meat_dish/香干肉丝.md",
+      "protein": "pork",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "spicy",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "将蒜片和香干放入锅中，加入 2ml 生抽，翻炒均匀。；2-3 分钟，看火大小，将青椒丝放入锅中混合，翻炒。",
+      "estimatedMinutes": 20,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": false,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 4
+    },
+    {
+      "id": "HowToCook:dishes/meat_dish/猪肉烩酸菜.md",
+      "name": "猪肉烩酸菜",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/meat_dish/猪肉烩酸菜.md",
+      "protein": "pork",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "将之前的锅洗干净，并且擦干（不然加入油会崩出来）。；锅中加入油，开中火，放入姜蒜末爆香，放入五花肉和排骨。将五花肉和排骨",
+      "estimatedMinutes": 20,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": false,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 4
+    },
+    {
+      "id": "HowToCook:dishes/meat_dish/澳门湿版免治牛肉饭.md",
+      "name": "澳门湿版免治牛肉饭",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/meat_dish/澳门湿版免治牛肉饭.md",
+      "protein": "beef",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "将 200g 牛肉末放入碗中，加入 1 汤匙生抽、半汤匙白糖和 2g 黑胡椒，搅拌均匀，**等待腌制 10 分钟**。；",
+      "estimatedMinutes": 30,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 4
+    },
+    {
+      "id": "HowToCook:dishes/meat_dish/洋葱炒猪肉.md",
+      "name": "洋葱炒猪肉",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/meat_dish/洋葱炒猪肉.md",
+      "protein": "pork",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "原锅下洋葱翻炒 3~4 分钟后加入调味料炒匀；下刚盛起备用的猪肉翻炒至猪肉熟后",
+      "estimatedMinutes": 20,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": false,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 4
+    },
+    {
+      "id": "HowToCook:dishes/meat_dish/尖椒炒牛肉.md",
+      "name": "尖椒炒牛肉",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/meat_dish/尖椒炒牛肉.md",
+      "protein": "beef",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "加入蒜泥；蒜泥变金黄后加入尖椒",
+      "estimatedMinutes": 20,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": false,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 4
+    },
+    {
+      "id": "HowToCook:dishes/meat_dish/孜然牛肉.md",
+      "name": "孜然牛肉",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/meat_dish/孜然牛肉.md",
+      "protein": "beef",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "spicy",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "然后进行腌肉，加入生抽，淀粉，油，均匀搅拌，静止 30 分钟。腌肉方法也可参考[学习腌](../../tips/lear",
+      "estimatedMinutes": 20,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": false,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 4
+    },
+    {
+      "id": "HowToCook:dishes/meat_dish/可乐鸡翅.md",
+      "name": "可乐鸡翅",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/meat_dish/可乐鸡翅.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "锅重新小火起油，先将剩余姜片爆香，然后下入腌好的鸡翅。将鸡翅煎至金黄翻面（直到两面金黄），用炒菜勺子翻动一下鸡翅，与姜片",
+      "estimatedMinutes": 20,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": false,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 4
+    },
+    {
+      "id": "HowToCook:dishes/breakfast/韩国麻药鸡蛋.md",
+      "name": "韩国麻药鸡蛋",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/breakfast/韩国麻药鸡蛋.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well",
+        "spicy"
+      ],
+      "ingredients": [],
+      "method": "将切好的辣椒圈加入放凉的酱汁中。",
+      "estimatedMinutes": 30,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": false,
+      "heavy": false,
+      "spicyFriendly": true,
+      "homeScore": 4
+    },
+    {
+      "id": "HowToCook:dishes/aquatic/水煮鱼.md",
+      "name": "水煮鱼",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/aquatic/水煮鱼.md",
+      "protein": "fish",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "spicy",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "加入 30g 豆瓣酱，3g 盐，10ml 藤椒油，3g 白胡椒粉；用手抓匀后加入 5ml 菜籽油收尾封住口味",
+      "estimatedMinutes": 20,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 4
+    },
+    {
+      "id": "HowToCook:dishes/aquatic/黄油煎虾/黄油煎虾.md",
+      "name": "黄油煎虾",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/aquatic/黄油煎虾/黄油煎虾.md",
+      "protein": "shrimp",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "虾全部放入锅中，开始瓶磨黑胡椒，均匀地撒在虾上翻炒；虾变色后加入黄油，黄油完全融化后倒入调制酱汁，继续翻炒",
+      "estimatedMinutes": 20,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 4
+    },
+    {
+      "id": "HowToCook:dishes/aquatic/香煎翘嘴鱼/香煎翘嘴鱼.md",
+      "name": "香煎翘嘴鱼",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/aquatic/香煎翘嘴鱼/香煎翘嘴鱼.md",
+      "protein": "fish",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well",
+        "spicy",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "炒出佐料香味后，加入料酒，生抽，老抽，倒入热水，水量和鱼平齐或者少点",
+      "estimatedMinutes": 20,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 4
+    },
+    {
+      "id": "HowToCook:dishes/aquatic/蒜香黄油虾/蒜香黄油虾.md",
+      "name": "蒜香黄油虾",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/aquatic/蒜香黄油虾/蒜香黄油虾.md",
+      "protein": "shrimp",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "同一锅中加入黄油，融化后放入蒜末，小火炒香（约 30 秒）；如使用白葡萄酒，此时加入并煮至酒精挥发（约 1 分钟）",
+      "estimatedMinutes": 20,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 4
+    },
+    {
+      "id": "HowToCook:dishes/aquatic/蒜蓉虾/蒜蓉虾.md",
+      "name": "蒜蓉虾",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/aquatic/蒜蓉虾/蒜蓉虾.md",
+      "protein": "shrimp",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well"
+      ],
+      "ingredients": [],
+      "method": "锅中倒入热水，将盘子放入锅中，大火蒸 3 分钟",
+      "estimatedMinutes": 20,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 4
+    },
+    {
+      "id": "HowToCook:dishes/aquatic/葱油桂鱼/葱油桂鱼.md",
+      "name": "葱油桂鱼",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/aquatic/葱油桂鱼/葱油桂鱼.md",
+      "protein": "fish",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well",
+        "spicy",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "蒸鱼豉油；蒸笼（含蒸锅）",
+      "estimatedMinutes": 20,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 4
+    },
+    {
+      "id": "HowToCook:dishes/aquatic/芥末黄油罗氏虾/芥末黄油罗氏虾.md",
+      "name": "芥末黄油罗氏虾",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/aquatic/芥末黄油罗氏虾/芥末黄油罗氏虾.md",
+      "protein": "shrimp",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "罗氏虾沥掉水，锅中加入油，直接放入罗氏虾，中火，外表煎至金黄，捞出。；下入蒜蓉，大火，利用煎虾剩下的油继续煎炒蒜蓉，等到",
+      "estimatedMinutes": 20,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 4
+    },
+    {
+      "id": "HowToCook:dishes/aquatic/白灼虾/白灼虾.md",
+      "name": "白灼虾",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/aquatic/白灼虾/白灼虾.md",
+      "protein": "shrimp",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well"
+      ],
+      "ingredients": [],
+      "method": "参考原文步骤制作。",
+      "estimatedMinutes": 20,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 4
+    },
+    {
+      "id": "HowToCook:dishes/aquatic/清蒸鲈鱼/清蒸鲈鱼.md",
+      "name": "清蒸鲈鱼",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/aquatic/清蒸鲈鱼/清蒸鲈鱼.md",
+      "protein": "fish",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "# 清蒸鲈鱼的做法；蒸鱼豉油",
+      "estimatedMinutes": 20,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 4
+    },
+    {
+      "id": "HowToCook:dishes/meat_dish/黑椒牛柳/黑椒牛柳.md",
+      "name": "黑椒牛柳",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/meat_dish/黑椒牛柳/黑椒牛柳.md",
+      "protein": "beef",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "如果使用液态腌料，可以在腌制结束前三分钟撒一层黑胡椒粉，然后再加入淀粉，再次混合均匀后静置 20 分钟。；开火，热锅，加",
+      "estimatedMinutes": 20,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": false,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 4
+    },
+    {
+      "id": "HowToCook:dishes/meat_dish/香菇滑鸡/香菇滑鸡.md",
+      "name": "香菇滑鸡",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/meat_dish/香菇滑鸡/香菇滑鸡.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "fungi"
+      ],
+      "tags": [
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "油温 3 成，下入鸡腿肉煸炒，等鸡腿肉金黄后盛出备用；锅留底油，下入葱、姜、蒜炒香，香菇入锅，大火翻匀",
+      "estimatedMinutes": 20,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 4
+    },
+    {
+      "id": "HowToCook:dishes/meat_dish/醉排骨/醉排骨.md",
+      "name": "醉排骨",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/meat_dish/醉排骨/醉排骨.md",
+      "protein": "pork",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [],
+      "ingredients": [],
+      "method": "排骨中加入 5 g 地瓜粉和水进行搅拌，清洗 2-3 遍后放入大碗备用；排骨中加入鱼露、地瓜粉、鸡蛋黄 充分搅拌",
+      "estimatedMinutes": 30,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 4
+    },
+    {
+      "id": "HowToCook:dishes/meat_dish/豆豉鲮鱼油麦菜/豆豉鲮鱼油麦菜.md",
+      "name": "豆豉鲮鱼油麦菜",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/meat_dish/豆豉鲮鱼油麦菜/豆豉鲮鱼油麦菜.md",
+      "protein": "fish",
+      "vegTypes": [
+        "leafy"
+      ],
+      "tags": [
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "1. **食材处理**：；2. **炒制过程**：",
+      "estimatedMinutes": 20,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 4
+    },
+    {
+      "id": "HowToCook:dishes/meat_dish/芥末罗氏虾/芥末罗氏虾.md",
+      "name": "芥末罗氏虾",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/meat_dish/芥末罗氏虾/芥末罗氏虾.md",
+      "protein": "shrimp",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well",
+        "spicy",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "1. **处理虾**：；2. **蒜蓉及碗汁处理**：",
+      "estimatedMinutes": 30,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 4
+    },
+    {
+      "id": "HowToCook:dishes/meat_dish/清蒸鳜鱼/清蒸鳜鱼.md",
+      "name": "清蒸鳜鱼",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/meat_dish/清蒸鳜鱼/清蒸鳜鱼.md",
+      "protein": "fish",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well",
+        "spicy",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "# 清蒸鳜鱼的做法；![清蒸鳜鱼成品图](./清蒸鳜鱼成品图.jpg)",
+      "estimatedMinutes": 20,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 4
+    },
+    {
+      "id": "HowToCook:dishes/meat_dish/水煮牛肉/水煮牛肉.md",
+      "name": "水煮牛肉",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/meat_dish/水煮牛肉/水煮牛肉.md",
+      "protein": "beef",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well",
+        "spicy",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "加入 15g 姜丝，1 个鸡蛋，15g 淀粉，8g 蚝油，10ml 料酒搅拌均匀，腌制 15 分钟。；锅里倒油，加入豆瓣",
+      "estimatedMinutes": 20,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": false,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 4
+    },
+    {
+      "id": "HowToCook:dishes/meat_dish/新疆大盘鸡/新疆大盘鸡.md",
+      "name": "新疆大盘鸡",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/meat_dish/新疆大盘鸡/新疆大盘鸡.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well",
+        "spicy",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "炒糖色：先将油加入锅中，然后将白砂糖放入，用锅铲来回搅拌，将糖炒化，然后炒出焦黄色，此时将空干水的鸡肉倒入锅中翻炒，进行",
+      "estimatedMinutes": 20,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": false,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 4
+    },
+    {
+      "id": "HowToCook:dishes/meat_dish/姜葱捞鸡/姜葱捞鸡.md",
+      "name": "姜葱捞鸡",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/meat_dish/姜葱捞鸡/姜葱捞鸡.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "碗中加入盐焗鸡粉和 5ml 油，搅拌均匀；让鸡腿静置腌制 15 分钟， 同时准备蒸锅并把水煮开",
+      "estimatedMinutes": 20,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 4
+    },
+    {
+      "id": "CookLikeHOC:凉拌/口水鸡.md",
+      "name": "口水鸡",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/凉拌/口水鸡.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [],
+      "ingredients": [],
+      "method": "1. 口水鸡料配制（5 份）：125g 口水鸡底料、125g 拌菜红油、15g 蒜末、8g 藤椒油、50g 纯净水、20",
+      "estimatedMinutes": 20,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 4
+    },
+    {
+      "id": "HowToCook:dishes/soup/排骨苦瓜汤/排骨苦瓜汤.md",
+      "name": "排骨苦瓜汤",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/soup/排骨苦瓜汤/排骨苦瓜汤.md",
+      "protein": "pork",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "参考原文步骤制作。",
+      "estimatedMinutes": 30,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 4
+    },
+    {
+      "id": "HowToCook:dishes/staple/西红柿鸡蛋挂面/西红柿鸡蛋挂面.md",
+      "name": "西红柿鸡蛋挂面",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/staple/西红柿鸡蛋挂面/西红柿鸡蛋挂面.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "colorful"
+      ],
+      "tags": [
+        "reheats-well",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "锅中留底油后先加入葱白、蒜末炒香；加入西红柿块、青椒，待西红柿炒出一点汁水",
+      "estimatedMinutes": 20,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": false,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 4
+    },
+    {
+      "id": "HowToCook:dishes/vegetable_dish/鸡蛋羹/蒸箱鸡蛋羹.md",
+      "name": "蒸箱鸡蛋羹",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/vegetable_dish/鸡蛋羹/蒸箱鸡蛋羹.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [],
+      "ingredients": [],
+      "method": "# 蒸箱鸡蛋羹的做法；蒸箱鸡蛋羹，是一道简单快捷易做的菜，制作时长约为 15 分钟。适用于有家庭蒸箱的厨师。",
+      "estimatedMinutes": 20,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 4
+    },
+    {
+      "id": "HowToCook:dishes/vegetable_dish/西葫芦炒鸡蛋/西葫芦炒鸡蛋.md",
+      "name": "西葫芦炒鸡蛋",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/vegetable_dish/西葫芦炒鸡蛋/西葫芦炒鸡蛋.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "倒入鸡蛋，保持翻炒至鸡蛋成固体，用锅铲分成小块后盛到碗里，备用；倒入西葫芦一起翻炒均匀，放入 6g 食用盐，将火调小然后",
+      "estimatedMinutes": 20,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": false,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 4
+    },
+    {
+      "id": "HowToCook:dishes/vegetable_dish/菠菜炒鸡蛋/菠菜炒鸡蛋.md",
+      "name": "菠菜炒鸡蛋",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/vegetable_dish/菠菜炒鸡蛋/菠菜炒鸡蛋.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "leafy"
+      ],
+      "tags": [
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "热锅，加入 10ml 油；油热后，倒入鸡蛋液，中火翻炒 15 秒，先煎成蛋饼，然后再用锅铲切成小块",
+      "estimatedMinutes": 20,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": false,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 4
+    },
+    {
+      "id": "CookLikeHOC:蒸菜/香芋蒸排骨.md",
+      "name": "香芋蒸排骨",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/蒸菜/香芋蒸排骨.md",
+      "protein": "pork",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [],
+      "ingredients": [],
+      "method": "# 香芋蒸排骨；![香芋蒸排骨](../images/香芋蒸排骨.png)",
+      "estimatedMinutes": 20,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 4
+    },
+    {
+      "id": "CookLikeHOC:蒸菜/虾仁蒸鸡蛋.md",
+      "name": "虾仁蒸鸡蛋",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/蒸菜/虾仁蒸鸡蛋.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well"
+      ],
+      "ingredients": [],
+      "method": "# 虾仁蒸鸡蛋；![虾仁蒸鸡蛋](../images/虾仁蒸鸡蛋.jpg)",
+      "estimatedMinutes": 20,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 4
+    },
+    {
+      "id": "CookLikeHOC:蒸菜/葱油鸡.md",
+      "name": "葱油鸡",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/蒸菜/葱油鸡.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [],
+      "ingredients": [],
+      "method": "1. 葱油鸡调料配制（1 份）：40g 味极鲜酱油、10g 葱油、25g纯净水；2. 每 500g 鸡用 5g 盐、3g",
+      "estimatedMinutes": 20,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 4
+    },
+    {
+      "id": "CookLikeHOC:蒸菜/奥尔良鸡翅.md",
+      "name": "奥尔良鸡翅",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/蒸菜/奥尔良鸡翅.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [],
+      "ingredients": [],
+      "method": "蒸制版：将解冻好的奥尔良鸡翅放入上汽后的蒸柜中，蒸制 20 分钟。",
+      "estimatedMinutes": 20,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 4
+    },
+    {
+      "id": "CookLikeHOC:煮锅/金汤酸菜鱼.md",
+      "name": "金汤酸菜鱼",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/煮锅/金汤酸菜鱼.md",
+      "protein": "fish",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "spicy"
+      ],
+      "ingredients": [],
+      "method": "1. 底汤调配（10 份）： 1700g 白开水中加入 240g 金汤，搅拌均匀备用；2. 150g 去皮巴沙鱼片下入沸",
+      "estimatedMinutes": 20,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 4
+    },
+    {
+      "id": "CookLikeHOC:烫菜/鸡汤娃娃菜.md",
+      "name": "鸡汤娃娃菜",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/烫菜/鸡汤娃娃菜.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "leafy"
+      ],
+      "tags": [],
+      "ingredients": [],
+      "method": "将烫好的娃娃菜放入餐具中，加入 330g 老鸡汤出品。",
+      "estimatedMinutes": 30,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 4
+    },
+    {
+      "id": "CookLikeHOC:炸品/手枪大鸡腿.md",
+      "name": "手枪大鸡腿",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/炸品/手枪大鸡腿.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [],
+      "ingredients": [],
+      "method": "1. 解冻后的鸡腿放入蒸柜中，蒸5 分钟，备用；2. 将蒸好的大鸡腿放入170℃的油锅中炸制2 分30 秒。",
+      "estimatedMinutes": 20,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 4
+    },
+    {
+      "id": "CookLikeHOC:炖菜/鸡血汤.md",
+      "name": "鸡血汤",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/炖菜/鸡血汤.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [],
+      "ingredients": [],
+      "method": "加入 310g 老鸡汤,葱花点缀出品。",
+      "estimatedMinutes": 30,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 4
+    },
+    {
+      "id": "CookLikeHOC:炒菜/香椿炒鸡蛋.md",
+      "name": "香椿炒鸡蛋",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/炒菜/香椿炒鸡蛋.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "1. 下入250g 大豆油，将1500g 鸡蛋液炒成鸡蛋片状；2. 下入300g 香椿、60g 红椒、10g 盐、6g ",
+      "estimatedMinutes": 20,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": false,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 4
+    },
+    {
+      "id": "CookLikeHOC:炒菜/青椒炒鸡蛋.md",
+      "name": "青椒炒鸡蛋",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/炒菜/青椒炒鸡蛋.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "colorful"
+      ],
+      "tags": [
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "1. 锅中下入 200g 大豆油，将 600g 鸡蛋液炒成鸡蛋片，盛出备用；2. 锅中下入 100g 大豆油、1400g",
+      "estimatedMinutes": 20,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": false,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 4
+    },
+    {
+      "id": "CookLikeHOC:炒菜/蚕豆炒鸡蛋.md",
+      "name": "蚕豆炒鸡蛋",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/炒菜/蚕豆炒鸡蛋.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "1. 下入600g 鸡蛋液、200g 大豆油，炒成鸡蛋片，出锅备用；2. 下入50g 大豆油、900g 蚕豆、100g ",
+      "estimatedMinutes": 20,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": false,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 4
+    },
+    {
+      "id": "CookLikeHOC:炒菜/胡萝卜炒鸡蛋.md",
+      "name": "胡萝卜炒鸡蛋",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/炒菜/胡萝卜炒鸡蛋.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "colorful"
+      ],
+      "tags": [
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "1. 下入 200g 大豆油、600g 鸡蛋液，炒成鸡蛋片，出锅备用；2. 下入 100g 大豆油、1500g 胡萝卜丝",
+      "estimatedMinutes": 20,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": false,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 4
+    },
+    {
+      "id": "CookLikeHOC:汤/竹荪鹿茸菇鸡汤.md",
+      "name": "竹荪鹿茸菇鸡汤",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/汤/竹荪鹿茸菇鸡汤.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [],
+      "ingredients": [],
+      "method": "1. 汤底制作（10 份）:3000g 农夫山泉水、16g 花雕酒、16g 盐、12g 冰糖；2. 取 700g 鸡块、",
+      "estimatedMinutes": 30,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 4
+    },
+    {
+      "id": "CookLikeHOC:早餐/鸡汁汤包.md",
+      "name": "鸡汁汤包",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/早餐/鸡汁汤包.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [],
+      "ingredients": [],
+      "method": "蒸柜上汽后，蒸制 12 分钟。",
+      "estimatedMinutes": 20,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 4
+    },
+    {
+      "id": "CookLikeHOC:早餐/奶黄鸡包.md",
+      "name": "奶黄鸡包",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/早餐/奶黄鸡包.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [],
+      "ingredients": [],
+      "method": "蒸柜上汽后，蒸制 8 分钟。",
+      "estimatedMinutes": 20,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 4
+    },
+    {
+      "id": "CookLikeHOC:主食/番茄鸡蛋面.md",
+      "name": "番茄鸡蛋面",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/主食/番茄鸡蛋面.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "colorful"
+      ],
+      "tags": [
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "1. 番茄底汤调制（8 份）：3000g 开水中加入500g 番茄汤膏，搅拌均匀备用；2. 将110g 手工挂面在沸水中",
+      "estimatedMinutes": 30,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 4
+    },
+    {
+      "id": "CookLikeHOC:砂锅菜/砂锅酸菜鱼.md",
+      "name": "砂锅酸菜鱼",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/砂锅菜/砂锅酸菜鱼.md",
+      "protein": "fish",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well",
+        "spicy",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "1. 汤底调制（10 份）：3400g 开水中加入 480g 金汤，搅拌均匀备用；2. 将 50g 金针菇、50g 湿粉",
+      "estimatedMinutes": 20,
+      "reheatScore": 2,
+      "weekdayFriendly": false,
+      "light": true,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 4
+    },
+    {
+      "id": "CookLikeHOC:砂锅菜/砂锅泡椒鸡米花米线.md",
+      "name": "砂锅泡椒鸡米花米线",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/砂锅菜/砂锅泡椒鸡米花米线.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well",
+        "spicy",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "1. 10 份泡椒汤底调制：2900g 开水中加入140g 汤料、700g泡椒调味料，搅拌均匀备用；2. 砂锅中加入50",
+      "estimatedMinutes": 20,
+      "reheatScore": 2,
+      "weekdayFriendly": false,
+      "light": true,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 4
+    },
+    {
+      "id": "CookLikeHOC:煮锅/嗨嗨锅（泡椒鸡米花米线）.md",
+      "name": "嗨嗨锅（泡椒鸡米花米线）",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/煮锅/嗨嗨锅（泡椒鸡米花米线）.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well",
+        "spicy",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "1. 10 份泡椒骨汤汤底调制：2900g 开水中加入140g 骨汤调味料、700g 泡椒调味料，搅拌均匀备用；2. 奶",
+      "estimatedMinutes": 20,
+      "reheatScore": 2,
+      "weekdayFriendly": false,
+      "light": true,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 4
+    },
+    {
+      "id": "CookLikeHOC:炖菜/白菜炖豆腐.md",
+      "name": "白菜炖豆腐",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/炖菜/白菜炖豆腐.md",
+      "protein": "tofu",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well",
+        "workday"
+      ],
+      "ingredients": [
+        "熟猪油",
+        "3.下入 800g 白菜段，烧开后转小火，再次炖烧入味"
+      ],
+      "method": "1.下入 50g 大豆油、70g 熟猪油、30g 蒜子，炒出香味；2.下入 900g 水、炒菜基料包 1 袋、3 盒豆腐",
+      "estimatedMinutes": 45,
+      "reheatScore": 2,
+      "weekdayFriendly": false,
+      "light": true,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 4
+    },
+    {
+      "id": "HowToCook:dishes/meat_dish/烤鸡翅.md",
+      "name": "烤鸡翅",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/meat_dish/烤鸡翅.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [],
+      "ingredients": [],
+      "method": "可以在腌制鸡翅时加入蜂蜜、酱油、姜蒜粉、五香粉等作为调味料，提升口感和香气",
+      "estimatedMinutes": 30,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": false,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 3
+    },
+    {
+      "id": "HowToCook:dishes/meat_dish/意式烤鸡.md",
+      "name": "意式烤鸡",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/meat_dish/意式烤鸡.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [],
+      "ingredients": [],
+      "method": "参考原文步骤制作。",
+      "estimatedMinutes": 30,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": false,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 3
+    },
+    {
+      "id": "HowToCook:dishes/breakfast/鸡蛋三明治.md",
+      "name": "鸡蛋三明治",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/breakfast/鸡蛋三明治.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [],
+      "ingredients": [],
+      "method": "锅中加入黄油，煎熟培根；组装吐司，在两片吐司间加入制作好的鸡蛋酱及培根",
+      "estimatedMinutes": 30,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": false,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 3
+    },
+    {
+      "id": "HowToCook:dishes/breakfast/金枪鱼酱三明治.md",
+      "name": "金枪鱼酱三明治",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/breakfast/金枪鱼酱三明治.md",
+      "protein": "fish",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [],
+      "ingredients": [],
+      "method": "参考原文步骤制作。",
+      "estimatedMinutes": 30,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 3
+    },
+    {
+      "id": "HowToCook:dishes/breakfast/燕麦鸡蛋饼.md",
+      "name": "燕麦鸡蛋饼",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/breakfast/燕麦鸡蛋饼.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [],
+      "ingredients": [],
+      "method": "平底锅中加入一层黄油并覆盖均匀。；下入搅拌好的食材，并摊开至饼状。",
+      "estimatedMinutes": 30,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": false,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 3
+    },
+    {
+      "id": "HowToCook:dishes/aquatic/微波葱姜黑鳕鱼.md",
+      "name": "微波葱姜黑鳕鱼",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/aquatic/微波葱姜黑鳕鱼.md",
+      "protein": "fish",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "workday"
+      ],
+      "ingredients": [
+        "黑鳕鱼，带皮",
+        "调味料",
+        "青葱",
+        "料酒",
+        "酱油",
+        "芝麻油"
+      ],
+      "method": "参考原文步骤制作。",
+      "estimatedMinutes": 30,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 3
+    },
+    {
+      "id": "HowToCook:dishes/aquatic/混合烤鱼/烤鱼.md",
+      "name": "烤鱼",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/aquatic/混合烤鱼/烤鱼.md",
+      "protein": "fish",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well",
+        "spicy",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "把鱼放到容器中，加入料酒，10g 白胡椒粉，5g 食盐抹匀腌制二十分钟入味。；如果没有烤箱，可以热锅热油，锅的两边撒上 ",
+      "estimatedMinutes": 30,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 3
+    },
+    {
+      "id": "HowToCook:dishes/aquatic/干煎阿根廷红虾/干煎阿根廷红虾.md",
+      "name": "干煎阿根廷红虾",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/aquatic/干煎阿根廷红虾/干煎阿根廷红虾.md",
+      "protein": "shrimp",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "参考原文步骤制作。",
+      "estimatedMinutes": 30,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 3
+    },
+    {
+      "id": "HowToCook:dishes/meat_dish/酱牛肉/酱牛肉.md",
+      "name": "酱牛肉",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/meat_dish/酱牛肉/酱牛肉.md",
+      "protein": "beef",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well"
+      ],
+      "ingredients": [
+        "水开之后，大火转为小火，持续加热 90 分钟，加盐",
+        "取出后沿牛肉纹路切片，上桌食用，其他牛腱子肉建议不切片冷藏"
+      ],
+      "method": "牛腱子肉放入锅中，加入冷水至水面没过牛肉，开锅至水沸腾开始计时，同时捞出浮沫。3 分钟后停火，捞出牛肉，用温水洗净",
+      "estimatedMinutes": 30,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": false,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 3
+    },
+    {
+      "id": "HowToCook:dishes/staple/鲣鱼海苔玉米饭/鲣鱼海苔玉米饭.md",
+      "name": "鲣鱼海苔玉米饭",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/staple/鲣鱼海苔玉米饭/鲣鱼海苔玉米饭.md",
+      "protein": "fish",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well"
+      ],
+      "ingredients": [],
+      "method": "参考原文步骤制作。",
+      "estimatedMinutes": 30,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 3
+    },
+    {
+      "id": "HowToCook:dishes/staple/老友猪肉粉/老友猪肉粉.md",
+      "name": "老友猪肉粉",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/staple/老友猪肉粉/老友猪肉粉.md",
+      "protein": "pork",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "jiangxi-friendly",
+        "spicy",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "参考原文步骤制作。",
+      "estimatedMinutes": 30,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": false,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 3
+    },
+    {
+      "id": "HowToCook:dishes/vegetable_dish/鸡蛋花/鸡蛋花.md",
+      "name": "鸡蛋花",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/vegetable_dish/鸡蛋花/鸡蛋花.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well"
+      ],
+      "ingredients": [],
+      "method": "将糖或盐等调味料加入蛋液中，略微搅匀。",
+      "estimatedMinutes": 30,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": false,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 3
+    },
+    {
+      "id": "HowToCook:dishes/vegetable_dish/鸡蛋羹/微波炉鸡蛋羹.md",
+      "name": "微波炉鸡蛋羹",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/vegetable_dish/鸡蛋羹/微波炉鸡蛋羹.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [],
+      "ingredients": [],
+      "method": "加入水和盐，搅拌均匀。",
+      "estimatedMinutes": 30,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": false,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 3
+    },
+    {
+      "id": "CookLikeHOC:饮品/鸡笼香柠檬茶.md",
+      "name": "鸡笼香柠檬茶",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/饮品/鸡笼香柠檬茶.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [],
+      "ingredients": [],
+      "method": "1. 1000ml 乌龙茶（鸡笼香）调味茶饮料加入 3000ml 直饮冰水搅均；2. 放入保冷桶内保鲜 4 小时",
+      "estimatedMinutes": 30,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": false,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 3
+    },
+    {
+      "id": "CookLikeHOC:蒸菜/酱椒蒜香片片鱼.md",
+      "name": "酱椒蒜香片片鱼",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/蒸菜/酱椒蒜香片片鱼.md",
+      "protein": "fish",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [],
+      "ingredients": [],
+      "method": "1. 30g 娃娃菜和 30g 玉耳下入沸水中汆烫 15 秒后，冲凉备用；2. 120g 黑鱼片下入沸水中汆烫 30 秒",
+      "estimatedMinutes": 30,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 3
+    },
+    {
+      "id": "CookLikeHOC:蒸菜/白切鸡.md",
+      "name": "白切鸡",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/蒸菜/白切鸡.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [],
+      "ingredients": [],
+      "method": "1. 白切鸡料配制（15 份）：生抽 40g、味极鲜 200g、纯净水 200g、白砂糖 50g、葱花 20g、芝麻香油",
+      "estimatedMinutes": 30,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": false,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 3
+    },
+    {
+      "id": "CookLikeHOC:蒸菜/三色虾仁.md",
+      "name": "三色虾仁",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/蒸菜/三色虾仁.md",
+      "protein": "shrimp",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [],
+      "ingredients": [],
+      "method": "1. 每 150g 三色杂菜中放入 6g 大豆油、1g 鸡精、1g 盐、1g 白糖，拌匀备用；2. 将调味后的三色杂菜平",
+      "estimatedMinutes": 30,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 3
+    },
+    {
+      "id": "CookLikeHOC:炸品/鸡肉洋葱圈.md",
+      "name": "鸡肉洋葱圈",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/炸品/鸡肉洋葱圈.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [],
+      "ingredients": [],
+      "method": "1. 5 个鸡肉洋葱圈无需解冻直接放入170℃的油锅中炸制3 分钟。",
+      "estimatedMinutes": 30,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": false,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 3
+    },
+    {
+      "id": "CookLikeHOC:炸品/棒棒虾.md",
+      "name": "棒棒虾",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/炸品/棒棒虾.md",
+      "protein": "shrimp",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [],
+      "ingredients": [],
+      "method": "1. 棒棒虾无需解冻直接放入170℃的油锅中炸制8 分钟。",
+      "estimatedMinutes": 30,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 3
+    },
+    {
+      "id": "CookLikeHOC:炸品/心形鸡排.md",
+      "name": "心形鸡排",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/炸品/心形鸡排.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [],
+      "ingredients": [],
+      "method": "1. 鸡排无需解冻直接放入170℃的油锅中炸制8 分钟。",
+      "estimatedMinutes": 30,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": false,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 3
+    },
+    {
+      "id": "CookLikeHOC:炒菜/芋儿鸡.md",
+      "name": "芋儿鸡",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/炒菜/芋儿鸡.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well",
+        "spicy",
+        "workday"
+      ],
+      "ingredients": [
+        "熟猪油",
+        "大豆油",
+        "配菜",
+        "宽粉",
+        "芝麻香油",
+        "花椒油"
+      ],
+      "method": "1.下入 350g 菜籽油、200g 猪油、清洗好沥干水分的 3200g 鸡块，煸炒至表皮微黄；2.下入 50g 葱、1",
+      "estimatedMinutes": 20,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 3
+    },
+    {
+      "id": "CookLikeHOC:早餐/香酥牛肉饼.md",
+      "name": "香酥牛肉饼",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/早餐/香酥牛肉饼.md",
+      "protein": "beef",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [],
+      "ingredients": [],
+      "method": "参考原文步骤制作。",
+      "estimatedMinutes": 30,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": false,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 3
+    },
+    {
+      "id": "CookLikeHOC:早餐/牛肉盒.md",
+      "name": "牛肉盒",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/早餐/牛肉盒.md",
+      "protein": "beef",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [],
+      "ingredients": [],
+      "method": "参考原文步骤制作。",
+      "estimatedMinutes": 30,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": false,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 3
+    },
+    {
+      "id": "HowToCook:dishes/staple/空气炸锅照烧鸡饭/空气炸锅照烧鸡饭.md",
+      "name": "空气炸锅照烧鸡饭",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/staple/空气炸锅照烧鸡饭/空气炸锅照烧鸡饭.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well"
+      ],
+      "ingredients": [],
+      "method": "另一个碗中加入鸡肉、鸡蛋、1/2 料汁和压碎的丽滋饼干。搅拌均匀；空气炸锅用箔纸碗铺底，加入肉饼混合物，将剩余的料汁均匀",
+      "estimatedMinutes": 45,
+      "reheatScore": 2,
+      "weekdayFriendly": false,
+      "light": true,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 3
+    },
+    {
+      "id": "CookLikeHOC:砂锅菜/砂锅盐焗鸡.md",
+      "name": "砂锅盐焗鸡",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/砂锅菜/砂锅盐焗鸡.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "2. 将20g 洋葱丝平铺在砂锅底部，放入150g 切好的盐焗鸡，淋入25g 姜油，烧开后出品。",
+      "estimatedMinutes": 20,
+      "reheatScore": 2,
+      "weekdayFriendly": false,
+      "light": false,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 3
+    },
+    {
+      "id": "CookLikeHOC:砂锅菜/砂锅原味鸡汤米线.md",
+      "name": "砂锅原味鸡汤米线",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/砂锅菜/砂锅原味鸡汤米线.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well"
+      ],
+      "ingredients": [],
+      "method": "1. 每只鸡用2g 盐均匀揉搓鸡表皮，冷藏20 分钟；2. 每500g 老母鸡，加入16g 盐、60g 鸡油、2500g",
+      "estimatedMinutes": 45,
+      "reheatScore": 2,
+      "weekdayFriendly": false,
+      "light": true,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 3
+    },
+    {
+      "id": "CookLikeHOC:砂锅菜/砂锅三鲜豆腐.md",
+      "name": "砂锅三鲜豆腐",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/砂锅菜/砂锅三鲜豆腐.md",
+      "protein": "shrimp",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well"
+      ],
+      "ingredients": [
+        "白玉菇",
+        "开背虾",
+        "1. 锅中倒入 1050g 三鲜豆腐汤料直至烧开",
+        "2. 下入 1200g 豆腐，烧开后炖煮 5 分钟"
+      ],
+      "method": "1. 锅中倒入 1050g 三鲜豆腐汤料直至烧开；2. 下入 1200g 豆腐，烧开后炖煮 5 分钟",
+      "estimatedMinutes": 45,
+      "reheatScore": 2,
+      "weekdayFriendly": false,
+      "light": true,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 3
+    },
+    {
+      "id": "CookLikeHOC:煮锅/嗨嗨锅（酸菜鱼米线）.md",
+      "name": "嗨嗨锅（酸菜鱼米线）",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/煮锅/嗨嗨锅（酸菜鱼米线）.md",
+      "protein": "fish",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well",
+        "spicy"
+      ],
+      "ingredients": [],
+      "method": "1. 10 份米线汤底调制：3500g 开水中加入400g 豆米骨汤调味料、350g 泡椒调味料，搅拌均匀备用；2. 奶",
+      "estimatedMinutes": 30,
+      "reheatScore": 2,
+      "weekdayFriendly": false,
+      "light": true,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 3
+    },
+    {
+      "id": "CookLikeHOC:卤菜/卤鸡爪.md",
+      "name": "卤鸡爪",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/卤菜/卤鸡爪.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well",
+        "spicy"
+      ],
+      "ingredients": [],
+      "method": "1. 在不锈钢桶中放入 5000g 水、500g 卤料和 500g 卤油，大火烧开后，捞出料渣，备用；2. 解冻后的卤鸡",
+      "estimatedMinutes": 30,
+      "reheatScore": 2,
+      "weekdayFriendly": false,
+      "light": true,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 3
+    },
+    {
+      "id": "HowToCook:dishes/meat_dish/蒜苔炒肉末.md",
+      "name": "蒜苔炒肉末",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/meat_dish/蒜苔炒肉末.md",
+      "protein": "pork",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "放入蒜末，中火翻炒 **10 秒** 将蒜末炒出香味；放入五花肉和 5ml 生抽，中火翻炒 **30 秒** 将肉炒熟并",
+      "estimatedMinutes": 20,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": false,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 2
+    },
+    {
+      "id": "CookLikeHOC:蒸菜/鸡汁辣鱼.md",
+      "name": "鸡汁辣鱼",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/蒸菜/鸡汁辣鱼.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "spicy"
+      ],
+      "ingredients": [
+        "红椒",
+        "[老鸡汤]",
+        "2. 在酱料中放入 1500g 鱼块，翻拌均匀",
+        "3. 将拌好的辣鱼块分装到餐具中，每份点缀 3 块红椒片",
+        "4. 蒸柜上汽后，蒸制 15 分钟出品"
+      ],
+      "method": "1. 500g 鸡汁辣鱼料中加入 100g 热的老鸡汤，搅拌均匀；2. 在酱料中放入 1500g 鱼块，翻拌均匀",
+      "estimatedMinutes": 30,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": true,
+      "heavy": false,
+      "spicyFriendly": true,
+      "homeScore": 2
+    },
+    {
+      "id": "CookLikeHOC:炒菜/贵州风味辣子鸡.md",
+      "name": "贵州风味辣子鸡",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/炒菜/贵州风味辣子鸡.md",
+      "protein": "chicken",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "jiangxi-friendly",
+        "reheats-well",
+        "spicy",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "下入800g 辣子鸡酱料和150g 蒜子，炒至酱料沸腾；加入1700g 炸制鸡块，翻炒4 分钟。",
+      "estimatedMinutes": 20,
+      "reheatScore": 0,
+      "weekdayFriendly": true,
+      "light": false,
+      "heavy": true,
+      "spicyFriendly": true,
+      "homeScore": 2
+    },
+    {
+      "id": "HowToCook:dishes/meat_dish/广式萝卜牛腩/广式萝卜牛腩.md",
+      "name": "广式萝卜牛腩",
+      "sourceRepo": "HowToCook",
+      "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/meat_dish/广式萝卜牛腩/广式萝卜牛腩.md",
+      "protein": "beef",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well",
+        "spicy",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "牛腩整块焯水，加入 2 片姜和一把葱结，等水开之后煮 5-10 分钟，然后捞出切件；将牛腩切块，切成自己喜欢的大小（牛腩",
+      "estimatedMinutes": 45,
+      "reheatScore": 2,
+      "weekdayFriendly": false,
+      "light": false,
+      "heavy": false,
+      "spicyFriendly": false,
+      "homeScore": 2
+    },
+    {
+      "id": "CookLikeHOC:煮锅/金汤酸菜鱼（大份）.md",
+      "name": "金汤酸菜鱼（大份）",
+      "sourceRepo": "CookLikeHOC",
+      "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/煮锅/金汤酸菜鱼（大份）.md",
+      "protein": "fish",
+      "vegTypes": [
+        "other"
+      ],
+      "tags": [
+        "reheats-well",
+        "workday"
+      ],
+      "ingredients": [],
+      "method": "1. 底汤调配（5 份）： 2480g 白开水、350g 金汤，搅拌均匀备用；2. 80g 娃娃菜和泡发好的 85g 粉",
+      "estimatedMinutes": 20,
+      "reheatScore": 0,
+      "weekdayFriendly": false,
+      "light": true,
+      "heavy": true,
+      "spicyFriendly": false,
+      "homeScore": 2
+    }
+  ]
+}

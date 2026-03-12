@@ -1,0 +1,102 @@
+{
+  "version": 1,
+  "profile": {
+    "age": 28,
+    "weightKg": 67,
+    "goal": "maintain",
+    "style": ["home-cooking", "healthy", "jiangxi-light-spicy"],
+    "shoppingPattern": {
+      "mainPurchaseDays": ["Saturday", "Sunday"],
+      "replenishDays": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+    }
+  },
+  "weeks": [
+    {
+      "id": "week-a",
+      "name": "均衡基础周",
+      "days": {
+        "Monday": {
+          "breakfast": "`燕麦 + 水煮蛋2个 + 无糖酸奶 + 香蕉`",
+          "cookOnce": "`番茄炖牛腩 + 清炒西兰花 + 米饭`",
+          "dinnerReuse": "`中午留一份，晚上复热`",
+          "purchaseMode": "replenish",
+          "buy": {
+            "replenish": ["`番茄`", "`西兰花`", "`香蕉`", "`无糖酸奶`"]
+          },
+          "note": "`牛腩可少量加小米椒，做微辣版`"
+        },
+        "Tuesday": {
+          "breakfast": "`全麦面包 + 煎蛋2个 + 牛奶 + 苹果`",
+          "cookOnce": "`青椒鸡丁 + 蒜蓉生菜 + 米饭`",
+          "dinnerReuse": "`中午留一份，晚上复热`",
+          "purchaseMode": "replenish",
+          "buy": {"replenish": ["`生菜`", "`苹果`", "`青椒`"]},
+          "note": "`鸡丁适合微辣，更下饭`"
+        },
+        "Wednesday": {
+          "breakfast": "`玉米 + 鸡蛋2个 + 无糖酸奶 + 橙子`",
+          "cookOnce": "`土豆烧牛肉 + 清炒油麦菜 + 米饭`",
+          "dinnerReuse": "`中午留一份，晚上复热`",
+          "purchaseMode": "replenish",
+          "buy": {"replenish": ["`油麦菜`", "`橙子`", "`土豆`"]},
+          "note": "`今天补叶菜即可，不必再补肉`"
+        },
+        "Thursday": {
+          "breakfast": "`燕麦粥 + 茶叶蛋2个 + 梨`",
+          "cookOnce": "`家常炖鸡块 + 青菜 + 米饭`",
+          "dinnerReuse": "`中午留一份，晚上复热`",
+          "purchaseMode": "replenish",
+          "buy": {"replenish": ["`青菜`", "`梨`", "`菌菇`"]},
+          "note": "`可放剁椒，做江西家常微辣版`"
+        },
+        "Friday": {
+          "breakfast": "`全麦吐司 + 鸡蛋2个 + 牛奶`",
+          "cookOnce": "`芹菜香干炒肉丝 + 番茄炒蛋 + 米饭`",
+          "dinnerReuse": "`中午留一份，晚上复热`",
+          "purchaseMode": "replenish",
+          "buy": {"replenish": ["`芹菜`", "`番茄`", "`香干`"]},
+          "note": "`周末前清库存，别补太多`"
+        },
+        "Saturday": {
+          "breakfast": "`山药粥 + 水煮蛋2个 + 苹果`",
+          "cookOnce": "`洋葱牛肉 + 清炒菜心 + 米饭`",
+          "dinnerReuse": "`中午留一份，晚上复热`",
+          "purchaseMode": "main",
+          "buy": {
+            "protein": ["`鸡腿/鸡胸 1.5kg`", "`牛肉 600g`", "`鸡蛋 12个`", "`豆腐 2盒`", "`无糖酸奶 4杯`"],
+            "durableVeg": ["`西兰花 2颗`", "`土豆 4个`", "`洋葱 3个`", "`冬瓜 1块`", "`胡萝卜 2根`"],
+            "breakfastStaples": ["`燕麦`", "`大米`", "`全麦面包`", "`玉米/山药`"],
+            "fruitExtra": ["`香蕉`", "`苹果`", "`橙子/梨`", "`小米椒/剁椒`"]
+          },
+          "note": "`主采购日：按未来3-5天备货`"
+        },
+        "Sunday": {
+          "breakfast": "`杂粮粥 + 鸡蛋2个 + 酸奶`",
+          "cookOnce": "`香菇板栗鸡 + 生菜 + 米饭`",
+          "dinnerReuse": "`中午留一份，晚上复热`",
+          "purchaseMode": "main",
+          "buy": {
+            "protein": ["`鱼/虾 2份`", "`瘦肉 400g`", "`豆制品补1-2盒`"],
+            "durableVeg": ["`南瓜`", "`木耳`", "`香菇`"],
+            "breakfastStaples": ["`牛奶/豆浆`"],
+            "fruitExtra": ["`按缺口补水果`"]
+          },
+          "note": "`主采购补齐版：把下周缺口补完整`"
+        }
+      }
+    },
+    {
+      "id": "week-b",
+      "name": "鱼虾轻油周",
+      "days": {
+        "Monday": {"breakfast":"`燕麦 + 鸡蛋2个 + 酸奶`","cookOnce":"`清蒸鱼 + 蒜蓉菠菜 + 米饭`","dinnerReuse":"`中午留一份，晚上复热`","purchaseMode":"replenish","buy":{"replenish":["`菠菜`","`鱼`"]},"note":"`今天走清淡线`"},
+        "Tuesday": {"breakfast":"`全麦面包 + 牛奶 + 苹果`","cookOnce":"`辣椒炒鸡胸 + 生菜 + 米饭`","dinnerReuse":"`中午留一份，晚上复热`","purchaseMode":"replenish","buy":{"replenish":["`生菜`","`青红椒`"]},"note":"`微辣版更像家常小炒`"},
+        "Wednesday": {"breakfast":"`玉米 + 鸡蛋2个 + 橙子`","cookOnce":"`虾仁豆腐煲 + 西葫芦 + 米饭`","dinnerReuse":"`中午留一份，晚上复热`","purchaseMode":"replenish","buy":{"replenish":["`西葫芦`","`豆腐`"]},"note":"`虾仁别炒太老`"},
+        "Thursday": {"breakfast":"`燕麦粥 + 茶叶蛋2个`","cookOnce":"`土豆烧鸡块 + 青菜 + 米饭`","dinnerReuse":"`中午留一份，晚上复热`","purchaseMode":"replenish","buy":{"replenish":["`青菜`","`土豆`"]},"note":"`可放剁椒提味`"},
+        "Friday": {"breakfast":"`吐司 + 鸡蛋2个 + 牛奶`","cookOnce":"`番茄牛肉末 + 菜心 + 米饭`","dinnerReuse":"`中午留一份，晚上复热`","purchaseMode":"replenish","buy":{"replenish":["`番茄`","`菜心`"]},"note":"`周五少补货，防周末重复买`"},
+        "Saturday": {"breakfast":"`山药粥 + 苹果`","cookOnce":"`洋葱牛肉 + 西兰花 + 米饭`","dinnerReuse":"`中午留一份，晚上复热`","purchaseMode":"main","buy":{"protein":["`鸡肉 1kg`","`牛肉 700g`","`虾仁 500g`","`鸡蛋 12个`"],"durableVeg":["`西兰花 2颗`","`洋葱 3个`","`土豆 4个`","`冬瓜 1块`"],"breakfastStaples":["`燕麦`","`大米`","`全麦面包`"],"fruitExtra":["`苹果`","`香蕉`","`小米椒`"]},"note":"`主采购日`"},
+        "Sunday": {"breakfast":"`杂粮粥 + 酸奶`","cookOnce":"`豆豉蒸排骨/鸡腿 + 生菜 + 米饭`","dinnerReuse":"`中午留一份，晚上复热`","purchaseMode":"main","buy":{"protein":["`鱼 2份`","`豆腐 2盒`"],"durableVeg":["`香菇`","`木耳`"],"breakfastStaples":["`牛奶/豆浆`"],"fruitExtra":["`橙子/梨`"]},"note":"`主采购补齐版`"}
+      }
+    }
+  ]
+}

@@ -1,0 +1,333 @@
+{
+  "version": 1,
+  "activeWeekId": null,
+  "activeWeekStart": null,
+  "history": [],
+  "generatedWeekStart": "2026-03-09",
+  "generatedAt": "2026-03-12T12:19:02.224367",
+  "generatedWeekPlan": {
+    "weekStart": "2026-03-09",
+    "days": {
+      "Monday": {
+        "breakfast": "`燕麦 + 鸡蛋2个 + 无糖酸奶 + 香蕉`",
+        "main": {
+          "id": "CookLikeHOC:蒸菜/胡萝卜牛肉.md",
+          "name": "胡萝卜牛肉",
+          "sourceRepo": "CookLikeHOC",
+          "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/蒸菜/胡萝卜牛肉.md",
+          "protein": "beef",
+          "vegTypes": [
+            "colorful"
+          ],
+          "tags": [
+            "reheats-well"
+          ],
+          "ingredients": [],
+          "method": "1. 餐具中加入 110g 胡萝卜片；2. 取 55g 红烧牛肉片平铺在胡萝卜上，再加入 70g 红烧牛肉汤汁",
+          "estimatedMinutes": 20,
+          "reheatScore": 2,
+          "weekdayFriendly": true,
+          "light": true,
+          "heavy": false,
+          "spicyFriendly": false,
+          "homeScore": 6
+        },
+        "side": {
+          "name": "上汤娃娃菜",
+          "method": "`娃娃菜加高汤煮到入味。`",
+          "vegType": "leafy",
+          "light": true,
+          "substantial": 2,
+          "kind": "soup"
+        },
+        "cookOnce": "`胡萝卜牛肉 + 上汤娃娃菜 + 米饭`",
+        "dinnerReuse": "`中午留一份，晚上复热`",
+        "note": "`口味清爽`"
+      },
+      "Tuesday": {
+        "breakfast": "`全麦面包 + 鸡蛋2个 + 牛奶 + 苹果`",
+        "main": {
+          "id": "CookLikeHOC:炒菜/宫保鸡丁.md",
+          "name": "宫保鸡丁",
+          "sourceRepo": "CookLikeHOC",
+          "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/炒菜/宫保鸡丁.md",
+          "protein": "chicken",
+          "vegTypes": [
+            "other"
+          ],
+          "tags": [
+            "reheats-well",
+            "spicy",
+            "workday"
+          ],
+          "ingredients": [],
+          "method": "1. 180g 大豆油烧至 170℃，下入 1050g 鸡丁煸炒变色；2. 倒入 250g 胡萝卜丁翻炒至表面微软",
+          "estimatedMinutes": 20,
+          "reheatScore": 2,
+          "weekdayFriendly": true,
+          "light": false,
+          "heavy": false,
+          "spicyFriendly": true,
+          "homeScore": 7
+        },
+        "side": {
+          "name": "香菇青菜",
+          "method": "`香菇和青菜同炒，鲜味更足。`",
+          "vegType": "fungi",
+          "light": true,
+          "substantial": 2,
+          "kind": "mixed"
+        },
+        "cookOnce": "`宫保鸡丁 + 香菇青菜 + 米饭`",
+        "dinnerReuse": "`中午留一份，晚上复热`",
+        "note": "`可做微辣版`"
+      },
+      "Wednesday": {
+        "breakfast": "`玉米 + 鸡蛋2个 + 无糖酸奶 + 橙子`",
+        "main": {
+          "id": "HowToCook:dishes/meat_dish/豉汁排骨.md",
+          "name": "豉汁排骨",
+          "sourceRepo": "HowToCook",
+          "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/meat_dish/豉汁排骨.md",
+          "protein": "pork",
+          "vegTypes": [
+            "other"
+          ],
+          "tags": [
+            "reheats-well"
+          ],
+          "ingredients": [],
+          "method": "豉汁排骨是粤式茶楼经典蒸点，豉香浓郁，排骨滑嫩多汁，超下饭！；水开后上锅蒸 18 分钟",
+          "estimatedMinutes": 20,
+          "reheatScore": 2,
+          "weekdayFriendly": true,
+          "light": true,
+          "heavy": true,
+          "spicyFriendly": false,
+          "homeScore": 7
+        },
+        "side": {
+          "name": "西红柿豆腐汤羹",
+          "method": "`番茄炒出汁后加豆腐煮开。`",
+          "vegType": "colorful",
+          "light": true,
+          "substantial": 2,
+          "kind": "soup"
+        },
+        "cookOnce": "`豉汁排骨 + 西红柿豆腐汤羹 + 米饭`",
+        "dinnerReuse": "`中午留一份，晚上复热`",
+        "note": "`口味清爽`"
+      },
+      "Thursday": {
+        "breakfast": "`燕麦粥 + 茶叶蛋2个 + 梨`",
+        "main": {
+          "id": "CookLikeHOC:炒菜/小炒鸡丁.md",
+          "name": "小炒鸡丁",
+          "sourceRepo": "CookLikeHOC",
+          "sourcePath": "/tmp/cooklikehoc_repo/CookLikeHOC-main/炒菜/小炒鸡丁.md",
+          "protein": "chicken",
+          "vegTypes": [
+            "other"
+          ],
+          "tags": [
+            "jiangxi-friendly",
+            "reheats-well",
+            "spicy",
+            "workday"
+          ],
+          "ingredients": [
+            "老抽",
+            "蒜子",
+            "鲜红小米辣",
+            "大豆油",
+            "藤椒油",
+            "2. 下入 60g 蒜子炒香"
+          ],
+          "method": "1. 取 150g 大豆油烧热，加入 1400g 鸡丁煸炒至变色；2. 下入 60g 蒜子炒香",
+          "estimatedMinutes": 20,
+          "reheatScore": 2,
+          "weekdayFriendly": true,
+          "light": false,
+          "heavy": false,
+          "spicyFriendly": true,
+          "homeScore": 7
+        },
+        "side": {
+          "name": "清炒包菜",
+          "method": "`包菜大火快炒到断生。`",
+          "vegType": "leafy",
+          "light": true,
+          "substantial": 2,
+          "kind": "veg"
+        },
+        "cookOnce": "`小炒鸡丁 + 清炒包菜 + 米饭`",
+        "dinnerReuse": "`中午留一份，晚上复热`",
+        "note": "`可做微辣版`"
+      },
+      "Friday": {
+        "breakfast": "`全麦吐司 + 鸡蛋2个 + 牛奶`",
+        "main": {
+          "id": "HowToCook:dishes/aquatic/红烧鱼头.md",
+          "name": "红烧鱼头",
+          "sourceRepo": "HowToCook",
+          "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/aquatic/红烧鱼头.md",
+          "protein": "fish",
+          "vegTypes": [
+            "other"
+          ],
+          "tags": [
+            "reheats-well",
+            "spicy",
+            "workday"
+          ],
+          "ingredients": [],
+          "method": "将清洗好的鱼块放入盆中，加入 5g 盐、10g 生抽、10g 料酒。放入葱（前半段切碎的那个）、1/3 姜片。将其拌匀，",
+          "estimatedMinutes": 20,
+          "reheatScore": 2,
+          "weekdayFriendly": true,
+          "light": true,
+          "heavy": true,
+          "spicyFriendly": false,
+          "homeScore": 7
+        },
+        "side": {
+          "name": "蒜蓉西兰花",
+          "method": "`西兰花焯水后淋蒜蓉汁。`",
+          "vegType": "cruciferous",
+          "light": true,
+          "substantial": 2,
+          "kind": "veg"
+        },
+        "cookOnce": "`红烧鱼头 + 蒜蓉西兰花 + 米饭`",
+        "dinnerReuse": "`中午留一份，晚上复热`",
+        "note": "`口味清爽`"
+      },
+      "Saturday": {
+        "breakfast": "`山药粥 + 水煮蛋2个 + 苹果`",
+        "main": {
+          "id": "HowToCook:dishes/aquatic/红烧鲤鱼.md",
+          "name": "红烧鲤鱼",
+          "sourceRepo": "HowToCook",
+          "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/aquatic/红烧鲤鱼.md",
+          "protein": "fish",
+          "vegTypes": [
+            "other"
+          ],
+          "tags": [
+            "reheats-well",
+            "spicy",
+            "workday"
+          ],
+          "ingredients": [],
+          "method": "锅里多倒点油，烧至 7 成热（刚刚开始冒烟），下入鱼炸 1 分钟至鱼皮稍稍变硬捞出备用（注意不要一下锅就拨弄鱼，等炸一会",
+          "estimatedMinutes": 20,
+          "reheatScore": 2,
+          "weekdayFriendly": true,
+          "light": true,
+          "heavy": true,
+          "spicyFriendly": true,
+          "homeScore": 7
+        },
+        "side": {
+          "name": "番茄炒蛋",
+          "method": "`番茄炒出汁后下蛋快速翻匀。`",
+          "vegType": "colorful",
+          "light": true,
+          "substantial": 2,
+          "kind": "egg"
+        },
+        "cookOnce": "`红烧鲤鱼 + 番茄炒蛋 + 米饭`",
+        "dinnerReuse": "`中午留一份，晚上复热`",
+        "note": "`可做微辣版`"
+      },
+      "Sunday": {
+        "breakfast": "`杂粮粥 + 鸡蛋2个 + 酸奶`",
+        "main": {
+          "id": "HowToCook:dishes/aquatic/油焖大虾/油焖大虾.md",
+          "name": "油焖大虾",
+          "sourceRepo": "HowToCook",
+          "sourcePath": "/tmp/howtocook_repo/HowToCook-master/dishes/aquatic/油焖大虾/油焖大虾.md",
+          "protein": "shrimp",
+          "vegTypes": [
+            "other"
+          ],
+          "tags": [
+            "reheats-well"
+          ],
+          "ingredients": [],
+          "method": "# 油焖大虾的做法；![成品](./油焖大虾.jpg)",
+          "estimatedMinutes": 30,
+          "reheatScore": 2,
+          "weekdayFriendly": true,
+          "light": true,
+          "heavy": false,
+          "spicyFriendly": false,
+          "homeScore": 5
+        },
+        "side": {
+          "name": "金针菇日本豆腐煲",
+          "method": "`豆腐和金针菇烧入味，口感更完整。`",
+          "vegType": "fungi",
+          "light": true,
+          "substantial": 3,
+          "kind": "tofu"
+        },
+        "cookOnce": "`油焖大虾 + 金针菇日本豆腐煲 + 米饭`",
+        "dinnerReuse": "`中午留一份，晚上复热`",
+        "note": "`口味清爽`"
+      }
+    },
+    "weeklyBuy": {
+      "protein": [
+        "鸡肉",
+        "牛肉/猪肉",
+        "鱼/虾",
+        "豆腐",
+        "鸡蛋"
+      ],
+      "durableVeg": [
+        "土豆",
+        "洋葱",
+        "西兰花",
+        "冬瓜/南瓜",
+        "胡萝卜"
+      ],
+      "sideSupport": [
+        "鸡蛋",
+        "豆干/香干",
+        "木耳",
+        "香菇",
+        "番茄",
+        "黄瓜",
+        "青椒",
+        "菠菜/青菜"
+      ],
+      "breakfastStaples": [
+        "燕麦",
+        "大米",
+        "全麦面包",
+        "酸奶",
+        "牛奶"
+      ],
+      "fruitExtra": [
+        "香蕉",
+        "苹果",
+        "橙子/梨",
+        "小米椒/剁椒"
+      ]
+    },
+    "proteinCounts": {
+      "beef": 1,
+      "chicken": 2,
+      "pork": 1,
+      "fish": 2,
+      "shrimp": 1
+    },
+    "sideDiversity": {
+      "leafy": 2,
+      "fungi": 2,
+      "colorful": 2,
+      "cruciferous": 1
+    }
+  }
+}

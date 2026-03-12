@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "source": {
+    "primary": "https://github.com/Anduin2017/HowToCook",
+    "secondary": "https://github.com/Gar-b-age/CookLikeHOC"
+  },
+  "breakfasts": [
+    {"id":"bf-oat-egg-yogurt","name":"燕麦+鸡蛋+酸奶+水果","style":["high-protein","quick"],"ingredients":["燕麦","鸡蛋","无糖酸奶","香蕉/苹果/橙子"],"method":"燕麦冲煮，鸡蛋水煮，水果洗净即可。"},
+    {"id":"bf-toast-egg-milk","name":"全麦面包+鸡蛋+牛奶","style":["quick"],"ingredients":["全麦面包","鸡蛋","牛奶"],"method":"鸡蛋煮或煎，全麦面包直接搭配牛奶。"},
+    {"id":"bf-corn-egg-fruit","name":"玉米+鸡蛋+水果","style":["quick"],"ingredients":["玉米","鸡蛋","橙子/苹果"],"method":"玉米蒸熟，鸡蛋水煮。"}
+  ],
+  "mains": [
+    {"id":"hc-xghj","name":"香菇滑鸡","protein":"chicken","tags":["home","jiangxi-friendly","reheats-well"],"difficulty":3,"source":"HowToCook/dishes/meat_dish/香菇滑鸡/香菇滑鸡.md","ingredients":["鸡腿","干香菇","姜","葱","蒜"],"method":"鸡腿切块焯水，香菇泡发；鸡腿先煸香，再和葱姜蒜、香菇、香菇水一起收汁。"},
+    {"id":"hc-qjtcdr","name":"青椒土豆炒肉","protein":"pork","tags":["stir-fry","jiangxi-friendly","reheats-well"],"difficulty":3,"source":"HowToCook/dishes/meat_dish/青椒土豆炒肉/青椒土豆炒肉.md","ingredients":["青椒","土豆","猪肉","葱姜蒜"],"method":"猪肉先炒变色，加入葱姜蒜和土豆片炒至断生，再下青椒大火翻炒，可少量勾芡。"},
+    {"id":"hc-hmj","name":"黄焖鸡","protein":"chicken","tags":["one-pot","reheats-well"],"difficulty":3,"source":"HowToCook/dishes/meat_dish/黄焖鸡.md","ingredients":["鸡腿/鸡块","土豆","青椒/香菇","姜蒜"],"method":"鸡块煸香后加配菜和调味焖煮收汁。"},
+    {"id":"hc-hjny","name":"黑椒牛柳","protein":"beef","tags":["stir-fry","workday"],"difficulty":3,"source":"HowToCook/dishes/meat_dish/黑椒牛柳/黑椒牛柳.md","ingredients":["牛柳","洋葱","黑胡椒"],"method":"牛柳腌后快速滑炒，加入洋葱和黑椒汁快炒出锅。"},
+    {"id":"hc-mpdf","name":"麻婆豆腐","protein":"tofu","tags":["spicy","jiangxi-friendly","reheats-well"],"difficulty":2,"source":"HowToCook/dishes/meat_dish/麻婆豆腐/麻婆豆腐.md","ingredients":["豆腐","肉末","豆瓣酱/辣椒","葱蒜"],"method":"肉末炒香后下豆瓣酱，加入豆腐小火烧入味，最后勾芡。"},
+    {"id":"hc-ysrs","name":"鱼香肉丝","protein":"pork","tags":["spicy","stir-fry","reheats-well"],"difficulty":3,"source":"HowToCook/dishes/meat_dish/鱼香肉丝.md","ingredients":["猪肉","木耳","胡萝卜","青椒"],"method":"肉丝滑炒后加入配菜和鱼香汁快炒收汁。"},
+    {"id":"hc-gbj","name":"宫保鸡丁","protein":"chicken","tags":["spicy","stir-fry"],"difficulty":3,"source":"HowToCook/dishes/meat_dish/宫保鸡丁/宫保鸡丁.md","ingredients":["鸡丁","花生米","干辣椒","黄瓜/葱段"],"method":"鸡丁滑炒后加干辣椒和宫保汁，最后拌花生。"},
+    {"id":"hc-gslbnn","name":"广式萝卜牛腩","protein":"beef","tags":["stew","reheats-well"],"difficulty":3,"source":"HowToCook/dishes/meat_dish/广式萝卜牛腩/广式萝卜牛腩.md","ingredients":["牛腩","白萝卜","姜蒜"],"method":"牛腩炖软后加入萝卜继续焖煮。"},
+    {"id":"manual-shrimp-tofu","name":"番茄豆腐虾仁煲","protein":"shrimp","tags":["light","reheats-well"],"difficulty":2,"source":"manual","ingredients":["虾仁","豆腐","番茄"],"method":"番茄炒出汁，加水后放豆腐和虾仁，小火煮至入味。"},
+    {"id":"manual-steamed-fish","name":"清蒸鱼","protein":"fish","tags":["light","weekend"],"difficulty":2,"source":"manual","ingredients":["鲈鱼/鳕鱼","姜","葱"],"method":"鱼加姜葱蒸熟，淋蒸鱼豉油和热油。"}
+  ],
+  "sides": [
+    {"id":"hc-srxlh","name":"蒜蓉西兰花","type":"veg","source":"HowToCook/dishes/vegetable_dish/蒜蓉西兰花.md","ingredients":["西兰花","大蒜"],"method":"西兰花焯水，另起锅炒蒜蓉汁后淋上。"},
+    {"id":"hc-lb-hg","name":"凉拌黄瓜","type":"veg","source":"HowToCook/dishes/vegetable_dish/凉拌黄瓜.md","ingredients":["黄瓜"],"method":"黄瓜拍碎切段，加蒜、醋、生抽拌匀。"},
+    {"id":"hc-cqj","name":"炒青菜","type":"veg","source":"HowToCook/dishes/vegetable_dish/炒青菜.md","ingredients":["青菜"],"method":"大火快炒，加少量蒜和盐调味。"},
+    {"id":"hc-hysc","name":"蚝油生菜","type":"veg","source":"HowToCook/dishes/vegetable_dish/蚝油生菜.md","ingredients":["生菜"],"method":"生菜焯或快炒后淋蚝油汁。"},
+    {"id":"hc-lb-me","name":"凉拌木耳","type":"veg","source":"HowToCook/dishes/vegetable_dish/凉拌木耳/凉拌木耳.md","ingredients":["木耳"],"method":"木耳焯熟后加蒜、醋、生抽拌匀。"},
+    {"id":"hc-xhscdfth","name":"西红柿豆腐汤羹","type":"soup","source":"HowToCook/dishes/vegetable_dish/西红柿豆腐汤羹/西红柿豆腐汤羹.md","ingredients":["番茄","豆腐"],"method":"番茄炒出汁后加水煮，放豆腐煮开即可。"}
+  ]
+}
