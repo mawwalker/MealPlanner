@@ -108,6 +108,10 @@ For each week, generate separately:
 - one weekly shopping recommendation
 - one compact weekly menu view
 
+Important delivery rule:
+- on `Monday`, include the **weekly plan + weekly shopping recommendation first**, then append the current day's plan
+- on other days, daily reminders may send only the current day's plan
+
 ### Weekly nutrition logic
 Prefer a weekly protein distribution close to:
 - `chicken`: 2 days

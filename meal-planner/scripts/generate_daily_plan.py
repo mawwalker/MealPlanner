@@ -7,6 +7,7 @@ BASE = Path('/home/dsm/.openclaw/workspace')
 STATE = BASE / 'diet' / 'state.json'
 WEEKDAYS = ['Monday','Tuesday','Wednesday','Thursday','Friday','Saturday','Sunday']
 CN = {'Monday':'周一','Tuesday':'周二','Wednesday':'周三','Thursday':'周四','Friday':'周五','Saturday':'周六','Sunday':'周日'}
+ORDER = ['Monday','Tuesday','Wednesday','Thursday','Friday','Saturday','Sunday']
 
 def load_json(p):
     return json.loads(p.read_text())
@@ -23,13 +24,30 @@ def concise_method(name, raw):
         return '`鸡肉先炒香，再和配菜一起焖到入味。`'
     return f'`{raw[:28]}...`' if len(raw) > 30 else f'`{raw}`'
 
+def render_weekly(wp):
+    lines = []
+    lines.append('【本周菜谱计划】')
+    lines.append('日期 | 主菜 | 配菜 | 备注')
+    for d in ORDER:
+        e = wp['days'][d]
+        lines.append(f"{CN[d]} | `{e['main']['name']}` | `{e['side']['name']}` | {e['note']}")
+    lines.append('')
+    lines.append('【本周采购建议】')
+    lines.append('类别 | 食材')
+    wb = wp['weeklyBuy']
+    lines.append('蛋白质 | ' + '、'.join(f'`{x}`' for x in wb.get('protein', [])))
+    lines.append('耐放蔬菜 | ' + '、'.join(f'`{x}`' for x in wb.get('durableVeg', [])))
+    if wb.get('sideSupport'):
+        lines.append('快手配菜 | ' + '、'.join(f'`{x}`' for x in wb.get('sideSupport', [])))
+    lines.append('早餐/主食 | ' + '、'.join(f'`{x}`' for x in wb.get('breakfastStaples', [])))
+    lines.append('水果/补充 | ' + '、'.join(f'`{x}`' for x in wb.get('fruitExtra', [])))
+    lines.append('')
+    lines.append('【周备注】')
+    lines.append('- `午餐主做，晚餐复热`')
+    lines.append(f"- `本周起始：{wp['weekStart']}`")
+    return lines
 
-def render():
-    state = load_json(STATE)
-    wp = state.get('generatedWeekPlan')
-    if not wp:
-        raise RuntimeError('No generated week plan found; run plan_week.py first')
-    day = WEEKDAYS[datetime.now().weekday()]
+def render_daily(wp, day):
     entry = wp['days'][day]
     lines = []
     lines.append(f'【今日菜谱｜{CN[day]}】')
@@ -45,6 +63,20 @@ def render():
     lines.append('【备注】')
     lines.append('- `本周采购按周计划执行`')
     lines.append(f"- `本周起始：{wp['weekStart']}`")
+    return lines
+
+
+def render():
+    state = load_json(STATE)
+    wp = state.get('generatedWeekPlan')
+    if not wp:
+        raise RuntimeError('No generated week plan found; run plan_week.py first')
+    day = WEEKDAYS[datetime.now().weekday()]
+    lines = []
+    if day == 'Monday':
+        lines.extend(render_weekly(wp))
+        lines.append('')
+    lines.extend(render_daily(wp, day))
     return '\n'.join(lines)
 
 if __name__ == '__main__':

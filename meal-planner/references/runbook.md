@@ -42,3 +42,7 @@ python3 /home/dsm/.openclaw/workspace/skills/meal-planner/scripts/generate_daily
 ```
 
 `plan_week.py` should preserve an already-generated week when still current.
+
+Delivery rule:
+- on Monday, `generate_daily_plan.py` should output the weekly plan and weekly shopping recommendation first, then today's plan
+- on non-Monday days, it may output only today's plan
