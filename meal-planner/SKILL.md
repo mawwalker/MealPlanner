@@ -112,6 +112,20 @@ Important delivery rule:
 - on `Monday`, include the **weekly plan + weekly shopping recommendation first**, then append the current day's plan
 - on other days, daily reminders may send only the current day's plan
 
+### Cross-week variety (key design)
+
+`plan_week.py` maintains variety across weeks via three mechanisms:
+
+1. **History tracking**: `state.json` records the last 8 weeks of used recipe IDs and side names.
+   - Recipes used in the last 1-4 weeks receive a diminishing penalty score.
+   - Sides used in the last 2 weeks receive an additional penalty.
+
+2. **Protein pattern rotation**: 7 valid protein patterns are pre-defined. Each new week picks the next pattern in the cycle (by history length modulo 7). All patterns satisfy the weekly protein target.
+
+3. **Controlled randomness**: Instead of always picking the top-ranked recipe, the planner selects from the top-3 candidates using weighted random choice (weights 4:2:1). This prevents the same dish appearing even if it re-enters the top spot.
+
+Noodle/rice-bowl style dishes (`面`,`饭`,`盖浇`, etc.) are penalized globally so they don't displace proper main+side meals.
+
 ### Weekly nutrition logic
 Prefer a weekly protein distribution close to:
 - `chicken`: 2 days

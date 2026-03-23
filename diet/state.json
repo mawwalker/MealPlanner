@@ -3,7 +3,7 @@
   "activeWeekId": null,
   "activeWeekStart": null,
   "history": [],
-  "generatedWeekStart": "2026-03-16",
+  "generatedWeekStart": null,
   "generatedAt": "2026-03-16T17:01:10.949914",
   "generatedWeekPlan": {
     "weekStart": "2026-03-16",
