@@ -65,7 +65,7 @@
   "mains": [
     {
       "id": "HowToCook:dishes/aquatic/鲤鱼炖白菜/鲤鱼炖白菜.md",
-      "name": "鲤鱼炖白菜的做法",
+      "name": "鲤鱼炖白菜",
       "protein": "fish",
       "role": "main",
       "source": "dishes/aquatic/鲤鱼炖白菜/鲤鱼炖白菜.md",
@@ -88,7 +88,7 @@
     },
     {
       "id": "HowToCook:dishes/aquatic/鳊鱼炖豆腐/鳊鱼炖豆腐.md",
-      "name": "鳊鱼炖豆腐的做法",
+      "name": "鳊鱼炖豆腐",
       "protein": "fish",
       "role": "main",
       "source": "dishes/aquatic/鳊鱼炖豆腐/鳊鱼炖豆腐.md",
@@ -111,7 +111,7 @@
     },
     {
       "id": "HowToCook:dishes/aquatic/咖喱炒蟹.md",
-      "name": "咖喱炒蟹的做法",
+      "name": "咖喱炒蟹",
       "protein": "fish",
       "role": "main",
       "source": "dishes/aquatic/咖喱炒蟹.md",
@@ -132,7 +132,7 @@
     },
     {
       "id": "HowToCook:dishes/aquatic/清蒸生蚝.md",
-      "name": "清蒸生蚝的做法",
+      "name": "清蒸生蚝",
       "protein": "fish",
       "role": "main",
       "source": "dishes/aquatic/清蒸生蚝.md",
@@ -153,7 +153,7 @@
     },
     {
       "id": "HowToCook:dishes/aquatic/糖醋鲤鱼/糖醋鲤鱼.md",
-      "name": "糖醋鲤鱼的做法",
+      "name": "糖醋鲤鱼",
       "protein": "fish",
       "role": "main",
       "source": "dishes/aquatic/糖醋鲤鱼/糖醋鲤鱼.md",
@@ -174,7 +174,7 @@
     },
     {
       "id": "HowToCook:dishes/aquatic/红烧鱼头.md",
-      "name": "红烧鱼头的做法",
+      "name": "红烧鱼头",
       "protein": "fish",
       "role": "main",
       "source": "dishes/aquatic/红烧鱼头.md",
@@ -196,7 +196,7 @@
     },
     {
       "id": "HowToCook:dishes/aquatic/芥末黄油罗氏虾/芥末黄油罗氏虾.md",
-      "name": "芥末黄油罗氏虾的做法",
+      "name": "芥末黄油罗氏虾",
       "protein": "shrimp",
       "role": "main",
       "source": "dishes/aquatic/芥末黄油罗氏虾/芥末黄油罗氏虾.md",
@@ -217,7 +217,7 @@
     },
     {
       "id": "HowToCook:dishes/meat_dish/巴基斯坦牛肉咖喱/巴基斯坦牛肉咖喱.md",
-      "name": "巴基斯坦牛肉咖喱的做法",
+      "name": "巴基斯坦牛肉咖喱",
       "protein": "beef",
       "role": "main",
       "source": "dishes/meat_dish/巴基斯坦牛肉咖喱/巴基斯坦牛肉咖喱.md",
@@ -239,7 +239,7 @@
     },
     {
       "id": "HowToCook:dishes/meat_dish/腐乳肉.md",
-      "name": "腐乳肉的做法",
+      "name": "腐乳肉",
       "protein": "pork",
       "role": "main",
       "source": "dishes/meat_dish/腐乳肉.md",
@@ -261,7 +261,7 @@
     },
     {
       "id": "HowToCook:dishes/meat_dish/香辣鸡爪煲/香辣鸡爪煲.md",
-      "name": "香辣鸡爪煲的做法",
+      "name": "香辣鸡爪煲",
       "protein": "chicken",
       "role": "main",
       "source": "dishes/meat_dish/香辣鸡爪煲/香辣鸡爪煲.md",
@@ -284,7 +284,7 @@
     },
     {
       "id": "HowToCook:dishes/aquatic/微波葱姜黑鳕鱼.md",
-      "name": "微波葱姜黑鳕鱼的做法",
+      "name": "微波葱姜黑鳕鱼",
       "protein": "fish",
       "role": "main",
       "source": "dishes/aquatic/微波葱姜黑鳕鱼.md",
@@ -305,7 +305,7 @@
     },
     {
       "id": "HowToCook:dishes/aquatic/红烧鱼.md",
-      "name": "红烧鱼的做法",
+      "name": "红烧鱼",
       "protein": "fish",
       "role": "main",
       "source": "dishes/aquatic/红烧鱼.md",
@@ -326,7 +326,7 @@
     },
     {
       "id": "HowToCook:dishes/aquatic/香煎翘嘴鱼/香煎翘嘴鱼.md",
-      "name": "香煎翘嘴鱼的做法",
+      "name": "香煎翘嘴鱼",
       "protein": "fish",
       "role": "main",
       "source": "dishes/aquatic/香煎翘嘴鱼/香煎翘嘴鱼.md",
@@ -347,7 +347,7 @@
     },
     {
       "id": "HowToCook:dishes/meat_dish/农家一碗香/农家一碗香.md",
-      "name": "农家一碗香的做法",
+      "name": "农家一碗香",
       "protein": "pork",
       "role": "main",
       "source": "dishes/meat_dish/农家一碗香/农家一碗香.md",
@@ -369,7 +369,7 @@
     },
     {
       "id": "HowToCook:dishes/meat_dish/咖喱肥牛/咖喱肥牛.md",
-      "name": "咖喱肥牛的做法",
+      "name": "咖喱肥牛",
       "protein": "beef",
       "role": "main",
       "source": "dishes/meat_dish/咖喱肥牛/咖喱肥牛.md",
@@ -390,7 +390,7 @@
     },
     {
       "id": "HowToCook:dishes/meat_dish/孜然牛肉.md",
-      "name": "孜然牛肉的做法",
+      "name": "孜然牛肉",
       "protein": "beef",
       "role": "main",
       "source": "dishes/meat_dish/孜然牛肉.md",
@@ -411,7 +411,7 @@
     },
     {
       "id": "HowToCook:dishes/meat_dish/小炒肉.md",
-      "name": "小炒肉的做法",
+      "name": "小炒肉",
       "protein": "pork",
       "role": "main",
       "source": "dishes/meat_dish/小炒肉.md",
@@ -433,7 +433,7 @@
     },
     {
       "id": "HowToCook:dishes/meat_dish/小米辣炒肉.md",
-      "name": "小米辣炒肉的做法",
+      "name": "小米辣炒肉",
       "protein": "pork",
       "role": "main",
       "source": "dishes/meat_dish/小米辣炒肉.md",
@@ -455,7 +455,7 @@
     },
     {
       "id": "HowToCook:dishes/meat_dish/尖椒炒牛肉.md",
-      "name": "尖椒炒牛肉的做法",
+      "name": "尖椒炒牛肉",
       "protein": "beef",
       "role": "main",
       "source": "dishes/meat_dish/尖椒炒牛肉.md",
@@ -476,7 +476,7 @@
     },
     {
       "id": "HowToCook:dishes/meat_dish/杀猪菜.md",
-      "name": "杀猪菜的做法",
+      "name": "杀猪菜",
       "protein": "pork",
       "role": "main",
       "source": "dishes/meat_dish/杀猪菜.md",
@@ -498,7 +498,7 @@
     },
     {
       "id": "HowToCook:dishes/meat_dish/水煮牛肉/水煮牛肉.md",
-      "name": "水煮牛肉的做法",
+      "name": "水煮牛肉",
       "protein": "beef",
       "role": "main",
       "source": "dishes/meat_dish/水煮牛肉/水煮牛肉.md",
@@ -520,7 +520,7 @@
     },
     {
       "id": "HowToCook:dishes/meat_dish/洋葱炒猪肉.md",
-      "name": "洋葱炒猪肉的做法",
+      "name": "洋葱炒猪肉",
       "protein": "pork",
       "role": "main",
       "source": "dishes/meat_dish/洋葱炒猪肉.md",
@@ -540,7 +540,7 @@
     },
     {
       "id": "HowToCook:dishes/meat_dish/湖南家常红烧肉/湖南家常红烧肉.md",
-      "name": "湖南家常红烧肉的做法",
+      "name": "湖南家常红烧肉",
       "protein": "pork",
       "role": "main",
       "source": "dishes/meat_dish/湖南家常红烧肉/湖南家常红烧肉.md",
@@ -561,7 +561,7 @@
     },
     {
       "id": "HowToCook:dishes/meat_dish/澳门湿版免治牛肉饭.md",
-      "name": "澳门湿版免治牛肉饭的做法",
+      "name": "澳门湿版免治牛肉饭",
       "protein": "beef",
       "role": "main",
       "source": "dishes/meat_dish/澳门湿版免治牛肉饭.md",
@@ -582,7 +582,7 @@
     },
     {
       "id": "HowToCook:dishes/meat_dish/青椒土豆炒肉/青椒土豆炒肉.md",
-      "name": "青椒土豆炒肉的做法",
+      "name": "青椒土豆炒肉",
       "protein": "pork",
       "role": "main",
       "source": "dishes/meat_dish/青椒土豆炒肉/青椒土豆炒肉.md",
@@ -603,7 +603,7 @@
     },
     {
       "id": "HowToCook:dishes/meat_dish/鱼香肉丝.md",
-      "name": "鱼香肉丝的做法",
+      "name": "鱼香肉丝",
       "protein": "pork",
       "role": "main",
       "source": "dishes/meat_dish/鱼香肉丝.md",
@@ -646,7 +646,7 @@
     },
     {
       "id": "HowToCook:dishes/meat_dish/土豆炖排骨/土豆炖排骨.md",
-      "name": "土豆炖排骨的做法",
+      "name": "土豆炖排骨",
       "protein": "pork",
       "role": "main",
       "source": "dishes/meat_dish/土豆炖排骨/土豆炖排骨.md",
@@ -668,7 +668,7 @@
     },
     {
       "id": "HowToCook:dishes/meat_dish/柱候牛腩/柱候牛腩.md",
-      "name": "柱候牛腩的做法",
+      "name": "柱候牛腩",
       "protein": "beef",
       "role": "main",
       "source": "dishes/meat_dish/柱候牛腩/柱候牛腩.md",
@@ -686,7 +686,7 @@
     },
     {
       "id": "HowToCook:dishes/meat_dish/白菜猪肉炖粉条.md",
-      "name": "白菜猪肉炖粉条的做法",
+      "name": "白菜猪肉炖粉条",
       "protein": "pork",
       "role": "main",
       "source": "dishes/meat_dish/白菜猪肉炖粉条.md",
@@ -707,7 +707,7 @@
     },
     {
       "id": "HowToCook:dishes/meat_dish/糖醋排骨/糖醋排骨.md",
-      "name": "糖醋排骨的做法",
+      "name": "糖醋排骨",
       "protein": "pork",
       "role": "main",
       "source": "dishes/meat_dish/糖醋排骨/糖醋排骨.md",
@@ -729,7 +729,7 @@
     },
     {
       "id": "HowToCook:dishes/meat_dish/西红柿土豆炖牛肉/西红柿土豆炖牛肉.md",
-      "name": "西红柿土豆炖牛肉的做法",
+      "name": "西红柿土豆炖牛肉",
       "protein": "beef",
       "role": "main",
       "source": "dishes/meat_dish/西红柿土豆炖牛肉/西红柿土豆炖牛肉.md",
@@ -750,7 +750,7 @@
     },
     {
       "id": "HowToCook:dishes/meat_dish/西红柿牛腩/西红柿牛腩.md",
-      "name": "西红柿牛腩的做法",
+      "name": "西红柿牛腩",
       "protein": "beef",
       "role": "main",
       "source": "dishes/meat_dish/西红柿牛腩/西红柿牛腩.md",
@@ -770,7 +770,7 @@
     },
     {
       "id": "HowToCook:dishes/meat_dish/豉汁排骨.md",
-      "name": "豉汁排骨的做法",
+      "name": "豉汁排骨",
       "protein": "pork",
       "role": "main",
       "source": "dishes/meat_dish/豉汁排骨.md",
@@ -792,7 +792,7 @@
     },
     {
       "id": "HowToCook:dishes/meat_dish/酱排骨/酱排骨.md",
-      "name": "酱排骨的做法",
+      "name": "酱排骨",
       "protein": "pork",
       "role": "main",
       "source": "dishes/meat_dish/酱排骨/酱排骨.md",
@@ -813,7 +813,7 @@
     },
     {
       "id": "HowToCook:dishes/meat_dish/酱牛肉/酱牛肉.md",
-      "name": "酱牛肉的做法",
+      "name": "酱牛肉",
       "protein": "beef",
       "role": "main",
       "source": "dishes/meat_dish/酱牛肉/酱牛肉.md",
@@ -834,7 +834,7 @@
     },
     {
       "id": "HowToCook:dishes/meat_dish/醉排骨/醉排骨.md",
-      "name": "醉排骨的做法",
+      "name": "醉排骨",
       "protein": "pork",
       "role": "main",
       "source": "dishes/meat_dish/醉排骨/醉排骨.md",
@@ -856,7 +856,7 @@
     },
     {
       "id": "HowToCook:dishes/meat_dish/黄油鸡.md",
-      "name": "黄油鸡的做法",
+      "name": "黄油鸡",
       "protein": "chicken",
       "role": "main",
       "source": "dishes/meat_dish/黄油鸡.md",
@@ -878,7 +878,7 @@
     },
     {
       "id": "HowToCook:dishes/meat_dish/黄焖鸡.md",
-      "name": "黄焖鸡的做法",
+      "name": "黄焖鸡",
       "protein": "chicken",
       "role": "main",
       "source": "dishes/meat_dish/黄焖鸡.md",
@@ -922,7 +922,7 @@
     },
     {
       "id": "HowToCook:dishes/aquatic/清蒸鲈鱼/清蒸鲈鱼.md",
-      "name": "清蒸鲈鱼的做法",
+      "name": "清蒸鲈鱼",
       "protein": "fish",
       "role": "main",
       "source": "dishes/aquatic/清蒸鲈鱼/清蒸鲈鱼.md",
@@ -942,7 +942,7 @@
     },
     {
       "id": "HowToCook:dishes/aquatic/葱油桂鱼/葱油桂鱼.md",
-      "name": "葱油桂鱼的做法",
+      "name": "葱油桂鱼",
       "protein": "fish",
       "role": "main",
       "source": "dishes/aquatic/葱油桂鱼/葱油桂鱼.md",
@@ -963,7 +963,7 @@
     },
     {
       "id": "HowToCook:dishes/meat_dish/回锅肉/回锅肉.md",
-      "name": "回锅肉的做法",
+      "name": "回锅肉",
       "protein": "pork",
       "role": "main",
       "source": "dishes/meat_dish/回锅肉/回锅肉.md",
@@ -984,7 +984,7 @@
     },
     {
       "id": "HowToCook:dishes/meat_dish/宫保鸡丁/宫保鸡丁.md",
-      "name": "宫保鸡丁的做法",
+      "name": "宫保鸡丁",
       "protein": "chicken",
       "role": "main",
       "source": "dishes/meat_dish/宫保鸡丁/宫保鸡丁.md",
@@ -1005,7 +1005,7 @@
     },
     {
       "id": "HowToCook:dishes/meat_dish/清蒸鳜鱼/清蒸鳜鱼.md",
-      "name": "清蒸鳜鱼的做法",
+      "name": "清蒸鳜鱼",
       "protein": "fish",
       "role": "main",
       "source": "dishes/meat_dish/清蒸鳜鱼/清蒸鳜鱼.md",
@@ -1026,7 +1026,7 @@
     },
     {
       "id": "HowToCook:dishes/meat_dish/湘祁米夫鸭/湘祁米夫鸭.md",
-      "name": "湘祁米夫鸭的做法",
+      "name": "湘祁米夫鸭",
       "protein": "pork",
       "role": "main",
       "source": "dishes/meat_dish/湘祁米夫鸭/湘祁米夫鸭.md",
@@ -1048,7 +1048,7 @@
     },
     {
       "id": "HowToCook:dishes/meat_dish/烤鸡翅.md",
-      "name": "烤鸡翅的做法",
+      "name": "烤鸡翅",
       "protein": "chicken",
       "role": "main",
       "source": "dishes/meat_dish/烤鸡翅.md",
@@ -1068,7 +1068,7 @@
     },
     {
       "id": "HowToCook:dishes/meat_dish/红烧鸡翅.md",
-      "name": "红烧鸡翅的做法",
+      "name": "红烧鸡翅",
       "protein": "chicken",
       "role": "main",
       "source": "dishes/meat_dish/红烧鸡翅.md",
@@ -1089,7 +1089,7 @@
     },
     {
       "id": "HowToCook:dishes/meat_dish/香煎五花肉/香煎五花肉.md",
-      "name": "香煎五花肉的做法",
+      "name": "香煎五花肉",
       "protein": "pork",
       "role": "main",
       "source": "dishes/meat_dish/香煎五花肉/香煎五花肉.md",
@@ -1128,7 +1128,7 @@
     },
     {
       "id": "HowToCook:dishes/aquatic/酱炖蟹.md",
-      "name": "酱炖蟹的做法",
+      "name": "酱炖蟹",
       "protein": "fish",
       "role": "main",
       "source": "dishes/aquatic/酱炖蟹.md",
@@ -1151,7 +1151,7 @@
     },
     {
       "id": "HowToCook:dishes/meat_dish/猪肉烩酸菜.md",
-      "name": "猪肉烩酸菜的做法",
+      "name": "猪肉烩酸菜",
       "protein": "pork",
       "role": "main",
       "source": "dishes/meat_dish/猪肉烩酸菜.md",
@@ -1171,7 +1171,7 @@
     },
     {
       "id": "HowToCook:dishes/aquatic/红烧鲤鱼.md",
-      "name": "红烧鲤鱼的做法",
+      "name": "红烧鲤鱼",
       "protein": "fish",
       "role": "main",
       "source": "dishes/aquatic/红烧鲤鱼.md",
@@ -1190,7 +1190,7 @@
     },
     {
       "id": "HowToCook:dishes/aquatic/葱烧海参/葱烧海参.md",
-      "name": "葱烧海参的做法",
+      "name": "葱烧海参",
       "protein": "fish",
       "role": "main",
       "source": "dishes/aquatic/葱烧海参/葱烧海参.md",
@@ -1204,7 +1204,7 @@
     },
     {
       "id": "HowToCook:dishes/meat_dish/可乐鸡翅.md",
-      "name": "可乐鸡翅的做法",
+      "name": "可乐鸡翅",
       "protein": "chicken",
       "role": "main",
       "source": "dishes/meat_dish/可乐鸡翅.md",
@@ -1224,7 +1224,7 @@
     },
     {
       "id": "HowToCook:dishes/meat_dish/姜炒鸡/姜炒鸡.md",
-      "name": "姜炒鸡的做法",
+      "name": "姜炒鸡",
       "protein": "chicken",
       "role": "main",
       "source": "dishes/meat_dish/姜炒鸡/姜炒鸡.md",
@@ -1245,7 +1245,7 @@
     },
     {
       "id": "HowToCook:dishes/meat_dish/姜葱捞鸡/姜葱捞鸡.md",
-      "name": "姜葱捞鸡的做法",
+      "name": "姜葱捞鸡",
       "protein": "chicken",
       "role": "main",
       "source": "dishes/meat_dish/姜葱捞鸡/姜葱捞鸡.md",
@@ -1262,7 +1262,7 @@
     },
     {
       "id": "HowToCook:dishes/meat_dish/小炒黄牛肉/小炒黄牛肉.md",
-      "name": "小炒黄牛肉的做法",
+      "name": "小炒黄牛肉",
       "protein": "beef",
       "role": "main",
       "source": "dishes/meat_dish/小炒黄牛肉/小炒黄牛肉.md",
@@ -1282,7 +1282,7 @@
     },
     {
       "id": "HowToCook:dishes/meat_dish/新疆大盘鸡/新疆大盘鸡.md",
-      "name": "新疆大盘鸡的做法",
+      "name": "新疆大盘鸡",
       "protein": "chicken",
       "role": "main",
       "source": "dishes/meat_dish/新疆大盘鸡/新疆大盘鸡.md",
@@ -1302,7 +1302,7 @@
     },
     {
       "id": "HowToCook:dishes/meat_dish/芥末罗氏虾/芥末罗氏虾.md",
-      "name": "芥末罗氏虾的做法",
+      "name": "芥末罗氏虾",
       "protein": "shrimp",
       "role": "main",
       "source": "dishes/meat_dish/芥末罗氏虾/芥末罗氏虾.md",
@@ -1320,7 +1320,7 @@
     },
     {
       "id": "HowToCook:dishes/meat_dish/蒜苔炒肉末.md",
-      "name": "蒜苔炒肉末的做法",
+      "name": "蒜苔炒肉末",
       "protein": "pork",
       "role": "main",
       "source": "dishes/meat_dish/蒜苔炒肉末.md",
@@ -1340,7 +1340,7 @@
     },
     {
       "id": "HowToCook:dishes/meat_dish/香菇滑鸡/香菇滑鸡.md",
-      "name": "香菇滑鸡的做法",
+      "name": "香菇滑鸡",
       "protein": "chicken",
       "role": "main",
       "source": "dishes/meat_dish/香菇滑鸡/香菇滑鸡.md",
@@ -1359,7 +1359,7 @@
     },
     {
       "id": "HowToCook:dishes/meat_dish/麻婆豆腐/麻婆豆腐.md",
-      "name": "麻婆豆腐的做法",
+      "name": "麻婆豆腐",
       "protein": "tofu",
       "role": "main",
       "source": "dishes/meat_dish/麻婆豆腐/麻婆豆腐.md",
@@ -1382,7 +1382,7 @@
     },
     {
       "id": "HowToCook:dishes/meat_dish/黑椒牛柳/黑椒牛柳.md",
-      "name": "黑椒牛柳的做法",
+      "name": "黑椒牛柳",
       "protein": "beef",
       "role": "main",
       "source": "dishes/meat_dish/黑椒牛柳/黑椒牛柳.md",
@@ -1402,7 +1402,7 @@
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/榄菜肉末四季豆/榄菜肉末四季豆.md",
-      "name": "榄菜肉末四季豆的做法",
+      "name": "榄菜肉末四季豆",
       "protein": "pork",
       "role": "main",
       "source": "dishes/vegetable_dish/榄菜肉末四季豆/榄菜肉末四季豆.md",
@@ -1418,27 +1418,6 @@
         "米辣"
       ],
       "method": "将锅烧热，然后加入 20ml 油滑锅，锅滑好之后将热油倒出，然后加入 10ml 冷油，这就是传说中热锅冷油，这么做主要是防止肉末粘锅。；如果家里没有晾油瓶的话，也可以不用滑锅，放入油之后，直接加入肉末开始煸炒，小火煸炒两分钟，炒出猪油。；肉末炒香之后加入蒜末，橄榄菜和小米辣，炒出",
-      "estimatedMinutes": 25
-    },
-    {
-      "id": "CookLikeHOC:炒菜/宫保鸡丁.md",
-      "name": "宫保鸡丁",
-      "protein": "chicken",
-      "role": "main",
-      "source": "炒菜/宫保鸡丁.md",
-      "tags": [
-        "quick",
-        "spicy-friendly"
-      ],
-      "ingredients": [
-        "鸡丁",
-        "胡萝卜",
-        "干红椒",
-        "葱",
-        "花生米",
-        "豆油"
-      ],
-      "method": "- 1. 180g 大豆油烧至 170℃，下入 1050g 鸡丁煸炒变色；；- 2. 倒入 250g 胡萝卜丁翻炒至表面微软；；- 3. 下入 20g 干红椒、250g 花生米翻炒均匀；",
       "estimatedMinutes": 25
     },
     {
@@ -1485,7 +1464,7 @@
     },
     {
       "id": "HowToCook:dishes/aquatic/油焖大虾/油焖大虾.md",
-      "name": "油焖大虾的做法",
+      "name": "油焖大虾",
       "protein": "shrimp",
       "role": "main",
       "source": "dishes/aquatic/油焖大虾/油焖大虾.md",
@@ -1504,7 +1483,7 @@
     },
     {
       "id": "HowToCook:dishes/aquatic/肉蟹煲.md",
-      "name": "肉蟹煲的做法",
+      "name": "肉蟹煲",
       "protein": "fish",
       "role": "main",
       "source": "dishes/aquatic/肉蟹煲.md",
@@ -1526,7 +1505,7 @@
     },
     {
       "id": "HowToCook:dishes/aquatic/水煮鱼.md",
-      "name": "水煮鱼的做法",
+      "name": "水煮鱼",
       "protein": "fish",
       "role": "main",
       "source": "dishes/aquatic/水煮鱼.md",
@@ -1548,7 +1527,7 @@
     },
     {
       "id": "HowToCook:dishes/meat_dish/口水鸡/口水鸡.md",
-      "name": "口水鸡的做法",
+      "name": "口水鸡",
       "protein": "chicken",
       "role": "main",
       "source": "dishes/meat_dish/口水鸡/口水鸡.md",
@@ -1568,7 +1547,7 @@
     },
     {
       "id": "HowToCook:dishes/meat_dish/咕噜肉.md",
-      "name": "咕噜肉的做法",
+      "name": "咕噜肉",
       "protein": "pork",
       "role": "main",
       "source": "dishes/meat_dish/咕噜肉.md",
@@ -1590,7 +1569,7 @@
     },
     {
       "id": "HowToCook:dishes/meat_dish/徽派红烧肉/徽派红烧肉.md",
-      "name": "徽派红烧肉的做法",
+      "name": "徽派红烧肉",
       "protein": "pork",
       "role": "main",
       "source": "dishes/meat_dish/徽派红烧肉/徽派红烧肉.md",
@@ -1612,7 +1591,7 @@
     },
     {
       "id": "HowToCook:dishes/meat_dish/意式烤鸡.md",
-      "name": "意式烤鸡的做法",
+      "name": "意式烤鸡",
       "protein": "chicken",
       "role": "main",
       "source": "dishes/meat_dish/意式烤鸡.md",
@@ -1630,7 +1609,7 @@
     },
     {
       "id": "HowToCook:dishes/meat_dish/无骨鸡爪/无骨鸡爪.md",
-      "name": "无骨鸡爪的做法",
+      "name": "无骨鸡爪",
       "protein": "chicken",
       "role": "main",
       "source": "dishes/meat_dish/无骨鸡爪/无骨鸡爪.md",
@@ -1650,7 +1629,7 @@
     },
     {
       "id": "HowToCook:dishes/meat_dish/蚂蚁上树.md",
-      "name": "蚂蚁上树的做法",
+      "name": "蚂蚁上树",
       "protein": "pork",
       "role": "main",
       "source": "dishes/meat_dish/蚂蚁上树.md",
@@ -1673,7 +1652,7 @@
     },
     {
       "id": "HowToCook:dishes/meat_dish/贵州辣子鸡/贵州辣子鸡.md",
-      "name": "贵州辣子鸡的做法",
+      "name": "贵州辣子鸡",
       "protein": "chicken",
       "role": "main",
       "source": "dishes/meat_dish/贵州辣子鸡/贵州辣子鸡.md",
@@ -1696,7 +1675,7 @@
     },
     {
       "id": "HowToCook:dishes/meat_dish/鱼香茄子/鱼香茄子.md",
-      "name": "鱼香茄子的做法",
+      "name": "鱼香茄子",
       "protein": "pork",
       "role": "main",
       "source": "dishes/meat_dish/鱼香茄子/鱼香茄子.md",
@@ -1719,7 +1698,7 @@
     },
     {
       "id": "HowToCook:dishes/meat_dish/广式萝卜牛腩/广式萝卜牛腩.md",
-      "name": "广式萝卜牛腩的做法",
+      "name": "广式萝卜牛腩",
       "protein": "beef",
       "role": "main",
       "source": "dishes/meat_dish/广式萝卜牛腩/广式萝卜牛腩.md",
@@ -1741,7 +1720,7 @@
     },
     {
       "id": "HowToCook:dishes/meat_dish/凉拌鸡丝/凉拌鸡丝.md",
-      "name": "凉拌鸡丝的做法",
+      "name": "凉拌鸡丝",
       "protein": "chicken",
       "role": "main",
       "source": "dishes/meat_dish/凉拌鸡丝/凉拌鸡丝.md",
@@ -1763,7 +1742,7 @@
     },
     {
       "id": "HowToCook:dishes/meat_dish/干煸仔鸡/干煸仔鸡.md",
-      "name": "干煸仔鸡的做法",
+      "name": "干煸仔鸡",
       "protein": "chicken",
       "role": "main",
       "source": "dishes/meat_dish/干煸仔鸡/干煸仔鸡.md",
@@ -1804,7 +1783,7 @@
     },
     {
       "id": "HowToCook:dishes/aquatic/蛏抱蛋/蛏抱蛋.md",
-      "name": "蛏抱蛋的做法",
+      "name": "蛏抱蛋",
       "protein": "fish",
       "role": "main",
       "source": "dishes/aquatic/蛏抱蛋/蛏抱蛋.md",
@@ -1824,7 +1803,7 @@
     },
     {
       "id": "HowToCook:dishes/meat_dish/小炒鸡肝/小炒鸡肝.md",
-      "name": "小炒鸡肝的做法",
+      "name": "小炒鸡肝",
       "protein": "chicken",
       "role": "main",
       "source": "dishes/meat_dish/小炒鸡肝/小炒鸡肝.md",
@@ -1845,7 +1824,7 @@
     },
     {
       "id": "HowToCook:dishes/meat_dish/梅菜扣肉/梅菜扣肉.md",
-      "name": "梅菜扣肉的做法",
+      "name": "梅菜扣肉",
       "protein": "pork",
       "role": "main",
       "source": "dishes/meat_dish/梅菜扣肉/梅菜扣肉.md",
@@ -1862,27 +1841,6 @@
         "老抽"
       ],
       "method": "锅中加入开水，放入五花肉，大火煮 20 分钟 （筷子可以插进五花肉），取出五花肉；起锅烧油，加入五花肉，中火油炸直至两面金黄色（3-5 分钟）；起锅烧油，倒入梅菜，加上小米椒、蒜蓉、鸡精、食用盐后翻炒，直至炒干梅干菜水分",
-      "estimatedMinutes": 25
-    },
-    {
-      "id": "CookLikeHOC:炒菜/小炒黄牛肉.md",
-      "name": "小炒黄牛肉",
-      "protein": "beef",
-      "role": "main",
-      "source": "炒菜/小炒黄牛肉.md",
-      "tags": [
-        "quick",
-        "spicy-friendly"
-      ],
-      "ingredients": [
-        "豆油",
-        "牛油",
-        "蒜子",
-        "泡米辣",
-        "玉耳",
-        "鲜红米辣"
-      ],
-      "method": "- 1. 锅中下入 180g 大豆油和 60g 牛油烧至 180℃，倒入 150g 蒜子、100g 泡小米辣、100g 鲜红小米辣爆香；；- 2. 下入 700g 调理牛肉片大火快速炒散至变色；；- 3. 倒入 180g 小炒黄牛肉汁、400g 泡发好的玉耳和 300g 青蒜或香",
       "estimatedMinutes": 25
     },
     {
@@ -1954,7 +1912,7 @@
     },
     {
       "id": "HowToCook:dishes/meat_dish/甜辣烤全翅.md",
-      "name": "甜辣烤全翅的做法",
+      "name": "甜辣烤全翅",
       "protein": "chicken",
       "role": "main",
       "source": "dishes/meat_dish/甜辣烤全翅.md",
@@ -1978,7 +1936,7 @@
   "sides": [
     {
       "id": "HowToCook:dishes/vegetable_dish/家常日本豆腐.md",
-      "name": "家常日本豆腐的做法",
+      "name": "家常日本豆腐",
       "protein": "tofu",
       "role": "side",
       "source": "dishes/vegetable_dish/家常日本豆腐.md",
@@ -2000,7 +1958,7 @@
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/金针菇日本豆腐煲.md",
-      "name": "金针菇日本豆腐煲的做法",
+      "name": "金针菇日本豆腐煲",
       "protein": "tofu",
       "role": "side",
       "source": "dishes/vegetable_dish/金针菇日本豆腐煲.md",
@@ -2042,7 +2000,7 @@
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/西红柿豆腐汤羹/西红柿豆腐汤羹.md",
-      "name": "西红柿豆腐汤羹的做法",
+      "name": "西红柿豆腐汤羹",
       "protein": "tofu",
       "role": "side",
       "source": "dishes/vegetable_dish/西红柿豆腐汤羹/西红柿豆腐汤羹.md",
@@ -2063,7 +2021,7 @@
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/上汤娃娃菜/上汤娃娃菜.md",
-      "name": "上汤娃娃菜的做法",
+      "name": "上汤娃娃菜",
       "protein": "egg",
       "role": "side",
       "source": "dishes/vegetable_dish/上汤娃娃菜/上汤娃娃菜.md",
@@ -2084,7 +2042,7 @@
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/凉拌油麦菜.md",
-      "name": "凉拌油麦菜的做法",
+      "name": "凉拌油麦菜",
       "protein": "other",
       "role": "side",
       "source": "dishes/vegetable_dish/凉拌油麦菜.md",
@@ -2107,7 +2065,7 @@
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/凉拌黄瓜.md",
-      "name": "凉拌黄瓜的做法",
+      "name": "凉拌黄瓜",
       "protein": "other",
       "role": "side",
       "source": "dishes/vegetable_dish/凉拌黄瓜.md",
@@ -2127,7 +2085,7 @@
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/红烧茄子.md",
-      "name": "红烧茄子的做法",
+      "name": "红烧茄子",
       "protein": "egg",
       "role": "side",
       "source": "dishes/vegetable_dish/红烧茄子.md",
@@ -2168,7 +2126,7 @@
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/包菜炒鸡蛋粉丝/包菜炒鸡蛋粉丝.md",
-      "name": "包菜炒鸡蛋粉丝的做法",
+      "name": "包菜炒鸡蛋粉丝",
       "protein": "egg",
       "role": "side",
       "source": "dishes/vegetable_dish/包菜炒鸡蛋粉丝/包菜炒鸡蛋粉丝.md",
@@ -2189,7 +2147,7 @@
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/菠菜炒鸡蛋/菠菜炒鸡蛋.md",
-      "name": "菠菜炒鸡蛋的做法",
+      "name": "菠菜炒鸡蛋",
       "protein": "egg",
       "role": "side",
       "source": "dishes/vegetable_dish/菠菜炒鸡蛋/菠菜炒鸡蛋.md",
@@ -2203,46 +2161,6 @@
         "食用盐"
       ],
       "method": "- 热锅，加入 10ml 油；- 油热后，倒入鸡蛋液，中火翻炒 15 秒，先煎成蛋饼，然后再用锅铲切成小块；- 重新开火，倒入 5ml 油，油热后，放入菠菜，大火 翻炒 15 秒后，倒入鸡蛋块，翻炒均匀",
-      "estimatedMinutes": 25
-    },
-    {
-      "id": "HowToCook:dishes/vegetable_dish/西葫芦炒鸡蛋/西葫芦炒鸡蛋.md",
-      "name": "西葫芦炒鸡蛋的做法",
-      "protein": "egg",
-      "role": "side",
-      "source": "dishes/vegetable_dish/西葫芦炒鸡蛋/西葫芦炒鸡蛋.md",
-      "tags": [
-        "quick"
-      ],
-      "ingredients": [
-        "西葫芦",
-        "鸡蛋",
-        "西红柿",
-        "食用盐",
-        "食用油"
-      ],
-      "method": "- 热锅，锅内放入 5ml - 10ml 食用油；- 倒入鸡蛋，保持翻炒至鸡蛋成固体，用锅铲分成小块后盛到碗里，备用；- 锅内放入 5ml - 10ml 食用油，倒入西红柿，炒至变软",
-      "estimatedMinutes": 25
-    },
-    {
-      "id": "HowToCook:dishes/vegetable_dish/鸡蛋火腿炒黄瓜.md",
-      "name": "鸡蛋火腿炒黄瓜的做法",
-      "protein": "egg",
-      "role": "side",
-      "source": "dishes/vegetable_dish/鸡蛋火腿炒黄瓜.md",
-      "tags": [
-        "quick",
-        "spicy-friendly"
-      ],
-      "ingredients": [
-        "黄瓜",
-        "鸡蛋",
-        "火腿肠",
-        "盐",
-        "生抽",
-        "红尖椒"
-      ],
-      "method": "- 油热后转小火，倒入打散的鸡蛋液，用筷子划散，翻炒至鸡蛋结为固体且颜色微微发黄，即为 半熟鸡蛋，盛出备用；- 不用洗锅，往锅内倒入 5ml 食用油，倒入黄瓜片大火翻炒 1 分钟；- 把 半熟鸡蛋 倒入锅中，调入 2g 盐、3ml 生抽，立刻倒入火腿片和辣椒碎（可选）翻炒均匀",
       "estimatedMinutes": 25
     },
     {
@@ -2266,8 +2184,48 @@
       "estimatedMinutes": 25
     },
     {
+      "id": "HowToCook:dishes/vegetable_dish/西葫芦炒鸡蛋/西葫芦炒鸡蛋.md",
+      "name": "西葫芦炒鸡蛋",
+      "protein": "egg",
+      "role": "side",
+      "source": "dishes/vegetable_dish/西葫芦炒鸡蛋/西葫芦炒鸡蛋.md",
+      "tags": [
+        "quick"
+      ],
+      "ingredients": [
+        "西葫芦",
+        "鸡蛋",
+        "西红柿",
+        "食用盐",
+        "食用油"
+      ],
+      "method": "- 热锅，锅内放入 5ml - 10ml 食用油；- 倒入鸡蛋，保持翻炒至鸡蛋成固体，用锅铲分成小块后盛到碗里，备用；- 锅内放入 5ml - 10ml 食用油，倒入西红柿，炒至变软",
+      "estimatedMinutes": 25
+    },
+    {
+      "id": "HowToCook:dishes/vegetable_dish/鸡蛋火腿炒黄瓜.md",
+      "name": "鸡蛋火腿炒黄瓜",
+      "protein": "egg",
+      "role": "side",
+      "source": "dishes/vegetable_dish/鸡蛋火腿炒黄瓜.md",
+      "tags": [
+        "quick",
+        "spicy-friendly"
+      ],
+      "ingredients": [
+        "黄瓜",
+        "鸡蛋",
+        "火腿肠",
+        "盐",
+        "生抽",
+        "红尖椒"
+      ],
+      "method": "- 油热后转小火，倒入打散的鸡蛋液，用筷子划散，翻炒至鸡蛋结为固体且颜色微微发黄，即为 半熟鸡蛋，盛出备用；- 不用洗锅，往锅内倒入 5ml 食用油，倒入黄瓜片大火翻炒 1 分钟；- 把 半熟鸡蛋 倒入锅中，调入 2g 盐、3ml 生抽，立刻倒入火腿片和辣椒碎（可选）翻炒均匀",
+      "estimatedMinutes": 25
+    },
+    {
       "id": "HowToCook:dishes/vegetable_dish/蒲烧茄子.md",
-      "name": "蒲烧茄子的做法",
+      "name": "蒲烧茄子",
       "protein": "other",
       "role": "side",
       "source": "dishes/vegetable_dish/蒲烧茄子.md",
@@ -2308,7 +2266,7 @@
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/凉拌木耳/凉拌木耳.md",
-      "name": "凉拌木耳的做法",
+      "name": "凉拌木耳",
       "protein": "other",
       "role": "side",
       "source": "dishes/vegetable_dish/凉拌木耳/凉拌木耳.md",
@@ -2330,7 +2288,7 @@
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/凉拌莴笋/凉拌莴笋.md",
-      "name": "凉拌莴笋的做法",
+      "name": "凉拌莴笋",
       "protein": "other",
       "role": "side",
       "source": "dishes/vegetable_dish/凉拌莴笋/凉拌莴笋.md",
@@ -2352,7 +2310,7 @@
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/凉拌豆腐.md",
-      "name": "凉拌豆腐的做法",
+      "name": "凉拌豆腐",
       "protein": "tofu",
       "role": "side",
       "source": "dishes/vegetable_dish/凉拌豆腐.md",
@@ -2374,7 +2332,7 @@
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/凉拌金针菇.md",
-      "name": "凉拌金针菇的做法",
+      "name": "凉拌金针菇",
       "protein": "other",
       "role": "side",
       "source": "dishes/vegetable_dish/凉拌金针菇.md",
@@ -2396,7 +2354,7 @@
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/清炒花菜.md",
-      "name": "清炒花菜的做法",
+      "name": "清炒花菜",
       "protein": "other",
       "role": "side",
       "source": "dishes/vegetable_dish/清炒花菜.md",
@@ -2414,7 +2372,7 @@
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/烤茄子/烤茄子.md",
-      "name": "烤茄子的做法",
+      "name": "烤茄子",
       "protein": "other",
       "role": "side",
       "source": "dishes/vegetable_dish/烤茄子/烤茄子.md",
@@ -2435,7 +2393,7 @@
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/白灼菜心/白灼菜心.md",
-      "name": "白灼菜心的做法",
+      "name": "白灼菜心",
       "protein": "other",
       "role": "side",
       "source": "dishes/vegetable_dish/白灼菜心/白灼菜心.md",
@@ -2455,7 +2413,7 @@
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/雷椒皮蛋.md",
-      "name": "雷椒皮蛋的做法",
+      "name": "雷椒皮蛋",
       "protein": "egg",
       "role": "side",
       "source": "dishes/vegetable_dish/雷椒皮蛋.md",
@@ -2516,7 +2474,7 @@
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/小炒藕丁/小炒藕丁.md",
-      "name": "小炒藕丁的做法",
+      "name": "小炒藕丁",
       "protein": "other",
       "role": "side",
       "source": "dishes/vegetable_dish/小炒藕丁/小炒藕丁.md",
@@ -2537,7 +2495,7 @@
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/清蒸南瓜.md",
-      "name": "清蒸南瓜的做法",
+      "name": "清蒸南瓜",
       "protein": "other",
       "role": "side",
       "source": "dishes/vegetable_dish/清蒸南瓜.md",
@@ -2553,7 +2511,7 @@
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/蒜蓉空心菜/蒜蓉空心菜.md",
-      "name": "蒜蓉空心菜的做法",
+      "name": "蒜蓉空心菜",
       "protein": "other",
       "role": "side",
       "source": "dishes/vegetable_dish/蒜蓉空心菜/蒜蓉空心菜.md",
@@ -2573,7 +2531,7 @@
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/蒜蓉西兰花.md",
-      "name": "蒜蓉西兰花的做法",
+      "name": "蒜蓉西兰花",
       "protein": "other",
       "role": "side",
       "source": "dishes/vegetable_dish/蒜蓉西兰花.md",
@@ -2592,7 +2550,7 @@
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/虎皮青椒/虎皮青椒.md",
-      "name": "虎皮青椒的做法",
+      "name": "虎皮青椒",
       "protein": "other",
       "role": "side",
       "source": "dishes/vegetable_dish/虎皮青椒/虎皮青椒.md",
@@ -2612,7 +2570,7 @@
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/酸辣土豆丝.md",
-      "name": "酸辣土豆丝的做法",
+      "name": "酸辣土豆丝",
       "protein": "other",
       "role": "side",
       "source": "dishes/vegetable_dish/酸辣土豆丝.md",
@@ -2633,7 +2591,7 @@
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/陕北熬豆角.md",
-      "name": "陕北熬豆角的做法",
+      "name": "陕北熬豆角",
       "protein": "other",
       "role": "side",
       "source": "dishes/vegetable_dish/陕北熬豆角.md",
@@ -2695,7 +2653,7 @@
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/印度葫芦丸子.md",
-      "name": "印度葫芦丸子的做法",
+      "name": "印度葫芦丸子",
       "protein": "other",
       "role": "side",
       "source": "dishes/vegetable_dish/印度葫芦丸子.md",
@@ -2719,7 +2677,7 @@
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/炒青菜.md",
-      "name": "炒青菜的做法",
+      "name": "炒青菜",
       "protein": "other",
       "role": "side",
       "source": "dishes/vegetable_dish/炒青菜.md",
@@ -2734,7 +2692,7 @@
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/糖拌西红柿/糖拌西红柿.md",
-      "name": "糖拌西红柿的做法",
+      "name": "糖拌西红柿",
       "protein": "other",
       "role": "side",
       "source": "dishes/vegetable_dish/糖拌西红柿/糖拌西红柿.md",
@@ -2749,7 +2707,7 @@
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/脆皮豆腐.md",
-      "name": "脆皮豆腐的做法",
+      "name": "脆皮豆腐",
       "protein": "tofu",
       "role": "side",
       "source": "dishes/vegetable_dish/脆皮豆腐.md",
@@ -2770,7 +2728,7 @@
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/芹菜拌茶树菇/芹菜拌茶树菇.md",
-      "name": "芹菜拌茶树菇的做法",
+      "name": "芹菜拌茶树菇",
       "protein": "other",
       "role": "side",
       "source": "dishes/vegetable_dish/芹菜拌茶树菇/芹菜拌茶树菇.md",
@@ -2788,7 +2746,7 @@
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/蚝油生菜.md",
-      "name": "蚝油生菜的做法",
+      "name": "蚝油生菜",
       "protein": "other",
       "role": "side",
       "source": "dishes/vegetable_dish/蚝油生菜.md",
@@ -2805,28 +2763,8 @@
       "estimatedMinutes": 35
     },
     {
-      "id": "HowToCook:dishes/vegetable_dish/西红柿炒鸡蛋.md",
-      "name": "西红柿炒鸡蛋的做法",
-      "protein": "egg",
-      "role": "side",
-      "source": "dishes/vegetable_dish/西红柿炒鸡蛋.md",
-      "tags": [
-        "quick"
-      ],
-      "ingredients": [
-        "西红柿",
-        "鸡蛋",
-        "食用油",
-        "盐",
-        "糖",
-        "葱花"
-      ],
-      "method": "- 开水烫表皮，然后将西红柿放入冷水，剥去外皮；- 将鸡蛋打入碗中，加入 1g 份数 的盐，搅匀，即为 鸡蛋液；- 可以考虑向鸡蛋中加入 1ml 醋，这可以去除腥味，令鸡蛋更蓬松",
-      "estimatedMinutes": 25
-    },
-    {
       "id": "HowToCook:dishes/vegetable_dish/茄子炖土豆.md",
-      "name": "茄子炖土豆的做法",
+      "name": "茄子炖土豆",
       "protein": "other",
       "role": "side",
       "source": "dishes/vegetable_dish/茄子炖土豆.md",
@@ -2848,7 +2786,7 @@
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/印度土豆花菜.md",
-      "name": "印度土豆花菜的做法",
+      "name": "印度土豆花菜",
       "protein": "other",
       "role": "side",
       "source": "dishes/vegetable_dish/印度土豆花菜.md",
@@ -2871,7 +2809,7 @@
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/地三鲜.md",
-      "name": "地三鲜的做法",
+      "name": "地三鲜",
       "protein": "other",
       "role": "side",
       "source": "dishes/vegetable_dish/地三鲜.md",
@@ -2893,7 +2831,7 @@
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/松仁玉米.md",
-      "name": "松仁玉米的做法",
+      "name": "松仁玉米",
       "protein": "other",
       "role": "side",
       "source": "dishes/vegetable_dish/松仁玉米.md",
@@ -2914,7 +2852,7 @@
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/红烧冬瓜/红烧冬瓜.md",
-      "name": "红烧冬瓜的做法",
+      "name": "红烧冬瓜",
       "protein": "other",
       "role": "side",
       "source": "dishes/vegetable_dish/红烧冬瓜/红烧冬瓜.md",
@@ -2935,7 +2873,7 @@
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/葱煎豆腐.md",
-      "name": "葱煎豆腐的做法",
+      "name": "葱煎豆腐",
       "protein": "tofu",
       "role": "side",
       "source": "dishes/vegetable_dish/葱煎豆腐.md",
@@ -2957,7 +2895,7 @@
     },
     {
       "id": "HowToCook:dishes/soup/生汆丸子汤.md",
-      "name": "生汆丸子汤的做法",
+      "name": "生汆丸子汤",
       "protein": "egg",
       "role": "soup",
       "source": "dishes/soup/生汆丸子汤.md",
@@ -2977,7 +2915,7 @@
     },
     {
       "id": "HowToCook:dishes/soup/番茄牛肉蛋花汤.md",
-      "name": "番茄牛肉蛋花汤的做法",
+      "name": "番茄牛肉蛋花汤",
       "protein": "egg",
       "role": "soup",
       "source": "dishes/soup/番茄牛肉蛋花汤.md",
@@ -2997,7 +2935,7 @@
     },
     {
       "id": "HowToCook:dishes/soup/西红柿鸡蛋汤.md",
-      "name": "西红柿鸡蛋汤的做法",
+      "name": "西红柿鸡蛋汤",
       "protein": "egg",
       "role": "soup",
       "source": "dishes/soup/西红柿鸡蛋汤.md",
@@ -3017,7 +2955,7 @@
     },
     {
       "id": "HowToCook:dishes/soup/金针菇汤.md",
-      "name": "金针菇汤的做法",
+      "name": "金针菇汤",
       "protein": "egg",
       "role": "soup",
       "source": "dishes/soup/金针菇汤.md",
@@ -3033,7 +2971,7 @@
     },
     {
       "id": "HowToCook:dishes/soup/昂刺鱼豆腐汤/昂刺鱼豆腐汤.md",
-      "name": "昂刺鱼豆腐汤的做法",
+      "name": "昂刺鱼豆腐汤",
       "protein": "fish",
       "role": "soup",
       "source": "dishes/soup/昂刺鱼豆腐汤/昂刺鱼豆腐汤.md",
@@ -3053,7 +2991,7 @@
     },
     {
       "id": "HowToCook:dishes/soup/黄瓜皮蛋汤.md",
-      "name": "黄瓜皮蛋汤的做法",
+      "name": "黄瓜皮蛋汤",
       "protein": "egg",
       "role": "soup",
       "source": "dishes/soup/黄瓜皮蛋汤.md",
@@ -3074,7 +3012,7 @@
     },
     {
       "id": "HowToCook:dishes/soup/罗宋汤.md",
-      "name": "罗宋汤的做法",
+      "name": "罗宋汤",
       "protein": "other",
       "role": "soup",
       "source": "dishes/soup/罗宋汤.md",
@@ -3089,7 +3027,7 @@
     },
     {
       "id": "HowToCook:dishes/soup/勾芡香菇汤/勾芡香菇汤.md",
-      "name": "勾芡香菇汤的做法",
+      "name": "勾芡香菇汤",
       "protein": "other",
       "role": "soup",
       "source": "dishes/soup/勾芡香菇汤/勾芡香菇汤.md",

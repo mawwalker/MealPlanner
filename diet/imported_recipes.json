@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-03-30T10:40:16.540327",
+  "generatedAt": "2026-03-30T10:59:14.401325",
   "sources": [
     {
       "name": "HowToCook",
@@ -20,7 +20,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/aquatic/咖喱炒蟹.md",
       "relativePath": "dishes/aquatic/咖喱炒蟹.md",
-      "title": "咖喱炒蟹的做法",
+      "title": "咖喱炒蟹",
       "ingredients": [
         "青蟹",
         "咖喱",
@@ -50,7 +50,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "deff70522536"
+      "signature": "2414eeee1e8e"
     },
     {
       "id": "HowToCook:dishes/aquatic/响油鳝丝.md",
@@ -58,7 +58,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/aquatic/响油鳝丝.md",
       "relativePath": "dishes/aquatic/响油鳝丝.md",
-      "title": "响油鳝丝的做法",
+      "title": "响油鳝丝",
       "ingredients": [
         "鳝丝",
         "蒜",
@@ -92,7 +92,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "58d9bab0408c"
+      "signature": "5ee15cb92ac0"
     },
     {
       "id": "HowToCook:dishes/aquatic/小龙虾/小龙虾.md",
@@ -100,7 +100,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/aquatic/小龙虾/小龙虾.md",
       "relativePath": "dishes/aquatic/小龙虾/小龙虾.md",
-      "title": "小龙虾的做法",
+      "title": "小龙虾",
       "ingredients": [
         "龙虾",
         "油",
@@ -136,7 +136,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "dd6308ab5899"
+      "signature": "90061bfa1c24"
     },
     {
       "id": "HowToCook:dishes/aquatic/干煎阿根廷红虾/干煎阿根廷红虾.md",
@@ -144,7 +144,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/aquatic/干煎阿根廷红虾/干煎阿根廷红虾.md",
       "relativePath": "dishes/aquatic/干煎阿根廷红虾/干煎阿根廷红虾.md",
-      "title": "干煎阿根廷红虾的做法",
+      "title": "干煎阿根廷红虾",
       "ingredients": [
         "阿廷红虾",
         "海盐",
@@ -174,7 +174,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "4ba749e72e17"
+      "signature": "d61c759798dc"
     },
     {
       "id": "HowToCook:dishes/aquatic/微波葱姜黑鳕鱼.md",
@@ -182,7 +182,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/aquatic/微波葱姜黑鳕鱼.md",
       "relativePath": "dishes/aquatic/微波葱姜黑鳕鱼.md",
-      "title": "微波葱姜黑鳕鱼的做法",
+      "title": "微波葱姜黑鳕鱼",
       "ingredients": [
         "原料",
         "黑鳕鱼 带皮",
@@ -212,7 +212,7 @@
       ],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "4a5bde3ff99d"
+      "signature": "370bb1e3b873"
     },
     {
       "id": "HowToCook:dishes/aquatic/水煮鱼.md",
@@ -220,7 +220,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/aquatic/水煮鱼.md",
       "relativePath": "dishes/aquatic/水煮鱼.md",
-      "title": "水煮鱼的做法",
+      "title": "水煮鱼",
       "ingredients": [
         "巴沙鱼",
         "蔬菜",
@@ -256,7 +256,7 @@
       ],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "763ce0bed714"
+      "signature": "720f8e88e511"
     },
     {
       "id": "HowToCook:dishes/aquatic/油焖大虾/油焖大虾.md",
@@ -264,7 +264,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/aquatic/油焖大虾/油焖大虾.md",
       "relativePath": "dishes/aquatic/油焖大虾/油焖大虾.md",
-      "title": "油焖大虾的做法",
+      "title": "油焖大虾",
       "ingredients": [
         "黑虎虾 or 明虾",
         "葱 姜",
@@ -286,7 +286,7 @@
       ],
       "estimatedMinutes": 45,
       "difficulty": 4,
-      "signature": "0d152c5eb97e"
+      "signature": "c6e79e69b201"
     },
     {
       "id": "HowToCook:dishes/aquatic/混合烤鱼/烤鱼.md",
@@ -294,7 +294,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/aquatic/混合烤鱼/烤鱼.md",
       "relativePath": "dishes/aquatic/混合烤鱼/烤鱼.md",
-      "title": "烤鱼的做法",
+      "title": "烤鱼",
       "ingredients": [
         "葱",
         "料酒",
@@ -329,7 +329,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "c6c0d1f6260c"
+      "signature": "0a2f205ae4eb"
     },
     {
       "id": "HowToCook:dishes/aquatic/清蒸生蚝.md",
@@ -337,7 +337,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/aquatic/清蒸生蚝.md",
       "relativePath": "dishes/aquatic/清蒸生蚝.md",
-      "title": "清蒸生蚝的做法",
+      "title": "清蒸生蚝",
       "ingredients": [
         "生蚝",
         "葱",
@@ -362,7 +362,7 @@
       ],
       "estimatedMinutes": 20,
       "difficulty": 2,
-      "signature": "5d370838ac64"
+      "signature": "d7c64ab508b0"
     },
     {
       "id": "HowToCook:dishes/aquatic/清蒸鲈鱼/清蒸鲈鱼.md",
@@ -370,7 +370,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/aquatic/清蒸鲈鱼/清蒸鲈鱼.md",
       "relativePath": "dishes/aquatic/清蒸鲈鱼/清蒸鲈鱼.md",
-      "title": "清蒸鲈鱼的做法",
+      "title": "清蒸鲈鱼",
       "ingredients": [
         "香葱",
         "姜",
@@ -398,7 +398,7 @@
       ],
       "estimatedMinutes": 20,
       "difficulty": 2,
-      "signature": "8778ef4da9aa"
+      "signature": "48c7a6dbac7d"
     },
     {
       "id": "HowToCook:dishes/aquatic/白灼虾/白灼虾.md",
@@ -406,7 +406,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/aquatic/白灼虾/白灼虾.md",
       "relativePath": "dishes/aquatic/白灼虾/白灼虾.md",
-      "title": "白灼虾的做法",
+      "title": "白灼虾",
       "ingredients": [
         "活虾",
         "洋葱",
@@ -438,7 +438,7 @@
       ],
       "estimatedMinutes": 20,
       "difficulty": 2,
-      "signature": "101fbd32c7a8"
+      "signature": "451f79888d38"
     },
     {
       "id": "HowToCook:dishes/aquatic/糖醋鲤鱼/糖醋鲤鱼.md",
@@ -446,7 +446,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/aquatic/糖醋鲤鱼/糖醋鲤鱼.md",
       "relativePath": "dishes/aquatic/糖醋鲤鱼/糖醋鲤鱼.md",
-      "title": "糖醋鲤鱼的做法",
+      "title": "糖醋鲤鱼",
       "ingredients": [
         "鲤鱼",
         "番茄酱",
@@ -481,7 +481,7 @@
       ],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "396e577bb498"
+      "signature": "205c8e0dc0b4"
     },
     {
       "id": "HowToCook:dishes/aquatic/红烧鱼.md",
@@ -489,7 +489,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/aquatic/红烧鱼.md",
       "relativePath": "dishes/aquatic/红烧鱼.md",
-      "title": "红烧鱼的做法",
+      "title": "红烧鱼",
       "ingredients": [
         "姜 蒜瓣 干辣椒",
         "鱼",
@@ -521,7 +521,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "916e98f4f929"
+      "signature": "039f9556b5a3"
     },
     {
       "id": "HowToCook:dishes/aquatic/红烧鱼头.md",
@@ -529,7 +529,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/aquatic/红烧鱼头.md",
       "relativePath": "dishes/aquatic/红烧鱼头.md",
-      "title": "红烧鱼头的做法",
+      "title": "红烧鱼头",
       "ingredients": [
         "八角 干辣椒",
         "鱼头一",
@@ -560,7 +560,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "46856b235442"
+      "signature": "60bb06c02db0"
     },
     {
       "id": "HowToCook:dishes/aquatic/红烧鲤鱼.md",
@@ -568,7 +568,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/aquatic/红烧鲤鱼.md",
       "relativePath": "dishes/aquatic/红烧鲤鱼.md",
-      "title": "红烧鲤鱼的做法",
+      "title": "红烧鲤鱼",
       "ingredients": [
         "葱 姜 蒜 干辣椒",
         "鲤鱼 五花肉"
@@ -595,7 +595,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 3,
-      "signature": "8913ee423d95"
+      "signature": "d590c55928be"
     },
     {
       "id": "HowToCook:dishes/aquatic/肉蟹煲.md",
@@ -603,7 +603,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/aquatic/肉蟹煲.md",
       "relativePath": "dishes/aquatic/肉蟹煲.md",
-      "title": "肉蟹煲的做法",
+      "title": "肉蟹煲",
       "ingredients": [
         "虾",
         "土豆",
@@ -636,7 +636,7 @@
       ],
       "estimatedMinutes": 45,
       "difficulty": 4,
-      "signature": "f17009a3e8c7"
+      "signature": "983a7e5c1431"
     },
     {
       "id": "HowToCook:dishes/aquatic/芥末黄油罗氏虾/芥末黄油罗氏虾.md",
@@ -644,7 +644,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/aquatic/芥末黄油罗氏虾/芥末黄油罗氏虾.md",
       "relativePath": "dishes/aquatic/芥末黄油罗氏虾/芥末黄油罗氏虾.md",
-      "title": "芥末黄油罗氏虾的做法",
+      "title": "芥末黄油罗氏虾",
       "ingredients": [
         "罗氏虾",
         "黄油",
@@ -675,7 +675,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "88450485811b"
+      "signature": "7277c363fe3c"
     },
     {
       "id": "HowToCook:dishes/aquatic/葱油桂鱼/葱油桂鱼.md",
@@ -683,7 +683,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/aquatic/葱油桂鱼/葱油桂鱼.md",
       "relativePath": "dishes/aquatic/葱油桂鱼/葱油桂鱼.md",
-      "title": "葱油桂鱼的做法",
+      "title": "葱油桂鱼",
       "ingredients": [
         "桂鱼",
         "葱",
@@ -718,7 +718,7 @@
       ],
       "estimatedMinutes": 20,
       "difficulty": 2,
-      "signature": "9f09205d8282"
+      "signature": "16783599c890"
     },
     {
       "id": "HowToCook:dishes/aquatic/葱烧海参/葱烧海参.md",
@@ -726,7 +726,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/aquatic/葱烧海参/葱烧海参.md",
       "relativePath": "dishes/aquatic/葱烧海参/葱烧海参.md",
-      "title": "葱烧海参的做法",
+      "title": "葱烧海参",
       "ingredients": [
         "泡发好的海参",
         "葱葱白"
@@ -748,7 +748,7 @@
       "tags": [],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "3682c788dc56"
+      "signature": "bf1db9486f46"
     },
     {
       "id": "HowToCook:dishes/aquatic/蒜蓉虾/蒜蓉虾.md",
@@ -756,7 +756,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/aquatic/蒜蓉虾/蒜蓉虾.md",
       "relativePath": "dishes/aquatic/蒜蓉虾/蒜蓉虾.md",
-      "title": "蒜蓉虾的做法",
+      "title": "蒜蓉虾",
       "ingredients": [
         "海虾",
         "蒜蓉酱",
@@ -779,7 +779,7 @@
       ],
       "estimatedMinutes": 20,
       "difficulty": 2,
-      "signature": "72ee912780df"
+      "signature": "076246ea0304"
     },
     {
       "id": "HowToCook:dishes/aquatic/蒜香黄油虾/蒜香黄油虾.md",
@@ -787,7 +787,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/aquatic/蒜香黄油虾/蒜香黄油虾.md",
       "relativePath": "dishes/aquatic/蒜香黄油虾/蒜香黄油虾.md",
-      "title": "蒜香黄油虾的做法",
+      "title": "蒜香黄油虾",
       "ingredients": [
         "无盐黄油",
         "蒜",
@@ -815,7 +815,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "1cc113d02fc5"
+      "signature": "7514d91cc422"
     },
     {
       "id": "HowToCook:dishes/aquatic/蛏抱蛋/蛏抱蛋.md",
@@ -823,7 +823,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/aquatic/蛏抱蛋/蛏抱蛋.md",
       "relativePath": "dishes/aquatic/蛏抱蛋/蛏抱蛋.md",
-      "title": "蛏抱蛋的做法",
+      "title": "蛏抱蛋",
       "ingredients": [
         "蛏子",
         "鸡蛋",
@@ -850,7 +850,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 3,
-      "signature": "31455eff110b"
+      "signature": "2b3c6abb1bd4"
     },
     {
       "id": "HowToCook:dishes/aquatic/酱炖蟹.md",
@@ -858,7 +858,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/aquatic/酱炖蟹.md",
       "relativePath": "dishes/aquatic/酱炖蟹.md",
-      "title": "酱炖蟹的做法",
+      "title": "酱炖蟹",
       "ingredients": [
         "豆瓣酱",
         "冰糖",
@@ -889,7 +889,7 @@
       ],
       "estimatedMinutes": 45,
       "difficulty": 4,
-      "signature": "d955d216c86c"
+      "signature": "1bc636f28a08"
     },
     {
       "id": "HowToCook:dishes/aquatic/香煎翘嘴鱼/香煎翘嘴鱼.md",
@@ -897,7 +897,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/aquatic/香煎翘嘴鱼/香煎翘嘴鱼.md",
       "relativePath": "dishes/aquatic/香煎翘嘴鱼/香煎翘嘴鱼.md",
-      "title": "香煎翘嘴鱼的做法",
+      "title": "香煎翘嘴鱼",
       "ingredients": [
         "姜",
         "葱",
@@ -931,7 +931,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "7a66d5e696a3"
+      "signature": "c21b6d7719f3"
     },
     {
       "id": "HowToCook:dishes/aquatic/鲤鱼炖白菜/鲤鱼炖白菜.md",
@@ -939,7 +939,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/aquatic/鲤鱼炖白菜/鲤鱼炖白菜.md",
       "relativePath": "dishes/aquatic/鲤鱼炖白菜/鲤鱼炖白菜.md",
-      "title": "鲤鱼炖白菜的做法",
+      "title": "鲤鱼炖白菜",
       "ingredients": [
         "食用油",
         "姜",
@@ -975,7 +975,7 @@
       ],
       "estimatedMinutes": 45,
       "difficulty": 4,
-      "signature": "dceb402cfebd"
+      "signature": "71e88207ed69"
     },
     {
       "id": "HowToCook:dishes/aquatic/鳊鱼炖豆腐/鳊鱼炖豆腐.md",
@@ -983,7 +983,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/aquatic/鳊鱼炖豆腐/鳊鱼炖豆腐.md",
       "relativePath": "dishes/aquatic/鳊鱼炖豆腐/鳊鱼炖豆腐.md",
-      "title": "鳊鱼炖豆腐的做法",
+      "title": "鳊鱼炖豆腐",
       "ingredients": [
         "老豆腐",
         "姜",
@@ -1020,7 +1020,7 @@
       ],
       "estimatedMinutes": 45,
       "difficulty": 4,
-      "signature": "510a48adf998"
+      "signature": "bf7ad5e3fea7"
     },
     {
       "id": "HowToCook:dishes/aquatic/黄油煎虾/黄油煎虾.md",
@@ -1028,7 +1028,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/aquatic/黄油煎虾/黄油煎虾.md",
       "relativePath": "dishes/aquatic/黄油煎虾/黄油煎虾.md",
-      "title": "黄油煎虾的做法",
+      "title": "黄油煎虾",
       "ingredients": [
         "黄油",
         "黑胡椒粒",
@@ -1056,7 +1056,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "604baab492aa"
+      "signature": "296ac80f557c"
     },
     {
       "id": "HowToCook:dishes/breakfast/吐司果酱.md",
@@ -1064,7 +1064,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/breakfast/吐司果酱.md",
       "relativePath": "dishes/breakfast/吐司果酱.md",
-      "title": "吐司果酱的做法",
+      "title": "吐司果酱",
       "ingredients": [
         "新鲜吐司",
         "果酱",
@@ -1084,7 +1084,7 @@
       ],
       "estimatedMinutes": 35,
       "difficulty": 3,
-      "signature": "2b2c7a0fa91b"
+      "signature": "cf2efce1eafe"
     },
     {
       "id": "HowToCook:dishes/breakfast/太阳蛋.md",
@@ -1092,7 +1092,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/breakfast/太阳蛋.md",
       "relativePath": "dishes/breakfast/太阳蛋.md",
-      "title": "太阳蛋的做法",
+      "title": "太阳蛋",
       "ingredients": [
         "鸡蛋",
         "盐",
@@ -1112,7 +1112,7 @@
       "tags": [],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "1eaddf7b58ab"
+      "signature": "69020606a405"
     },
     {
       "id": "HowToCook:dishes/breakfast/完美水煮蛋.md",
@@ -1120,7 +1120,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/breakfast/完美水煮蛋.md",
       "relativePath": "dishes/breakfast/完美水煮蛋.md",
-      "title": "完美水煮蛋的做法",
+      "title": "完美水煮蛋",
       "ingredients": [
         "°C 沸水锅",
         "°C 温水锅",
@@ -1141,7 +1141,7 @@
       "tags": [],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "6f39e99008c9"
+      "signature": "8ea1fac8fb98"
     },
     {
       "id": "HowToCook:dishes/breakfast/微波炉荷包蛋.md",
@@ -1149,7 +1149,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/breakfast/微波炉荷包蛋.md",
       "relativePath": "dishes/breakfast/微波炉荷包蛋.md",
-      "title": "微波炉荷包蛋的做法",
+      "title": "微波炉荷包蛋",
       "ingredients": [
         "鸡蛋",
         "芝麻油",
@@ -1170,7 +1170,7 @@
       ],
       "estimatedMinutes": 35,
       "difficulty": 3,
-      "signature": "c02bf51a856b"
+      "signature": "00947bec9ef1"
     },
     {
       "id": "HowToCook:dishes/breakfast/微波炉蒸蛋.md",
@@ -1178,7 +1178,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/breakfast/微波炉蒸蛋.md",
       "relativePath": "dishes/breakfast/微波炉蒸蛋.md",
-      "title": "微波炉蒸蛋的做法",
+      "title": "微波炉蒸蛋",
       "ingredients": [
         "鸡蛋",
         "温水或高",
@@ -1204,7 +1204,7 @@
       ],
       "estimatedMinutes": 20,
       "difficulty": 1,
-      "signature": "d15107c0bb8c"
+      "signature": "51fccd93f894"
     },
     {
       "id": "HowToCook:dishes/breakfast/微波炉蛋糕.md",
@@ -1212,7 +1212,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/breakfast/微波炉蛋糕.md",
       "relativePath": "dishes/breakfast/微波炉蛋糕.md",
-      "title": "微波炉蛋糕的做法",
+      "title": "微波炉蛋糕",
       "ingredients": [
         "微波炉",
         "能放进微波炉的容器",
@@ -1238,7 +1238,7 @@
       "tags": [],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "c86d491f55a3"
+      "signature": "0e7701f548ce"
     },
     {
       "id": "HowToCook:dishes/breakfast/意式香肠北非蛋.md",
@@ -1246,7 +1246,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/breakfast/意式香肠北非蛋.md",
       "relativePath": "dishes/breakfast/意式香肠北非蛋.md",
-      "title": "意式香肠北非蛋的做法",
+      "title": "意式香肠北非蛋",
       "ingredients": [
         "意式猪肉香肠 辣香肠 或切的午餐肉",
         "百味来 拿坡里意面酱",
@@ -1279,7 +1279,7 @@
       ],
       "estimatedMinutes": 45,
       "difficulty": 4,
-      "signature": "a131a13428bf"
+      "signature": "12da3ac1f789"
     },
     {
       "id": "HowToCook:dishes/breakfast/手抓饼.md",
@@ -1287,7 +1287,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/breakfast/手抓饼.md",
       "relativePath": "dishes/breakfast/手抓饼.md",
-      "title": "手抓饼的做法",
+      "title": "手抓饼",
       "ingredients": [
         "普通面粉",
         "开水",
@@ -1316,7 +1316,7 @@
       "tags": [],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "96b47fa08c4d"
+      "signature": "044a1fc99b6c"
     },
     {
       "id": "HowToCook:dishes/breakfast/桂圆红枣粥.md",
@@ -1324,7 +1324,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/breakfast/桂圆红枣粥.md",
       "relativePath": "dishes/breakfast/桂圆红枣粥.md",
-      "title": "桂圆红枣粥的做法",
+      "title": "桂圆红枣粥",
       "ingredients": [
         "糯米",
         "红枣",
@@ -1346,7 +1346,7 @@
       "tags": [],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "9b71963938ae"
+      "signature": "d653ed92c0b7"
     },
     {
       "id": "HowToCook:dishes/breakfast/水煮玉米.md",
@@ -1354,7 +1354,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/breakfast/水煮玉米.md",
       "relativePath": "dishes/breakfast/水煮玉米.md",
-      "title": "水煮玉米的做法",
+      "title": "水煮玉米",
       "ingredients": [
         "新鲜玉米",
         "放得下玉米的锅",
@@ -1376,7 +1376,7 @@
       "tags": [],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "7c18f3dcae62"
+      "signature": "3dcabbe42fc6"
     },
     {
       "id": "HowToCook:dishes/breakfast/温泉蛋/温泉蛋.md",
@@ -1384,7 +1384,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/breakfast/温泉蛋/温泉蛋.md",
       "relativePath": "dishes/breakfast/温泉蛋/温泉蛋.md",
-      "title": "温泉蛋的做法",
+      "title": "温泉蛋",
       "ingredients": [
         "鸡蛋",
         "额外用作点缀的食材 可选",
@@ -1406,7 +1406,7 @@
       ],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "76f364777c83"
+      "signature": "bf916944e30f"
     },
     {
       "id": "HowToCook:dishes/breakfast/溏心蛋.md",
@@ -1414,7 +1414,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/breakfast/溏心蛋.md",
       "relativePath": "dishes/breakfast/溏心蛋.md",
-      "title": "溏心蛋的做法",
+      "title": "溏心蛋",
       "ingredients": [
         "鸡蛋",
         "电锅",
@@ -1434,7 +1434,7 @@
       "tags": [],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "ce5d4f0280ed"
+      "signature": "93ecc0cc0035"
     },
     {
       "id": "HowToCook:dishes/breakfast/煎饺.md",
@@ -1442,7 +1442,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/breakfast/煎饺.md",
       "relativePath": "dishes/breakfast/煎饺.md",
-      "title": "煎饺的做法",
+      "title": "煎饺",
       "ingredients": [
         "饺子"
       ],
@@ -1463,7 +1463,7 @@
       "tags": [],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "f06faa71e651"
+      "signature": "59eee9b50a52"
     },
     {
       "id": "HowToCook:dishes/breakfast/燕麦鸡蛋饼.md",
@@ -1471,7 +1471,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/breakfast/燕麦鸡蛋饼.md",
       "relativePath": "dishes/breakfast/燕麦鸡蛋饼.md",
-      "title": "燕麦鸡蛋饼的做法",
+      "title": "燕麦鸡蛋饼",
       "ingredients": [
         "鸡蛋",
         "燕麦",
@@ -1491,7 +1491,7 @@
       "tags": [],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "25956ba73965"
+      "signature": "a815c2a5f3e2"
     },
     {
       "id": "HowToCook:dishes/breakfast/牛奶燕麦.md",
@@ -1499,7 +1499,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/breakfast/牛奶燕麦.md",
       "relativePath": "dishes/breakfast/牛奶燕麦.md",
-      "title": "牛奶燕麦的做法",
+      "title": "牛奶燕麦",
       "ingredients": [
         "牛奶",
         "燕麦",
@@ -1522,7 +1522,7 @@
       "tags": [],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "5f937794ea85"
+      "signature": "a279c0fe52c1"
     },
     {
       "id": "HowToCook:dishes/breakfast/空气炸锅面包片.md",
@@ -1530,7 +1530,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/breakfast/空气炸锅面包片.md",
       "relativePath": "dishes/breakfast/空气炸锅面包片.md",
-      "title": "空气炸锅面包片的做法",
+      "title": "空气炸锅面包片",
       "ingredients": [
         "面包",
         "空气炸锅"
@@ -1549,7 +1549,7 @@
       ],
       "estimatedMinutes": 35,
       "difficulty": 3,
-      "signature": "bcbb40d8518b"
+      "signature": "678214f3df99"
     },
     {
       "id": "HowToCook:dishes/breakfast/美式炒蛋.md",
@@ -1557,7 +1557,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/breakfast/美式炒蛋.md",
       "relativePath": "dishes/breakfast/美式炒蛋.md",
-      "title": "美式炒蛋的做法",
+      "title": "美式炒蛋",
       "ingredients": [
         "鸡蛋",
         "全脂牛奶奶油",
@@ -1579,7 +1579,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "9f4af46f1fee"
+      "signature": "db14637d4b4a"
     },
     {
       "id": "HowToCook:dishes/breakfast/苏格兰蛋/苏格兰蛋.md",
@@ -1587,7 +1587,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/breakfast/苏格兰蛋/苏格兰蛋.md",
       "relativePath": "dishes/breakfast/苏格兰蛋/苏格兰蛋.md",
-      "title": "苏格兰蛋的做法",
+      "title": "苏格兰蛋",
       "ingredients": [
         "鸡蛋",
         "手抓饼皮",
@@ -1611,7 +1611,7 @@
       ],
       "estimatedMinutes": 35,
       "difficulty": 3,
-      "signature": "356a6a399a42"
+      "signature": "f3567acb51a8"
     },
     {
       "id": "HowToCook:dishes/breakfast/茶叶蛋.md",
@@ -1619,7 +1619,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/breakfast/茶叶蛋.md",
       "relativePath": "dishes/breakfast/茶叶蛋.md",
-      "title": "茶叶蛋的做法",
+      "title": "茶叶蛋",
       "ingredients": [
         "鸡蛋",
         "八角",
@@ -1647,7 +1647,7 @@
       "tags": [],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "ec8bbc8ed162"
+      "signature": "355b8f060c38"
     },
     {
       "id": "HowToCook:dishes/breakfast/蒸水蛋.md",
@@ -1655,7 +1655,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/breakfast/蒸水蛋.md",
       "relativePath": "dishes/breakfast/蒸水蛋.md",
-      "title": "蒸水蛋的做法",
+      "title": "蒸水蛋",
       "ingredients": [
         "新鲜鸡蛋",
         "热水",
@@ -1677,7 +1677,7 @@
       ],
       "estimatedMinutes": 20,
       "difficulty": 3,
-      "signature": "5723c37a62d2"
+      "signature": "e1d86fc253a9"
     },
     {
       "id": "HowToCook:dishes/breakfast/蒸花卷.md",
@@ -1685,7 +1685,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/breakfast/蒸花卷.md",
       "relativePath": "dishes/breakfast/蒸花卷.md",
-      "title": "蒸花卷的做法",
+      "title": "蒸花卷",
       "ingredients": [
         "冷冻花卷",
         "圆碟子",
@@ -1707,7 +1707,7 @@
       ],
       "estimatedMinutes": 20,
       "difficulty": 2,
-      "signature": "9fea3d9b504a"
+      "signature": "8529e12be84c"
     },
     {
       "id": "HowToCook:dishes/breakfast/蛋煎糍粑.md",
@@ -1715,7 +1715,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/breakfast/蛋煎糍粑.md",
       "relativePath": "dishes/breakfast/蛋煎糍粑.md",
-      "title": "蛋煎糍粑的做法",
+      "title": "蛋煎糍粑",
       "ingredients": [
         "鸡蛋",
         "糍粑",
@@ -1738,7 +1738,7 @@
       "tags": [],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "2b11786c3eae"
+      "signature": "07f6eff413f4"
     },
     {
       "id": "HowToCook:dishes/breakfast/金枪鱼酱三明治.md",
@@ -1746,7 +1746,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/breakfast/金枪鱼酱三明治.md",
       "relativePath": "dishes/breakfast/金枪鱼酱三明治.md",
-      "title": "金枪鱼酱三明治的做法",
+      "title": "金枪鱼酱三明治",
       "ingredients": [
         "方形吐司",
         "蛋黄酱",
@@ -1767,7 +1767,7 @@
       ],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "3140e603db8f"
+      "signature": "28d9c3346d7c"
     },
     {
       "id": "HowToCook:dishes/breakfast/韩国麻药鸡蛋.md",
@@ -1775,7 +1775,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/breakfast/韩国麻药鸡蛋.md",
       "relativePath": "dishes/breakfast/韩国麻药鸡蛋.md",
-      "title": "韩国麻药鸡蛋的做法",
+      "title": "韩国麻药鸡蛋",
       "ingredients": [
         "鸡蛋",
         "韩式酱油",
@@ -1806,7 +1806,7 @@
       ],
       "estimatedMinutes": 20,
       "difficulty": 2,
-      "signature": "2b8148cbf048"
+      "signature": "82cd4d938840"
     },
     {
       "id": "HowToCook:dishes/breakfast/鸡蛋三明治.md",
@@ -1814,7 +1814,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/breakfast/鸡蛋三明治.md",
       "relativePath": "dishes/breakfast/鸡蛋三明治.md",
-      "title": "鸡蛋三明治的做法",
+      "title": "鸡蛋三明治",
       "ingredients": [
         "鸡蛋",
         "吐司",
@@ -1840,7 +1840,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "fb4f23d68218"
+      "signature": "0a411a203b7f"
     },
     {
       "id": "HowToCook:dishes/meat_dish/乡村啤酒鸭.md",
@@ -1848,7 +1848,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/乡村啤酒鸭.md",
       "relativePath": "dishes/meat_dish/乡村啤酒鸭.md",
-      "title": "乡村啤酒鸭的做法",
+      "title": "乡村啤酒鸭",
       "ingredients": [
         "鸭肉",
         "啤酒",
@@ -1880,7 +1880,7 @@
       ],
       "estimatedMinutes": 45,
       "difficulty": 4,
-      "signature": "8d2f060a02aa"
+      "signature": "35829e387c5f"
     },
     {
       "id": "HowToCook:dishes/meat_dish/农家一碗香/农家一碗香.md",
@@ -1888,7 +1888,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/农家一碗香/农家一碗香.md",
       "relativePath": "dishes/meat_dish/农家一碗香/农家一碗香.md",
-      "title": "农家一碗香的做法",
+      "title": "农家一碗香",
       "ingredients": [
         "猪肉",
         "青椒",
@@ -1918,7 +1918,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "dc1a45b96073"
+      "signature": "f6da0ceddce8"
     },
     {
       "id": "HowToCook:dishes/meat_dish/冬瓜酿肉/冬瓜酿肉.md",
@@ -1926,7 +1926,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/冬瓜酿肉/冬瓜酿肉.md",
       "relativePath": "dishes/meat_dish/冬瓜酿肉/冬瓜酿肉.md",
-      "title": "冬瓜酿肉的做法",
+      "title": "冬瓜酿肉",
       "ingredients": [
         "冬瓜",
         "猪肉末",
@@ -1954,7 +1954,7 @@
       "tags": [],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "945252445785"
+      "signature": "e61b3501003c"
     },
     {
       "id": "HowToCook:dishes/meat_dish/冷吃兔.md",
@@ -1962,7 +1962,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/冷吃兔.md",
       "relativePath": "dishes/meat_dish/冷吃兔.md",
-      "title": "冷吃兔的做法",
+      "title": "冷吃兔",
       "ingredients": [
         "兔肉",
         "盐",
@@ -1996,7 +1996,7 @@
       ],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "9476d58973ba"
+      "signature": "5ab27c728935"
     },
     {
       "id": "HowToCook:dishes/meat_dish/凉拌鸡丝/凉拌鸡丝.md",
@@ -2004,7 +2004,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/凉拌鸡丝/凉拌鸡丝.md",
       "relativePath": "dishes/meat_dish/凉拌鸡丝/凉拌鸡丝.md",
-      "title": "凉拌鸡丝的做法",
+      "title": "凉拌鸡丝",
       "ingredients": [
         "鸡胸肉",
         "麻油",
@@ -2036,7 +2036,7 @@
       ],
       "estimatedMinutes": 20,
       "difficulty": 1,
-      "signature": "14c7fd8f3a28"
+      "signature": "bfa42b0662c4"
     },
     {
       "id": "HowToCook:dishes/meat_dish/卤菜/卤菜.md",
@@ -2044,7 +2044,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/卤菜/卤菜.md",
       "relativePath": "dishes/meat_dish/卤菜/卤菜.md",
-      "title": "卤菜的做法",
+      "title": "卤菜",
       "ingredients": [
         "卤料包",
         "黄豆酱",
@@ -2079,7 +2079,7 @@
       ],
       "estimatedMinutes": 45,
       "difficulty": 4,
-      "signature": "42a8da902c9b"
+      "signature": "4b6aaee657d1"
     },
     {
       "id": "HowToCook:dishes/meat_dish/口水鸡/口水鸡.md",
@@ -2087,7 +2087,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/口水鸡/口水鸡.md",
       "relativePath": "dishes/meat_dish/口水鸡/口水鸡.md",
-      "title": "口水鸡的做法",
+      "title": "口水鸡",
       "ingredients": [
         "半鸡",
         "辣椒粉",
@@ -2118,7 +2118,7 @@
       ],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "dbf92017f739"
+      "signature": "44f2f84ba481"
     },
     {
       "id": "HowToCook:dishes/meat_dish/可乐鸡翅.md",
@@ -2126,7 +2126,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/可乐鸡翅.md",
       "relativePath": "dishes/meat_dish/可乐鸡翅.md",
-      "title": "可乐鸡翅的做法",
+      "title": "可乐鸡翅",
       "ingredients": [
         "鸡翅中",
         "可乐",
@@ -2155,7 +2155,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "adb7f182c443"
+      "signature": "6fb8d353d208"
     },
     {
       "id": "HowToCook:dishes/meat_dish/台式卤肉饭/台式卤肉饭.md",
@@ -2163,7 +2163,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/台式卤肉饭/台式卤肉饭.md",
       "relativePath": "dishes/meat_dish/台式卤肉饭/台式卤肉饭.md",
-      "title": "台式卤肉饭的做法",
+      "title": "台式卤肉饭",
       "ingredients": [
         "红葱头",
         "鸡蛋",
@@ -2198,7 +2198,7 @@
       ],
       "estimatedMinutes": 45,
       "difficulty": 4,
-      "signature": "9657003e0a1e"
+      "signature": "95cc38f0609a"
     },
     {
       "id": "HowToCook:dishes/meat_dish/咕噜肉.md",
@@ -2206,7 +2206,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/咕噜肉.md",
       "relativePath": "dishes/meat_dish/咕噜肉.md",
-      "title": "咕噜肉的做法",
+      "title": "咕噜肉",
       "ingredients": [
         "梅头猪肉",
         "青椒",
@@ -2239,7 +2239,7 @@
       ],
       "estimatedMinutes": 20,
       "difficulty": 3,
-      "signature": "fa724087dcb0"
+      "signature": "5462278491d3"
     },
     {
       "id": "HowToCook:dishes/meat_dish/咖喱肥牛/咖喱肥牛.md",
@@ -2247,7 +2247,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/咖喱肥牛/咖喱肥牛.md",
       "relativePath": "dishes/meat_dish/咖喱肥牛/咖喱肥牛.md",
-      "title": "咖喱肥牛的做法",
+      "title": "咖喱肥牛",
       "ingredients": [
         "香叶",
         "纯牛奶",
@@ -2278,7 +2278,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "9871089b2df9"
+      "signature": "e73c57c85983"
     },
     {
       "id": "HowToCook:dishes/meat_dish/商芝肉.md",
@@ -2286,7 +2286,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/商芝肉.md",
       "relativePath": "dishes/meat_dish/商芝肉.md",
-      "title": "商芝肉的做法",
+      "title": "商芝肉",
       "ingredients": [
         "带皮猪五花肉",
         "葱",
@@ -2321,7 +2321,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 3,
-      "signature": "4dc223ce83be"
+      "signature": "9719b164af7f"
     },
     {
       "id": "HowToCook:dishes/meat_dish/啤酒鸭/啤酒鸭.md",
@@ -2329,7 +2329,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/啤酒鸭/啤酒鸭.md",
       "relativePath": "dishes/meat_dish/啤酒鸭/啤酒鸭.md",
-      "title": "啤酒鸭的做法",
+      "title": "啤酒鸭",
       "ingredients": [
         "鸭肉",
         "啤酒",
@@ -2363,7 +2363,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "de603f5d3e93"
+      "signature": "123d31c4ccc1"
     },
     {
       "id": "HowToCook:dishes/meat_dish/回锅肉/回锅肉.md",
@@ -2371,7 +2371,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/回锅肉/回锅肉.md",
       "relativePath": "dishes/meat_dish/回锅肉/回锅肉.md",
-      "title": "回锅肉的做法",
+      "title": "回锅肉",
       "ingredients": [
         "五花肉",
         "葱",
@@ -2403,7 +2403,7 @@
       ],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "a99ecef5b600"
+      "signature": "fd096bc8e001"
     },
     {
       "id": "HowToCook:dishes/meat_dish/土豆炖排骨/土豆炖排骨.md",
@@ -2411,7 +2411,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/土豆炖排骨/土豆炖排骨.md",
       "relativePath": "dishes/meat_dish/土豆炖排骨/土豆炖排骨.md",
-      "title": "土豆炖排骨的做法",
+      "title": "土豆炖排骨",
       "ingredients": [
         "肋排",
         "土豆",
@@ -2447,7 +2447,7 @@
       ],
       "estimatedMinutes": 45,
       "difficulty": 4,
-      "signature": "5f3ad97b4b01"
+      "signature": "f800c42217d1"
     },
     {
       "id": "HowToCook:dishes/meat_dish/奶酪培根通心粉/奶酪培根通心粉.md",
@@ -2455,7 +2455,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/奶酪培根通心粉/奶酪培根通心粉.md",
       "relativePath": "dishes/meat_dish/奶酪培根通心粉/奶酪培根通心粉.md",
-      "title": "奶酪培根通心粉的做法",
+      "title": "奶酪培根通心粉",
       "ingredients": [
         "通心粉",
         "奶酪",
@@ -2483,7 +2483,7 @@
       "tags": [],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "444cdab5b516"
+      "signature": "a51fe27ee12f"
     },
     {
       "id": "HowToCook:dishes/meat_dish/姜炒鸡/姜炒鸡.md",
@@ -2491,7 +2491,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/姜炒鸡/姜炒鸡.md",
       "relativePath": "dishes/meat_dish/姜炒鸡/姜炒鸡.md",
-      "title": "姜炒鸡的做法",
+      "title": "姜炒鸡",
       "ingredients": [
         "鸡",
         "生姜",
@@ -2523,7 +2523,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "66ebf0dc4059"
+      "signature": "b97743e132ea"
     },
     {
       "id": "HowToCook:dishes/meat_dish/姜葱捞鸡/姜葱捞鸡.md",
@@ -2531,7 +2531,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/姜葱捞鸡/姜葱捞鸡.md",
       "relativePath": "dishes/meat_dish/姜葱捞鸡/姜葱捞鸡.md",
-      "title": "姜葱捞鸡的做法",
+      "title": "姜葱捞鸡",
       "ingredients": [
         "鸡腿肉",
         "盐焗鸡粉",
@@ -2556,7 +2556,7 @@
       ],
       "estimatedMinutes": 20,
       "difficulty": 2,
-      "signature": "0b3111e869e1"
+      "signature": "c1974dd443db"
     },
     {
       "id": "HowToCook:dishes/meat_dish/孜然牛肉.md",
@@ -2564,7 +2564,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/孜然牛肉.md",
       "relativePath": "dishes/meat_dish/孜然牛肉.md",
-      "title": "孜然牛肉的做法",
+      "title": "孜然牛肉",
       "ingredients": [
         "牛柳或牛肩肉",
         "青椒",
@@ -2597,7 +2597,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "f18af0cfd343"
+      "signature": "388a5aedd7db"
     },
     {
       "id": "HowToCook:dishes/meat_dish/宫保鸡丁/宫保鸡丁.md",
@@ -2605,7 +2605,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/宫保鸡丁/宫保鸡丁.md",
       "relativePath": "dishes/meat_dish/宫保鸡丁/宫保鸡丁.md",
-      "title": "宫保鸡丁的做法",
+      "title": "宫保鸡丁",
       "ingredients": [
         "手枪腿",
         "葱",
@@ -2640,7 +2640,7 @@
       ],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "d7bccc60935b"
+      "signature": "951c94f9846d"
     },
     {
       "id": "HowToCook:dishes/meat_dish/小炒肉.md",
@@ -2648,7 +2648,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/小炒肉.md",
       "relativePath": "dishes/meat_dish/小炒肉.md",
-      "title": "小炒肉的做法",
+      "title": "小炒肉",
       "ingredients": [
         "五花肉",
         "朝天椒",
@@ -2682,7 +2682,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "cd02afa63749"
+      "signature": "6b2274dd4c00"
     },
     {
       "id": "HowToCook:dishes/meat_dish/小炒鸡肝/小炒鸡肝.md",
@@ -2690,7 +2690,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/小炒鸡肝/小炒鸡肝.md",
       "relativePath": "dishes/meat_dish/小炒鸡肝/小炒鸡肝.md",
-      "title": "小炒鸡肝的做法",
+      "title": "小炒鸡肝",
       "ingredients": [
         "生鸡肝",
         "葱 姜 料酒",
@@ -2719,7 +2719,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "68ac146e5d14"
+      "signature": "9de9ba8e1746"
     },
     {
       "id": "HowToCook:dishes/meat_dish/小炒黄牛肉/小炒黄牛肉.md",
@@ -2727,7 +2727,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/小炒黄牛肉/小炒黄牛肉.md",
       "relativePath": "dishes/meat_dish/小炒黄牛肉/小炒黄牛肉.md",
-      "title": "小炒黄牛肉的做法",
+      "title": "小炒黄牛肉",
       "ingredients": [
         "牛里脊",
         "芹菜",
@@ -2752,7 +2752,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "9b6c1372733f"
+      "signature": "8006e100cab5"
     },
     {
       "id": "HowToCook:dishes/meat_dish/小米辣炒肉.md",
@@ -2760,7 +2760,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/小米辣炒肉.md",
       "relativePath": "dishes/meat_dish/小米辣炒肉.md",
-      "title": "小米辣炒肉的做法",
+      "title": "小米辣炒肉",
       "ingredients": [
         "米辣",
         "花生油",
@@ -2790,7 +2790,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "de5b047e2c36"
+      "signature": "eb5bda79403a"
     },
     {
       "id": "HowToCook:dishes/meat_dish/小酥肉.md",
@@ -2798,7 +2798,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/小酥肉.md",
       "relativePath": "dishes/meat_dish/小酥肉.md",
-      "title": "小酥肉的做法",
+      "title": "小酥肉",
       "ingredients": [
         "去皮猪肉",
         "植物油",
@@ -2829,7 +2829,7 @@
       ],
       "estimatedMinutes": 35,
       "difficulty": 3,
-      "signature": "6dc2db435c68"
+      "signature": "dfa1e40db965"
     },
     {
       "id": "HowToCook:dishes/meat_dish/尖叫牛蛙/尖叫牛蛙.md",
@@ -2837,7 +2837,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/尖叫牛蛙/尖叫牛蛙.md",
       "relativePath": "dishes/meat_dish/尖叫牛蛙/尖叫牛蛙.md",
-      "title": "尖叫牛蛙的做法",
+      "title": "尖叫牛蛙",
       "ingredients": [
         "牛蛙肉",
         "泡姜",
@@ -2872,7 +2872,7 @@
       ],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "ba2dd212cca8"
+      "signature": "964e2946e5e3"
     },
     {
       "id": "HowToCook:dishes/meat_dish/尖椒炒牛肉.md",
@@ -2880,7 +2880,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/尖椒炒牛肉.md",
       "relativePath": "dishes/meat_dish/尖椒炒牛肉.md",
-      "title": "尖椒炒牛肉的做法",
+      "title": "尖椒炒牛肉",
       "ingredients": [
         "牛肉",
         "葱 姜 蒜",
@@ -2909,7 +2909,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "bac4baad1d11"
+      "signature": "5481eb0d720c"
     },
     {
       "id": "HowToCook:dishes/meat_dish/山西过油肉.md",
@@ -2917,7 +2917,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/山西过油肉.md",
       "relativePath": "dishes/meat_dish/山西过油肉.md",
-      "title": "山西过油肉的做法",
+      "title": "山西过油肉",
       "ingredients": [
         "猪里脊",
         "蒜苔",
@@ -2948,7 +2948,7 @@
       ],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "ff2df10a2a26"
+      "signature": "6904f8ee35f4"
     },
     {
       "id": "HowToCook:dishes/meat_dish/巴基斯坦牛肉咖喱/巴基斯坦牛肉咖喱.md",
@@ -2956,7 +2956,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/巴基斯坦牛肉咖喱/巴基斯坦牛肉咖喱.md",
       "relativePath": "dishes/meat_dish/巴基斯坦牛肉咖喱/巴基斯坦牛肉咖喱.md",
-      "title": "巴基斯坦牛肉咖喱的做法",
+      "title": "巴基斯坦牛肉咖喱",
       "ingredients": [
         "普通的炒锅",
         "电饭煲电炖锅",
@@ -2988,7 +2988,7 @@
       ],
       "estimatedMinutes": 20,
       "difficulty": 3,
-      "signature": "e3c7b3626fc8"
+      "signature": "663e9a1d6283"
     },
     {
       "id": "HowToCook:dishes/meat_dish/带把肘子.md",
@@ -2996,7 +2996,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/带把肘子.md",
       "relativePath": "dishes/meat_dish/带把肘子.md",
-      "title": "带把肘子的做法",
+      "title": "带把肘子",
       "ingredients": [
         "带脚 爪猪前肘",
         "红豆腐乳",
@@ -3029,7 +3029,7 @@
       ],
       "estimatedMinutes": 20,
       "difficulty": 2,
-      "signature": "162a6fd6c4f0"
+      "signature": "fb99c5e6a36f"
     },
     {
       "id": "HowToCook:dishes/meat_dish/干煸仔鸡/干煸仔鸡.md",
@@ -3037,7 +3037,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/干煸仔鸡/干煸仔鸡.md",
       "relativePath": "dishes/meat_dish/干煸仔鸡/干煸仔鸡.md",
-      "title": "干煸仔鸡的做法",
+      "title": "干煸仔鸡",
       "ingredients": [
         "鸡腿",
         "土豆",
@@ -3074,7 +3074,7 @@
       ],
       "estimatedMinutes": 35,
       "difficulty": 3,
-      "signature": "378d13d0bc36"
+      "signature": "67d645d60cd4"
     },
     {
       "id": "HowToCook:dishes/meat_dish/广式萝卜牛腩/广式萝卜牛腩.md",
@@ -3082,7 +3082,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/广式萝卜牛腩/广式萝卜牛腩.md",
       "relativePath": "dishes/meat_dish/广式萝卜牛腩/广式萝卜牛腩.md",
-      "title": "广式萝卜牛腩的做法",
+      "title": "广式萝卜牛腩",
       "ingredients": [
         "牛腩",
         "白萝卜",
@@ -3118,7 +3118,7 @@
       ],
       "estimatedMinutes": 45,
       "difficulty": 4,
-      "signature": "8729aa6532cc"
+      "signature": "8f7dad61eb22"
     },
     {
       "id": "HowToCook:dishes/meat_dish/徽派红烧肉/徽派红烧肉.md",
@@ -3126,7 +3126,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/徽派红烧肉/徽派红烧肉.md",
       "relativePath": "dishes/meat_dish/徽派红烧肉/徽派红烧肉.md",
-      "title": "徽派红烧肉的做法",
+      "title": "徽派红烧肉",
       "ingredients": [
         "五花肉",
         "白砂糖",
@@ -3162,7 +3162,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 3,
-      "signature": "c2b47f6c5870"
+      "signature": "419c4956d14a"
     },
     {
       "id": "HowToCook:dishes/meat_dish/意式烤鸡.md",
@@ -3170,7 +3170,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/意式烤鸡.md",
       "relativePath": "dishes/meat_dish/意式烤鸡.md",
-      "title": "意式烤鸡的做法",
+      "title": "意式烤鸡",
       "ingredients": [
         "鸡腿肉",
         "盐",
@@ -3192,7 +3192,7 @@
       "tags": [],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "38b80bdea1b1"
+      "signature": "3a78c009e2c1"
     },
     {
       "id": "HowToCook:dishes/meat_dish/新疆大盘鸡/新疆大盘鸡.md",
@@ -3200,7 +3200,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/新疆大盘鸡/新疆大盘鸡.md",
       "relativePath": "dishes/meat_dish/新疆大盘鸡/新疆大盘鸡.md",
-      "title": "新疆大盘鸡的做法",
+      "title": "新疆大盘鸡",
       "ingredients": [
         "预估烹饪难度 ★★★★",
         "必备原料和工具",
@@ -3234,7 +3234,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "acb4e16d5af9"
+      "signature": "028470c1f47b"
     },
     {
       "id": "HowToCook:dishes/meat_dish/无骨鸡爪/无骨鸡爪.md",
@@ -3242,7 +3242,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/无骨鸡爪/无骨鸡爪.md",
       "relativePath": "dishes/meat_dish/无骨鸡爪/无骨鸡爪.md",
-      "title": "无骨鸡爪的做法",
+      "title": "无骨鸡爪",
       "ingredients": [
         "鸡爪",
         "姜",
@@ -3276,7 +3276,7 @@
       ],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "80da4c6e367b"
+      "signature": "4a81dc85b43e"
     },
     {
       "id": "HowToCook:dishes/meat_dish/杀猪菜.md",
@@ -3284,7 +3284,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/杀猪菜.md",
       "relativePath": "dishes/meat_dish/杀猪菜.md",
-      "title": "杀猪菜的做法",
+      "title": "杀猪菜",
       "ingredients": [
         "血肠",
         "酸菜",
@@ -3319,7 +3319,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "90cc8ee4ac2e"
+      "signature": "b15aa1e51426"
     },
     {
       "id": "HowToCook:dishes/meat_dish/枝竹羊腩煲/枝竹羊腩煲.md",
@@ -3327,7 +3327,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/枝竹羊腩煲/枝竹羊腩煲.md",
       "relativePath": "dishes/meat_dish/枝竹羊腩煲/枝竹羊腩煲.md",
-      "title": "枝竹羊腩煲的做法",
+      "title": "枝竹羊腩煲",
       "ingredients": [
         "羊腩",
         "腐竹",
@@ -3362,7 +3362,7 @@
       ],
       "estimatedMinutes": 45,
       "difficulty": 3,
-      "signature": "a5da499958fe"
+      "signature": "4487200c7882"
     },
     {
       "id": "HowToCook:dishes/meat_dish/柱候牛腩/柱候牛腩.md",
@@ -3370,7 +3370,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/柱候牛腩/柱候牛腩.md",
       "relativePath": "dishes/meat_dish/柱候牛腩/柱候牛腩.md",
-      "title": "柱候牛腩的做法",
+      "title": "柱候牛腩",
       "ingredients": [
         "柱候酱 郫县豆瓣酱 南腐乳 叉烧酱 蚝油",
         "花雕酒 白酒"
@@ -3396,7 +3396,7 @@
       ],
       "estimatedMinutes": 45,
       "difficulty": 4,
-      "signature": "6282472aa8dd"
+      "signature": "755fcd52a30b"
     },
     {
       "id": "HowToCook:dishes/meat_dish/梅菜扣肉/梅菜扣肉.md",
@@ -3404,7 +3404,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/梅菜扣肉/梅菜扣肉.md",
       "relativePath": "dishes/meat_dish/梅菜扣肉/梅菜扣肉.md",
-      "title": "梅菜扣肉的做法",
+      "title": "梅菜扣肉",
       "ingredients": [
         "五花肉",
         "梅菜",
@@ -3436,7 +3436,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 3,
-      "signature": "8b406f405419"
+      "signature": "4afc4bda6450"
     },
     {
       "id": "HowToCook:dishes/meat_dish/椒盐排条.md",
@@ -3444,7 +3444,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/椒盐排条.md",
       "relativePath": "dishes/meat_dish/椒盐排条.md",
-      "title": "椒盐排条的做法",
+      "title": "椒盐排条",
       "ingredients": [
         "排",
         "鸡蛋",
@@ -3474,7 +3474,7 @@
       ],
       "estimatedMinutes": 35,
       "difficulty": 3,
-      "signature": "96a290fb9d98"
+      "signature": "466d793f5dc5"
     },
     {
       "id": "HowToCook:dishes/meat_dish/水煮牛肉/水煮牛肉.md",
@@ -3482,7 +3482,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/水煮牛肉/水煮牛肉.md",
       "relativePath": "dishes/meat_dish/水煮牛肉/水煮牛肉.md",
-      "title": "水煮牛肉的做法",
+      "title": "水煮牛肉",
       "ingredients": [
         "牛肉",
         "豆芽",
@@ -3517,7 +3517,7 @@
       ],
       "estimatedMinutes": 20,
       "difficulty": 2,
-      "signature": "0f7479227b06"
+      "signature": "463ec474b2c3"
     },
     {
       "id": "HowToCook:dishes/meat_dish/水煮肉片.md",
@@ -3525,7 +3525,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/水煮肉片.md",
       "relativePath": "dishes/meat_dish/水煮肉片.md",
-      "title": "水煮肉片的做法",
+      "title": "水煮肉片",
       "ingredients": [
         "猪里脊肉",
         "食用盐",
@@ -3562,7 +3562,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "a2c2d80ca7b4"
+      "signature": "ee8925927132"
     },
     {
       "id": "HowToCook:dishes/meat_dish/洋葱炒猪肉.md",
@@ -3570,7 +3570,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/洋葱炒猪肉.md",
       "relativePath": "dishes/meat_dish/洋葱炒猪肉.md",
-      "title": "洋葱炒猪肉的做法",
+      "title": "洋葱炒猪肉",
       "ingredients": [
         "洋葱",
         "猪肉",
@@ -3595,7 +3595,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "d1ce6eefc6dd"
+      "signature": "d1609101d2b6"
     },
     {
       "id": "HowToCook:dishes/meat_dish/清蒸鳜鱼/清蒸鳜鱼.md",
@@ -3603,7 +3603,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/清蒸鳜鱼/清蒸鳜鱼.md",
       "relativePath": "dishes/meat_dish/清蒸鳜鱼/清蒸鳜鱼.md",
-      "title": "清蒸鳜鱼的做法",
+      "title": "清蒸鳜鱼",
       "ingredients": [
         "鳜鱼",
         "葱",
@@ -3632,7 +3632,7 @@
       ],
       "estimatedMinutes": 20,
       "difficulty": 2,
-      "signature": "5903c2f57a0c"
+      "signature": "c79395baf0a7"
     },
     {
       "id": "HowToCook:dishes/meat_dish/湖南家常红烧肉/湖南家常红烧肉.md",
@@ -3640,7 +3640,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/湖南家常红烧肉/湖南家常红烧肉.md",
       "relativePath": "dishes/meat_dish/湖南家常红烧肉/湖南家常红烧肉.md",
-      "title": "湖南家常红烧肉的做法",
+      "title": "湖南家常红烧肉",
       "ingredients": [
         "带皮五花肉",
         "干米椒🌶",
@@ -3675,7 +3675,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "8875deb5d1f5"
+      "signature": "8e72075088f0"
     },
     {
       "id": "HowToCook:dishes/meat_dish/湘祁米夫鸭/湘祁米夫鸭.md",
@@ -3683,7 +3683,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/湘祁米夫鸭/湘祁米夫鸭.md",
       "relativePath": "dishes/meat_dish/湘祁米夫鸭/湘祁米夫鸭.md",
-      "title": "湘祁米夫鸭的做法",
+      "title": "湘祁米夫鸭",
       "ingredients": [
         "鸭子",
         "糯米粉",
@@ -3718,7 +3718,7 @@
       ],
       "estimatedMinutes": 20,
       "difficulty": 2,
-      "signature": "117247aac35e"
+      "signature": "b2c603c30561"
     },
     {
       "id": "HowToCook:dishes/meat_dish/澳门湿版免治牛肉饭.md",
@@ -3726,7 +3726,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/澳门湿版免治牛肉饭.md",
       "relativePath": "dishes/meat_dish/澳门湿版免治牛肉饭.md",
-      "title": "澳门湿版免治牛肉饭的做法",
+      "title": "澳门湿版免治牛肉饭",
       "ingredients": [
         "洋葱",
         "鸡蛋",
@@ -3760,7 +3760,7 @@
       ],
       "estimatedMinutes": 20,
       "difficulty": 2,
-      "signature": "75e45e54704f"
+      "signature": "b3b97688fd52"
     },
     {
       "id": "HowToCook:dishes/meat_dish/烤鸡翅.md",
@@ -3768,7 +3768,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/烤鸡翅.md",
       "relativePath": "dishes/meat_dish/烤鸡翅.md",
-      "title": "烤鸡翅的做法",
+      "title": "烤鸡翅",
       "ingredients": [
         "鸡翅中",
         "盐",
@@ -3793,7 +3793,7 @@
       ],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "bec9edfab9f5"
+      "signature": "74595481f2c3"
     },
     {
       "id": "HowToCook:dishes/meat_dish/煎烤羊排/煎烤羊排.md",
@@ -3801,7 +3801,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/煎烤羊排/煎烤羊排.md",
       "relativePath": "dishes/meat_dish/煎烤羊排/煎烤羊排.md",
-      "title": "煎烤羊排的做法",
+      "title": "煎烤羊排",
       "ingredients": [
         "羊排",
         "桂皮",
@@ -3839,7 +3839,7 @@
       ],
       "estimatedMinutes": 45,
       "difficulty": 4,
-      "signature": "ec9c252dcfeb"
+      "signature": "487c1dfbb16f"
     },
     {
       "id": "HowToCook:dishes/meat_dish/牛排/牛排.md",
@@ -3847,7 +3847,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/牛排/牛排.md",
       "relativePath": "dishes/meat_dish/牛排/牛排.md",
-      "title": "牛排的做法",
+      "title": "牛排",
       "ingredients": [
         "平底锅",
         "锡箔纸",
@@ -3877,7 +3877,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "96c070d290ae"
+      "signature": "2c2c60ee56ae"
     },
     {
       "id": "HowToCook:dishes/meat_dish/猪皮冻/猪皮冻.md",
@@ -3885,7 +3885,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/猪皮冻/猪皮冻.md",
       "relativePath": "dishes/meat_dish/猪皮冻/猪皮冻.md",
-      "title": "猪皮冻的做法",
+      "title": "猪皮冻",
       "ingredients": [
         "<!-- 可以推荐购买哪品牌的来方便决策",
         "猪皮"
@@ -3906,7 +3906,7 @@
       "tags": [],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "fd2da31655b0"
+      "signature": "c4f27525d536"
     },
     {
       "id": "HowToCook:dishes/meat_dish/猪肉烩酸菜.md",
@@ -3914,7 +3914,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/猪肉烩酸菜.md",
       "relativePath": "dishes/meat_dish/猪肉烩酸菜.md",
-      "title": "猪肉烩酸菜的做法",
+      "title": "猪肉烩酸菜",
       "ingredients": [
         "猪五花肉或猪肉排骨",
         "东北酸菜",
@@ -3946,7 +3946,7 @@
       ],
       "estimatedMinutes": 45,
       "difficulty": 3,
-      "signature": "c62a6b1208e2"
+      "signature": "346683738745"
     },
     {
       "id": "HowToCook:dishes/meat_dish/甜辣烤全翅.md",
@@ -3954,7 +3954,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/甜辣烤全翅.md",
       "relativePath": "dishes/meat_dish/甜辣烤全翅.md",
-      "title": "甜辣烤全翅的做法",
+      "title": "甜辣烤全翅",
       "ingredients": [
         "空气炸锅",
         "鸡全翅",
@@ -3989,7 +3989,7 @@
       ],
       "estimatedMinutes": 35,
       "difficulty": 3,
-      "signature": "5fc13602ec36"
+      "signature": "e1c3036bb28f"
     },
     {
       "id": "HowToCook:dishes/meat_dish/番茄红酱.md",
@@ -3997,7 +3997,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/番茄红酱.md",
       "relativePath": "dishes/meat_dish/番茄红酱.md",
-      "title": "番茄红酱的做法",
+      "title": "番茄红酱",
       "ingredients": [
         "碎牛肉",
         "蒜瓣",
@@ -4033,7 +4033,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "11b1265d14e6"
+      "signature": "b5b61b444dde"
     },
     {
       "id": "HowToCook:dishes/meat_dish/瘦肉土豆片/瘦肉土豆片.md",
@@ -4041,7 +4041,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/瘦肉土豆片/瘦肉土豆片.md",
       "relativePath": "dishes/meat_dish/瘦肉土豆片/瘦肉土豆片.md",
-      "title": "瘦肉土豆片的做法",
+      "title": "瘦肉土豆片",
       "ingredients": [
         "纯瘦肉",
         "土豆",
@@ -4066,7 +4066,7 @@
       "tags": [],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "f4e4d68b2b38"
+      "signature": "8c5783833e74"
     },
     {
       "id": "HowToCook:dishes/meat_dish/白菜猪肉炖粉条.md",
@@ -4074,7 +4074,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/白菜猪肉炖粉条.md",
       "relativePath": "dishes/meat_dish/白菜猪肉炖粉条.md",
-      "title": "白菜猪肉炖粉条的做法",
+      "title": "白菜猪肉炖粉条",
       "ingredients": [
         "五花肉",
         "白菜",
@@ -4106,7 +4106,7 @@
       ],
       "estimatedMinutes": 45,
       "difficulty": 4,
-      "signature": "0b65d2cc0e5c"
+      "signature": "39397f3f9192"
     },
     {
       "id": "HowToCook:dishes/meat_dish/粉蒸肉.md",
@@ -4114,7 +4114,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/粉蒸肉.md",
       "relativePath": "dishes/meat_dish/粉蒸肉.md",
-      "title": "粉蒸肉的做法",
+      "title": "粉蒸肉",
       "ingredients": [
         "生抽",
         "老抽",
@@ -4146,7 +4146,7 @@
       ],
       "estimatedMinutes": 20,
       "difficulty": 2,
-      "signature": "7a41b8e322e1"
+      "signature": "e7e780c448e1"
     },
     {
       "id": "HowToCook:dishes/meat_dish/糖醋排骨/糖醋排骨.md",
@@ -4154,7 +4154,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/糖醋排骨/糖醋排骨.md",
       "relativePath": "dishes/meat_dish/糖醋排骨/糖醋排骨.md",
-      "title": "糖醋排骨的做法",
+      "title": "糖醋排骨",
       "ingredients": [
         "排骨",
         "白砂糖",
@@ -4188,7 +4188,7 @@
       ],
       "estimatedMinutes": 45,
       "difficulty": 3,
-      "signature": "f9736cb99767"
+      "signature": "e821dd50b014"
     },
     {
       "id": "HowToCook:dishes/meat_dish/糖醋里脊.md",
@@ -4196,7 +4196,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/糖醋里脊.md",
       "relativePath": "dishes/meat_dish/糖醋里脊.md",
-      "title": "糖醋里脊的做法",
+      "title": "糖醋里脊",
       "ingredients": [
         "里脊肉",
         "醋",
@@ -4228,7 +4228,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 3,
-      "signature": "da18217ed958"
+      "signature": "d04b55465405"
     },
     {
       "id": "HowToCook:dishes/meat_dish/红烧猪蹄/红烧猪蹄.md",
@@ -4236,7 +4236,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/红烧猪蹄/红烧猪蹄.md",
       "relativePath": "dishes/meat_dish/红烧猪蹄/红烧猪蹄.md",
-      "title": "红烧猪蹄的做法",
+      "title": "红烧猪蹄",
       "ingredients": [
         "猪蹄",
         "香叶",
@@ -4271,7 +4271,7 @@
       ],
       "estimatedMinutes": 20,
       "difficulty": 2,
-      "signature": "12222cfa7725"
+      "signature": "dc0d833f54c0"
     },
     {
       "id": "HowToCook:dishes/meat_dish/红烧肉/南派红烧肉.md",
@@ -4279,7 +4279,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/红烧肉/南派红烧肉.md",
       "relativePath": "dishes/meat_dish/红烧肉/南派红烧肉.md",
-      "title": "南派红烧肉的做法",
+      "title": "南派红烧肉",
       "ingredients": [
         "注 如果有可能 请尽刀磨的锋利一些。",
         "主料 五花肉"
@@ -4303,7 +4303,7 @@
       ],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "6b7a7976bf9d"
+      "signature": "c209d9d955b3"
     },
     {
       "id": "HowToCook:dishes/meat_dish/红烧肉/简易红烧肉.md",
@@ -4311,7 +4311,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/红烧肉/简易红烧肉.md",
       "relativePath": "dishes/meat_dish/红烧肉/简易红烧肉.md",
-      "title": "简易红烧肉的做法",
+      "title": "简易红烧肉",
       "ingredients": [
         "注 如果有可能 请尽刀磨的锋利一些。",
         "猪五花肉切",
@@ -4340,7 +4340,7 @@
       ],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "400d8cf8394d"
+      "signature": "251897314053"
     },
     {
       "id": "HowToCook:dishes/meat_dish/红烧鸡翅.md",
@@ -4348,7 +4348,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/红烧鸡翅.md",
       "relativePath": "dishes/meat_dish/红烧鸡翅.md",
-      "title": "红烧鸡翅的做法",
+      "title": "红烧鸡翅",
       "ingredients": [
         "姜",
         "蒜",
@@ -4382,7 +4382,7 @@
       ],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "a46eec391b59"
+      "signature": "da89e2a70106"
     },
     {
       "id": "HowToCook:dishes/meat_dish/羊排焖面/羊排焖面.md",
@@ -4390,7 +4390,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/羊排焖面/羊排焖面.md",
       "relativePath": "dishes/meat_dish/羊排焖面/羊排焖面.md",
-      "title": "羊排焖面的做法",
+      "title": "羊排焖面",
       "ingredients": [
         "带皮羊排肉",
         "青椒",
@@ -4424,7 +4424,7 @@
       ],
       "estimatedMinutes": 45,
       "difficulty": 4,
-      "signature": "9b4dffab874c"
+      "signature": "ba9a8130bb6a"
     },
     {
       "id": "HowToCook:dishes/meat_dish/老妈蹄花/老妈蹄花.md",
@@ -4432,7 +4432,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/老妈蹄花/老妈蹄花.md",
       "relativePath": "dishes/meat_dish/老妈蹄花/老妈蹄花.md",
-      "title": "老妈蹄花的做法",
+      "title": "老妈蹄花",
       "ingredients": [
         "猪蹄",
         "葱",
@@ -4467,7 +4467,7 @@
       ],
       "estimatedMinutes": 20,
       "difficulty": 2,
-      "signature": "929dbf015590"
+      "signature": "07891e2c8a69"
     },
     {
       "id": "HowToCook:dishes/meat_dish/老式锅包肉/老式锅包肉.md",
@@ -4475,7 +4475,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/老式锅包肉/老式锅包肉.md",
       "relativePath": "dishes/meat_dish/老式锅包肉/老式锅包肉.md",
-      "title": "老式锅包肉的做法",
+      "title": "老式锅包肉",
       "ingredients": [
         "猪通脊肉",
         "葱",
@@ -4511,7 +4511,7 @@
       ],
       "estimatedMinutes": 35,
       "difficulty": 3,
-      "signature": "43fdf060d7ae"
+      "signature": "d3d3609b4d72"
     },
     {
       "id": "HowToCook:dishes/meat_dish/肉饼炖蛋.md",
@@ -4519,7 +4519,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/肉饼炖蛋.md",
       "relativePath": "dishes/meat_dish/肉饼炖蛋.md",
-      "title": "肉饼炖蛋的做法",
+      "title": "肉饼炖蛋",
       "ingredients": [
         "猪肉末",
         "鸡蛋",
@@ -4546,7 +4546,7 @@
       ],
       "estimatedMinutes": 45,
       "difficulty": 4,
-      "signature": "d68b17cbd73b"
+      "signature": "61a9d769ad31"
     },
     {
       "id": "HowToCook:dishes/meat_dish/腐乳肉.md",
@@ -4554,7 +4554,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/腐乳肉.md",
       "relativePath": "dishes/meat_dish/腐乳肉.md",
-      "title": "腐乳肉的做法",
+      "title": "腐乳肉",
       "ingredients": [
         "带皮五花肉",
         "冰糖",
@@ -4584,7 +4584,7 @@
       ],
       "estimatedMinutes": 45,
       "difficulty": 4,
-      "signature": "0baaaf26cb0a"
+      "signature": "fb8aa32cfb36"
     },
     {
       "id": "HowToCook:dishes/meat_dish/芥末罗氏虾/芥末罗氏虾.md",
@@ -4592,7 +4592,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/芥末罗氏虾/芥末罗氏虾.md",
       "relativePath": "dishes/meat_dish/芥末罗氏虾/芥末罗氏虾.md",
-      "title": "芥末罗氏虾的做法",
+      "title": "芥末罗氏虾",
       "ingredients": [
         "罗氏虾",
         "蒜",
@@ -4623,7 +4623,7 @@
       "tags": [],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "352644dff7ab"
+      "signature": "8a37ec6e92c4"
     },
     {
       "id": "HowToCook:dishes/meat_dish/茭白炒肉/茭白炒肉.md",
@@ -4631,7 +4631,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/茭白炒肉/茭白炒肉.md",
       "relativePath": "dishes/meat_dish/茭白炒肉/茭白炒肉.md",
-      "title": "茭白炒肉的做法",
+      "title": "茭白炒肉",
       "ingredients": [
         "茭白",
         "瘦肉",
@@ -4660,7 +4660,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "267a1f8b6d77"
+      "signature": "dfa36f4eabba"
     },
     {
       "id": "HowToCook:dishes/meat_dish/荔枝肉/荔枝肉.md",
@@ -4668,7 +4668,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/荔枝肉/荔枝肉.md",
       "relativePath": "dishes/meat_dish/荔枝肉/荔枝肉.md",
-      "title": "荔枝肉的做法",
+      "title": "荔枝肉",
       "ingredients": [
         "瘦肉",
         "凤梨",
@@ -4704,7 +4704,7 @@
       ],
       "estimatedMinutes": 35,
       "difficulty": 3,
-      "signature": "dd6fc525ee0c"
+      "signature": "09331bcc2d0a"
     },
     {
       "id": "HowToCook:dishes/meat_dish/荷兰豆炒腊肠/荷兰豆炒腊肠.md",
@@ -4712,7 +4712,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/荷兰豆炒腊肠/荷兰豆炒腊肠.md",
       "relativePath": "dishes/meat_dish/荷兰豆炒腊肠/荷兰豆炒腊肠.md",
-      "title": "荷兰豆炒腊肠的做法",
+      "title": "荷兰豆炒腊肠",
       "ingredients": [
         "荷兰豆",
         "腊肠",
@@ -4737,7 +4737,7 @@
       ],
       "estimatedMinutes": 20,
       "difficulty": 2,
-      "signature": "6cc11574a4d5"
+      "signature": "6378a6b329e2"
     },
     {
       "id": "HowToCook:dishes/meat_dish/萝卜炖羊排.md",
@@ -4745,7 +4745,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/萝卜炖羊排.md",
       "relativePath": "dishes/meat_dish/萝卜炖羊排.md",
-      "title": "萝卜炖羊排的做法",
+      "title": "萝卜炖羊排",
       "ingredients": [
         "羊排",
         "白萝卜",
@@ -4778,7 +4778,7 @@
       ],
       "estimatedMinutes": 45,
       "difficulty": 4,
-      "signature": "a0d0d7fa242d"
+      "signature": "5a1bc368c4aa"
     },
     {
       "id": "HowToCook:dishes/meat_dish/蒜苔炒肉末.md",
@@ -4786,7 +4786,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/蒜苔炒肉末.md",
       "relativePath": "dishes/meat_dish/蒜苔炒肉末.md",
-      "title": "蒜苔炒肉末的做法",
+      "title": "蒜苔炒肉末",
       "ingredients": [
         "五花肉薄",
         "蒜苔",
@@ -4814,7 +4814,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "2f15b2439ce8"
+      "signature": "d355133ac1da"
     },
     {
       "id": "HowToCook:dishes/meat_dish/虎皮肘子.md",
@@ -4822,7 +4822,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/虎皮肘子.md",
       "relativePath": "dishes/meat_dish/虎皮肘子.md",
-      "title": "虎皮肘子的做法",
+      "title": "虎皮肘子",
       "ingredients": [
         "猪前肘",
         "食用植物油",
@@ -4853,7 +4853,7 @@
       ],
       "estimatedMinutes": 45,
       "difficulty": 4,
-      "signature": "1177b98d5b60"
+      "signature": "de580253a596"
     },
     {
       "id": "HowToCook:dishes/meat_dish/蚂蚁上树.md",
@@ -4861,7 +4861,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/蚂蚁上树.md",
       "relativePath": "dishes/meat_dish/蚂蚁上树.md",
-      "title": "蚂蚁上树的做法",
+      "title": "蚂蚁上树",
       "ingredients": [
         "红薯粉丝",
         "猪肉末",
@@ -4894,7 +4894,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "f36b883f029b"
+      "signature": "b2e84c9a0897"
     },
     {
       "id": "HowToCook:dishes/meat_dish/血浆鸭/血浆鸭.md",
@@ -4902,7 +4902,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/血浆鸭/血浆鸭.md",
       "relativePath": "dishes/meat_dish/血浆鸭/血浆鸭.md",
-      "title": "血浆鸭的做法",
+      "title": "血浆鸭",
       "ingredients": [
         "鲜仔鸭肉",
         "姜",
@@ -4933,7 +4933,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "deab3069f12e"
+      "signature": "46e5a5fe46a2"
     },
     {
       "id": "HowToCook:dishes/meat_dish/西红柿土豆炖牛肉/西红柿土豆炖牛肉.md",
@@ -4941,7 +4941,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/西红柿土豆炖牛肉/西红柿土豆炖牛肉.md",
       "relativePath": "dishes/meat_dish/西红柿土豆炖牛肉/西红柿土豆炖牛肉.md",
-      "title": "西红柿土豆炖牛肉的做法",
+      "title": "西红柿土豆炖牛肉",
       "ingredients": [
         "牛肉",
         "料",
@@ -4977,7 +4977,7 @@
       ],
       "estimatedMinutes": 45,
       "difficulty": 4,
-      "signature": "b6a1e251920a"
+      "signature": "14fe248be204"
     },
     {
       "id": "HowToCook:dishes/meat_dish/西红柿牛腩/西红柿牛腩.md",
@@ -4985,7 +4985,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/西红柿牛腩/西红柿牛腩.md",
       "relativePath": "dishes/meat_dish/西红柿牛腩/西红柿牛腩.md",
-      "title": "西红柿牛腩的做法",
+      "title": "西红柿牛腩",
       "ingredients": [
         "西红柿",
         "牛腩",
@@ -5011,7 +5011,7 @@
       ],
       "estimatedMinutes": 45,
       "difficulty": 4,
-      "signature": "565b427fe259"
+      "signature": "1c7dca89bcc4"
     },
     {
       "id": "HowToCook:dishes/meat_dish/豆豉鲮鱼油麦菜/豆豉鲮鱼油麦菜.md",
@@ -5019,7 +5019,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/豆豉鲮鱼油麦菜/豆豉鲮鱼油麦菜.md",
       "relativePath": "dishes/meat_dish/豆豉鲮鱼油麦菜/豆豉鲮鱼油麦菜.md",
-      "title": "豆豉鲮鱼油麦菜的做法",
+      "title": "豆豉鲮鱼油麦菜",
       "ingredients": [
         "油麦菜",
         "甘竹牌鲮鱼罐头",
@@ -5047,7 +5047,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "133ffc54e2d8"
+      "signature": "95ca83d13892"
     },
     {
       "id": "HowToCook:dishes/meat_dish/豉汁排骨.md",
@@ -5055,7 +5055,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/豉汁排骨.md",
       "relativePath": "dishes/meat_dish/豉汁排骨.md",
-      "title": "豉汁排骨的做法",
+      "title": "豉汁排骨",
       "ingredients": [
         "肋排",
         "阳江豆豉",
@@ -5089,7 +5089,7 @@
       ],
       "estimatedMinutes": 45,
       "difficulty": 3,
-      "signature": "a931f1622711"
+      "signature": "0dc1df1938d0"
     },
     {
       "id": "HowToCook:dishes/meat_dish/豉汁蒸白鱔/豉汁蒸白鱔.md",
@@ -5097,7 +5097,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/豉汁蒸白鱔/豉汁蒸白鱔.md",
       "relativePath": "dishes/meat_dish/豉汁蒸白鱔/豉汁蒸白鱔.md",
-      "title": "豉汁蒸白鱔的做法",
+      "title": "豉汁蒸白鱔",
       "ingredients": [
         "白鱔",
         "豆豉",
@@ -5132,7 +5132,7 @@
       ],
       "estimatedMinutes": 20,
       "difficulty": 2,
-      "signature": "72db79f80279"
+      "signature": "7d3143a3eea2"
     },
     {
       "id": "HowToCook:dishes/meat_dish/贵州辣子鸡/贵州辣子鸡.md",
@@ -5140,7 +5140,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/贵州辣子鸡/贵州辣子鸡.md",
       "relativePath": "dishes/meat_dish/贵州辣子鸡/贵州辣子鸡.md",
-      "title": "贵州辣子鸡的做法",
+      "title": "贵州辣子鸡",
       "ingredients": [
         "农村玉米鸡",
         "土豆",
@@ -5176,7 +5176,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 3,
-      "signature": "9ed8975131ed"
+      "signature": "473dd59d18f2"
     },
     {
       "id": "HowToCook:dishes/meat_dish/辣椒炒肉.md",
@@ -5184,7 +5184,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/辣椒炒肉.md",
       "relativePath": "dishes/meat_dish/辣椒炒肉.md",
-      "title": "辣椒炒肉的做法",
+      "title": "辣椒炒肉",
       "ingredients": [
         "猪瘦肉",
         "盐",
@@ -5215,7 +5215,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "07ab0cf06395"
+      "signature": "251b07762aab"
     },
     {
       "id": "HowToCook:dishes/meat_dish/酱排骨/酱排骨.md",
@@ -5223,7 +5223,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/酱排骨/酱排骨.md",
       "relativePath": "dishes/meat_dish/酱排骨/酱排骨.md",
-      "title": "酱排骨的做法",
+      "title": "酱排骨",
       "ingredients": [
         "排骨",
         "五香粉",
@@ -5255,7 +5255,7 @@
       ],
       "estimatedMinutes": 45,
       "difficulty": 3,
-      "signature": "f9cd68ada4fd"
+      "signature": "83fe7e21763a"
     },
     {
       "id": "HowToCook:dishes/meat_dish/酱牛肉/酱牛肉.md",
@@ -5263,7 +5263,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/酱牛肉/酱牛肉.md",
       "relativePath": "dishes/meat_dish/酱牛肉/酱牛肉.md",
-      "title": "酱牛肉的做法",
+      "title": "酱牛肉",
       "ingredients": [
         "牛腱子肉",
         "香叶",
@@ -5295,7 +5295,7 @@
       ],
       "estimatedMinutes": 45,
       "difficulty": 4,
-      "signature": "24d4aabb802f"
+      "signature": "d6b9b56f7bff"
     },
     {
       "id": "HowToCook:dishes/meat_dish/醉排骨/醉排骨.md",
@@ -5303,7 +5303,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/醉排骨/醉排骨.md",
       "relativePath": "dishes/meat_dish/醉排骨/醉排骨.md",
-      "title": "醉排骨的做法",
+      "title": "醉排骨",
       "ingredients": [
         "排骨",
         "白砂糖",
@@ -5338,7 +5338,7 @@
       ],
       "estimatedMinutes": 45,
       "difficulty": 3,
-      "signature": "f8216a8098b0"
+      "signature": "447e188db070"
     },
     {
       "id": "HowToCook:dishes/meat_dish/青椒土豆炒肉/青椒土豆炒肉.md",
@@ -5346,7 +5346,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/青椒土豆炒肉/青椒土豆炒肉.md",
       "relativePath": "dishes/meat_dish/青椒土豆炒肉/青椒土豆炒肉.md",
-      "title": "青椒土豆炒肉的做法",
+      "title": "青椒土豆炒肉",
       "ingredients": [
         "青椒",
         "土豆",
@@ -5377,7 +5377,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "b62051f0fc68"
+      "signature": "c346bab30ea8"
     },
     {
       "id": "HowToCook:dishes/meat_dish/香干肉丝.md",
@@ -5385,7 +5385,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/香干肉丝.md",
       "relativePath": "dishes/meat_dish/香干肉丝.md",
-      "title": "香干肉丝的做法",
+      "title": "香干肉丝",
       "ingredients": [
         "香干",
         "盐",
@@ -5414,7 +5414,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "59accbf3d325"
+      "signature": "8aea593d7248"
     },
     {
       "id": "HowToCook:dishes/meat_dish/香干芹菜炒肉/香干芹菜炒肉.md",
@@ -5422,7 +5422,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/香干芹菜炒肉/香干芹菜炒肉.md",
       "relativePath": "dishes/meat_dish/香干芹菜炒肉/香干芹菜炒肉.md",
-      "title": "香干芹菜炒肉的做法",
+      "title": "香干芹菜炒肉",
       "ingredients": [
         "豆干",
         "香芹芹菜",
@@ -5457,7 +5457,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "13d351070a9f"
+      "signature": "1f16a500fe04"
     },
     {
       "id": "HowToCook:dishes/meat_dish/香煎五花肉/香煎五花肉.md",
@@ -5465,7 +5465,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/香煎五花肉/香煎五花肉.md",
       "relativePath": "dishes/meat_dish/香煎五花肉/香煎五花肉.md",
-      "title": "香煎五花肉的做法",
+      "title": "香煎五花肉",
       "ingredients": [
         "五花肉",
         "生菜",
@@ -5488,7 +5488,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "d91c710f1f8a"
+      "signature": "353239e9103d"
     },
     {
       "id": "HowToCook:dishes/meat_dish/香菇滑鸡/香菇滑鸡.md",
@@ -5496,7 +5496,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/香菇滑鸡/香菇滑鸡.md",
       "relativePath": "dishes/meat_dish/香菇滑鸡/香菇滑鸡.md",
-      "title": "香菇滑鸡的做法",
+      "title": "香菇滑鸡",
       "ingredients": [
         "鸡腿",
         "干香菇",
@@ -5520,7 +5520,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "9662a5b31e97"
+      "signature": "608bdd11c8ae"
     },
     {
       "id": "HowToCook:dishes/meat_dish/香辣鸡爪煲/香辣鸡爪煲.md",
@@ -5528,7 +5528,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/香辣鸡爪煲/香辣鸡爪煲.md",
       "relativePath": "dishes/meat_dish/香辣鸡爪煲/香辣鸡爪煲.md",
-      "title": "香辣鸡爪煲的做法",
+      "title": "香辣鸡爪煲",
       "ingredients": [
         "鸡爪",
         "葱",
@@ -5564,7 +5564,7 @@
       ],
       "estimatedMinutes": 45,
       "difficulty": 3,
-      "signature": "3728d9e30a35"
+      "signature": "7e4067df323d"
     },
     {
       "id": "HowToCook:dishes/meat_dish/鱼香肉丝.md",
@@ -5572,7 +5572,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/鱼香肉丝.md",
       "relativePath": "dishes/meat_dish/鱼香肉丝.md",
-      "title": "鱼香肉丝的做法",
+      "title": "鱼香肉丝",
       "ingredients": [
         "里脊肉",
         "胡萝卜",
@@ -5609,7 +5609,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "ac01363368e9"
+      "signature": "3678cbc2dfd3"
     },
     {
       "id": "HowToCook:dishes/meat_dish/鱼香茄子/鱼香茄子.md",
@@ -5617,7 +5617,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/鱼香茄子/鱼香茄子.md",
       "relativePath": "dishes/meat_dish/鱼香茄子/鱼香茄子.md",
-      "title": "鱼香茄子的做法",
+      "title": "鱼香茄子",
       "ingredients": [
         "茄子",
         "肉末",
@@ -5650,7 +5650,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 3,
-      "signature": "c76ca48ac834"
+      "signature": "571c3c472068"
     },
     {
       "id": "HowToCook:dishes/meat_dish/麻婆豆腐/麻婆豆腐.md",
@@ -5658,7 +5658,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/麻婆豆腐/麻婆豆腐.md",
       "relativePath": "dishes/meat_dish/麻婆豆腐/麻婆豆腐.md",
-      "title": "麻婆豆腐的做法",
+      "title": "麻婆豆腐",
       "ingredients": [
         "内脂豆腐",
         "水果刀",
@@ -5693,7 +5693,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "9f9f977c6921"
+      "signature": "0e6cf03486ce"
     },
     {
       "id": "HowToCook:dishes/meat_dish/麻辣香锅.md",
@@ -5701,7 +5701,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/麻辣香锅.md",
       "relativePath": "dishes/meat_dish/麻辣香锅.md",
-      "title": "麻辣香锅的做法",
+      "title": "麻辣香锅",
       "ingredients": [
         "干豆腐",
         "北京麻辣方便面",
@@ -5727,7 +5727,7 @@
       ],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "507317a50e2e"
+      "signature": "fec21ac7f90b"
     },
     {
       "id": "HowToCook:dishes/meat_dish/黄油鸡.md",
@@ -5735,7 +5735,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/黄油鸡.md",
       "relativePath": "dishes/meat_dish/黄油鸡.md",
-      "title": "黄油鸡的做法",
+      "title": "黄油鸡",
       "ingredients": [
         "鸡腿肉",
         "酸奶",
@@ -5768,7 +5768,7 @@
       ],
       "estimatedMinutes": 45,
       "difficulty": 4,
-      "signature": "18115d81ec4c"
+      "signature": "71446ec61c73"
     },
     {
       "id": "HowToCook:dishes/meat_dish/黄焖鸡.md",
@@ -5776,7 +5776,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/黄焖鸡.md",
       "relativePath": "dishes/meat_dish/黄焖鸡.md",
-      "title": "黄焖鸡的做法",
+      "title": "黄焖鸡",
       "ingredients": [
         "鸡腿",
         "香菇",
@@ -5809,7 +5809,7 @@
       ],
       "estimatedMinutes": 45,
       "difficulty": 4,
-      "signature": "7074e8e014b2"
+      "signature": "d096c5af9761"
     },
     {
       "id": "HowToCook:dishes/meat_dish/黄瓜炒肉.md",
@@ -5817,7 +5817,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/黄瓜炒肉.md",
       "relativePath": "dishes/meat_dish/黄瓜炒肉.md",
-      "title": "黄瓜炒肉的做法",
+      "title": "黄瓜炒肉",
       "ingredients": [
         "黄瓜",
         "猪瘦肉",
@@ -5845,7 +5845,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "232209c8fe05"
+      "signature": "7366a0514ee0"
     },
     {
       "id": "HowToCook:dishes/meat_dish/黑椒牛柳/黑椒牛柳.md",
@@ -5853,7 +5853,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/黑椒牛柳/黑椒牛柳.md",
       "relativePath": "dishes/meat_dish/黑椒牛柳/黑椒牛柳.md",
-      "title": "黑椒牛柳的做法",
+      "title": "黑椒牛柳",
       "ingredients": [
         "洋葱",
         "菜椒",
@@ -5884,7 +5884,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "f4f49c59a7fc"
+      "signature": "92b9865249d6"
     },
     {
       "id": "HowToCook:dishes/meat_dish/黔式腊肠娃娃菜/黔式腊肠娃娃菜.md",
@@ -5892,7 +5892,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/meat_dish/黔式腊肠娃娃菜/黔式腊肠娃娃菜.md",
       "relativePath": "dishes/meat_dish/黔式腊肠娃娃菜/黔式腊肠娃娃菜.md",
-      "title": "黔式腊肠娃娃菜的做法",
+      "title": "黔式腊肠娃娃菜",
       "ingredients": [
         "黔式腊肠",
         "娃娃菜"
@@ -5911,7 +5911,7 @@
       "tags": [],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "0d2e1d0509f5"
+      "signature": "c9af49c3858c"
     },
     {
       "id": "HowToCook:dishes/soup/勾芡香菇汤/勾芡香菇汤.md",
@@ -5919,7 +5919,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/soup/勾芡香菇汤/勾芡香菇汤.md",
       "relativePath": "dishes/soup/勾芡香菇汤/勾芡香菇汤.md",
-      "title": "勾芡香菇汤的做法",
+      "title": "勾芡香菇汤",
       "ingredients": [
         "香菇",
         "香葱",
@@ -5948,7 +5948,7 @@
       ],
       "estimatedMinutes": 20,
       "difficulty": 3,
-      "signature": "3d74c75dca84"
+      "signature": "53cdd2f934a5"
     },
     {
       "id": "HowToCook:dishes/soup/奶油蘑菇汤.md",
@@ -5956,7 +5956,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/soup/奶油蘑菇汤.md",
       "relativePath": "dishes/soup/奶油蘑菇汤.md",
-      "title": "奶油蘑菇汤的做法",
+      "title": "奶油蘑菇汤",
       "ingredients": [
         "白蘑菇",
         "洋葱",
@@ -5988,7 +5988,7 @@
       ],
       "estimatedMinutes": 20,
       "difficulty": 2,
-      "signature": "8a3e969af5fd"
+      "signature": "152a547c40d4"
     },
     {
       "id": "HowToCook:dishes/soup/小米粥.md",
@@ -5996,7 +5996,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/soup/小米粥.md",
       "relativePath": "dishes/soup/小米粥.md",
-      "title": "小米粥的做法",
+      "title": "小米粥",
       "ingredients": [
         "米",
         "水"
@@ -6015,7 +6015,7 @@
       "tags": [],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "03fc06ab21e7"
+      "signature": "9aed5de2c991"
     },
     {
       "id": "HowToCook:dishes/soup/排骨苦瓜汤/排骨苦瓜汤.md",
@@ -6023,7 +6023,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/soup/排骨苦瓜汤/排骨苦瓜汤.md",
       "relativePath": "dishes/soup/排骨苦瓜汤/排骨苦瓜汤.md",
-      "title": "排骨苦瓜汤的做法",
+      "title": "排骨苦瓜汤",
       "ingredients": [
         "可选工具",
         "砂锅",
@@ -6049,7 +6049,7 @@
       ],
       "estimatedMinutes": 45,
       "difficulty": 4,
-      "signature": "20a52117ca49"
+      "signature": "6058bcaf11f1"
     },
     {
       "id": "HowToCook:dishes/soup/昂刺鱼豆腐汤/昂刺鱼豆腐汤.md",
@@ -6057,7 +6057,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/soup/昂刺鱼豆腐汤/昂刺鱼豆腐汤.md",
       "relativePath": "dishes/soup/昂刺鱼豆腐汤/昂刺鱼豆腐汤.md",
-      "title": "昂刺鱼豆腐汤的做法",
+      "title": "昂刺鱼豆腐汤",
       "ingredients": [
         "昂刺鱼或者沙光鱼",
         "豆腐",
@@ -6086,7 +6086,7 @@
       ],
       "estimatedMinutes": 20,
       "difficulty": 2,
-      "signature": "a0afcf2740b4"
+      "signature": "6755c90116c5"
     },
     {
       "id": "HowToCook:dishes/soup/朱雀汤/朱雀汤.md",
@@ -6094,7 +6094,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/soup/朱雀汤/朱雀汤.md",
       "relativePath": "dishes/soup/朱雀汤/朱雀汤.md",
-      "title": "朱雀汤的做法",
+      "title": "朱雀汤",
       "ingredients": [
         "鸡蛋",
         "香油",
@@ -6116,7 +6116,7 @@
       ],
       "estimatedMinutes": 20,
       "difficulty": 2,
-      "signature": "6c70e5c539f6"
+      "signature": "0e4d16d7f770"
     },
     {
       "id": "HowToCook:dishes/soup/玉米排骨汤/玉米排骨汤.md",
@@ -6124,7 +6124,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/soup/玉米排骨汤/玉米排骨汤.md",
       "relativePath": "dishes/soup/玉米排骨汤/玉米排骨汤.md",
-      "title": "玉米排骨汤的做法",
+      "title": "玉米排骨汤",
       "ingredients": [
         "排骨",
         "玉米",
@@ -6157,7 +6157,7 @@
       ],
       "estimatedMinutes": 45,
       "difficulty": 4,
-      "signature": "903e52ba11f6"
+      "signature": "f02437b8ae49"
     },
     {
       "id": "HowToCook:dishes/soup/生汆丸子汤.md",
@@ -6165,7 +6165,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/soup/生汆丸子汤.md",
       "relativePath": "dishes/soup/生汆丸子汤.md",
-      "title": "生汆丸子汤的做法",
+      "title": "生汆丸子汤",
       "ingredients": [
         "前腿肉",
         "盐",
@@ -6199,7 +6199,7 @@
       ],
       "estimatedMinutes": 20,
       "difficulty": 2,
-      "signature": "b4b2b7062dc8"
+      "signature": "37d5dfa8b332"
     },
     {
       "id": "HowToCook:dishes/soup/番茄牛肉蛋花汤.md",
@@ -6207,7 +6207,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/soup/番茄牛肉蛋花汤.md",
       "relativePath": "dishes/soup/番茄牛肉蛋花汤.md",
-      "title": "番茄牛肉蛋花汤的做法",
+      "title": "番茄牛肉蛋花汤",
       "ingredients": [
         "牛肉",
         "番茄",
@@ -6235,7 +6235,7 @@
       ],
       "estimatedMinutes": 20,
       "difficulty": 2,
-      "signature": "3bf1fbc1e882"
+      "signature": "78c641b2679d"
     },
     {
       "id": "HowToCook:dishes/soup/皮蛋瘦肉粥.md",
@@ -6243,7 +6243,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/soup/皮蛋瘦肉粥.md",
       "relativePath": "dishes/soup/皮蛋瘦肉粥.md",
-      "title": "皮蛋瘦肉粥的做法",
+      "title": "皮蛋瘦肉粥",
       "ingredients": [
         "饮用水",
         "皮蛋",
@@ -6274,7 +6274,7 @@
       ],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "6e5c406d6c75"
+      "signature": "5b2261f47f0f"
     },
     {
       "id": "HowToCook:dishes/soup/米粥.md",
@@ -6282,7 +6282,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/soup/米粥.md",
       "relativePath": "dishes/soup/米粥.md",
-      "title": "米粥的做法",
+      "title": "米粥",
       "ingredients": [
         "米",
         "水",
@@ -6301,7 +6301,7 @@
       "tags": [],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "efdd51d122c8"
+      "signature": "2d71713eca44"
     },
     {
       "id": "HowToCook:dishes/soup/紫菜蛋花汤.md",
@@ -6309,7 +6309,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/soup/紫菜蛋花汤.md",
       "relativePath": "dishes/soup/紫菜蛋花汤.md",
-      "title": "紫菜蛋花汤的做法",
+      "title": "紫菜蛋花汤",
       "ingredients": [
         "鸡蛋",
         "紫菜",
@@ -6335,7 +6335,7 @@
       ],
       "estimatedMinutes": 20,
       "difficulty": 2,
-      "signature": "2e3f38437522"
+      "signature": "e777d109d76b"
     },
     {
       "id": "HowToCook:dishes/soup/罗宋汤.md",
@@ -6343,7 +6343,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/soup/罗宋汤.md",
       "relativePath": "dishes/soup/罗宋汤.md",
-      "title": "罗宋汤的做法",
+      "title": "罗宋汤",
       "ingredients": [
         "番茄"
       ],
@@ -6366,7 +6366,7 @@
       ],
       "estimatedMinutes": 20,
       "difficulty": 2,
-      "signature": "7eac8c574df4"
+      "signature": "0eeeb179aa20"
     },
     {
       "id": "HowToCook:dishes/soup/羊肉汤/羊肉汤.md",
@@ -6374,7 +6374,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/soup/羊肉汤/羊肉汤.md",
       "relativePath": "dishes/soup/羊肉汤/羊肉汤.md",
-      "title": "羊肉汤的做法",
+      "title": "羊肉汤",
       "ingredients": [
         "羊肉或羊杂",
         "食用油",
@@ -6405,7 +6405,7 @@
       ],
       "estimatedMinutes": 20,
       "difficulty": 2,
-      "signature": "29f5db23e404"
+      "signature": "dbd436237b3c"
     },
     {
       "id": "HowToCook:dishes/soup/腊八粥.md",
@@ -6413,7 +6413,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/soup/腊八粥.md",
       "relativePath": "dishes/soup/腊八粥.md",
-      "title": "腊八粥的做法",
+      "title": "腊八粥",
       "ingredients": [
         "饮用水",
         "米",
@@ -6446,7 +6446,7 @@
       ],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "f3228ca5dac3"
+      "signature": "79eba70ece73"
     },
     {
       "id": "HowToCook:dishes/soup/菌菇炖乳鸽/菌菇炖乳鸽.md",
@@ -6454,7 +6454,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/soup/菌菇炖乳鸽/菌菇炖乳鸽.md",
       "relativePath": "dishes/soup/菌菇炖乳鸽/菌菇炖乳鸽.md",
-      "title": "菌菇炖乳鸽的做法",
+      "title": "菌菇炖乳鸽",
       "ingredients": [
         "乳鸽",
         "菌菇",
@@ -6483,7 +6483,7 @@
       ],
       "estimatedMinutes": 45,
       "difficulty": 4,
-      "signature": "9811b0fd659b"
+      "signature": "ff2b3831ed44"
     },
     {
       "id": "HowToCook:dishes/soup/西红柿鸡蛋汤.md",
@@ -6491,7 +6491,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/soup/西红柿鸡蛋汤.md",
       "relativePath": "dishes/soup/西红柿鸡蛋汤.md",
-      "title": "西红柿鸡蛋汤的做法",
+      "title": "西红柿鸡蛋汤",
       "ingredients": [
         "西红柿",
         "鸡蛋",
@@ -6519,7 +6519,7 @@
       ],
       "estimatedMinutes": 20,
       "difficulty": 2,
-      "signature": "d334245197d3"
+      "signature": "9ba8a7ab2369"
     },
     {
       "id": "HowToCook:dishes/soup/金针菇汤.md",
@@ -6527,7 +6527,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/soup/金针菇汤.md",
       "relativePath": "dishes/soup/金针菇汤.md",
-      "title": "金针菇汤的做法",
+      "title": "金针菇汤",
       "ingredients": [
         "金针菇",
         "鸡蛋"
@@ -6550,7 +6550,7 @@
       ],
       "estimatedMinutes": 20,
       "difficulty": 2,
-      "signature": "e1c2bb5399ac"
+      "signature": "26b402c40bb1"
     },
     {
       "id": "HowToCook:dishes/soup/银耳莲子粥/银耳莲子粥.md",
@@ -6558,7 +6558,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/soup/银耳莲子粥/银耳莲子粥.md",
       "relativePath": "dishes/soup/银耳莲子粥/银耳莲子粥.md",
-      "title": "银耳莲子粥的做法",
+      "title": "银耳莲子粥",
       "ingredients": [
         "银耳",
         "去心莲子",
@@ -6581,7 +6581,7 @@
       "tags": [],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "e9b924eb0e70"
+      "signature": "42297a64072d"
     },
     {
       "id": "HowToCook:dishes/soup/陈皮排骨汤/陈皮排骨汤.md",
@@ -6589,7 +6589,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/soup/陈皮排骨汤/陈皮排骨汤.md",
       "relativePath": "dishes/soup/陈皮排骨汤/陈皮排骨汤.md",
-      "title": "陈皮排骨汤的做法",
+      "title": "陈皮排骨汤",
       "ingredients": [
         "排骨",
         "陈皮",
@@ -6619,7 +6619,7 @@
       ],
       "estimatedMinutes": 45,
       "difficulty": 4,
-      "signature": "724c71a3f5bf"
+      "signature": "4ceab24847ec"
     },
     {
       "id": "HowToCook:dishes/soup/陈皮排骨汤.md",
@@ -6627,7 +6627,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/soup/陈皮排骨汤.md",
       "relativePath": "dishes/soup/陈皮排骨汤.md",
-      "title": "陈皮排骨汤的做法",
+      "title": "陈皮排骨汤",
       "ingredients": [
         "排骨",
         "陈皮",
@@ -6657,7 +6657,7 @@
       ],
       "estimatedMinutes": 45,
       "difficulty": 4,
-      "signature": "5dd26cb681a1"
+      "signature": "723e429f799f"
     },
     {
       "id": "HowToCook:dishes/soup/黄瓜皮蛋汤.md",
@@ -6665,7 +6665,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/soup/黄瓜皮蛋汤.md",
       "relativePath": "dishes/soup/黄瓜皮蛋汤.md",
-      "title": "黄瓜皮蛋汤的做法",
+      "title": "黄瓜皮蛋汤",
       "ingredients": [
         "黄瓜",
         "皮蛋",
@@ -6692,7 +6692,7 @@
       ],
       "estimatedMinutes": 20,
       "difficulty": 2,
-      "signature": "4befd874888b"
+      "signature": "329c65c42b37"
     },
     {
       "id": "HowToCook:dishes/staple/中式馅饼/中式馅饼.md",
@@ -6700,7 +6700,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/staple/中式馅饼/中式馅饼.md",
       "relativePath": "dishes/staple/中式馅饼/中式馅饼.md",
-      "title": "中式馅饼的做法",
+      "title": "中式馅饼",
       "ingredients": [
         "面粉",
         "肉沫",
@@ -6735,7 +6735,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "d8a167d05a27"
+      "signature": "8d448cebc5b0"
     },
     {
       "id": "HowToCook:dishes/staple/凉粉/凉粉.md",
@@ -6743,7 +6743,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/staple/凉粉/凉粉.md",
       "relativePath": "dishes/staple/凉粉/凉粉.md",
-      "title": "凉粉的做法",
+      "title": "凉粉",
       "ingredients": [
         "豌豆淀粉",
         "蒜",
@@ -6774,7 +6774,7 @@
       ],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "cc16a145dc1a"
+      "signature": "0259f0132e0c"
     },
     {
       "id": "HowToCook:dishes/staple/利提巧卡.md",
@@ -6782,7 +6782,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/staple/利提巧卡.md",
       "relativePath": "dishes/staple/利提巧卡.md",
-      "title": "利提巧卡的做法",
+      "title": "利提巧卡",
       "ingredients": [
         "全麦面粉",
         "茄子",
@@ -6820,7 +6820,7 @@
       ],
       "estimatedMinutes": 35,
       "difficulty": 3,
-      "signature": "a1c0c3d86663"
+      "signature": "adbc05c87e45"
     },
     {
       "id": "HowToCook:dishes/staple/印度烤饼.md",
@@ -6828,7 +6828,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/staple/印度烤饼.md",
       "relativePath": "dishes/staple/印度烤饼.md",
-      "title": "印度烤饼的做法",
+      "title": "印度烤饼",
       "ingredients": [
         "中筋面粉",
         "酸奶",
@@ -6859,7 +6859,7 @@
       ],
       "estimatedMinutes": 20,
       "difficulty": 2,
-      "signature": "8197b40c9696"
+      "signature": "a30b41197465"
     },
     {
       "id": "HowToCook:dishes/staple/印度焖饭.md",
@@ -6867,7 +6867,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/staple/印度焖饭.md",
       "relativePath": "dishes/staple/印度焖饭.md",
-      "title": "印度焖饭的做法",
+      "title": "印度焖饭",
       "ingredients": [
         "巴斯马蒂长粒香米",
         "酸奶",
@@ -6899,7 +6899,7 @@
       ],
       "estimatedMinutes": 45,
       "difficulty": 4,
-      "signature": "72bb57318036"
+      "signature": "a6ea510e75db"
     },
     {
       "id": "HowToCook:dishes/staple/可乐炒饭.md",
@@ -6907,7 +6907,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/staple/可乐炒饭.md",
       "relativePath": "dishes/staple/可乐炒饭.md",
-      "title": "可乐炒饭的做法",
+      "title": "可乐炒饭",
       "ingredients": [
         "米饭",
         "可乐",
@@ -6940,7 +6940,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "ae1d87056f75"
+      "signature": "6de31b2177c6"
     },
     {
       "id": "HowToCook:dishes/staple/咸肉菜饭.md",
@@ -6948,7 +6948,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/staple/咸肉菜饭.md",
       "relativePath": "dishes/staple/咸肉菜饭.md",
-      "title": "咸肉菜饭的做法",
+      "title": "咸肉菜饭",
       "ingredients": [
         "米",
         "咸肉",
@@ -6975,7 +6975,7 @@
       ],
       "estimatedMinutes": 45,
       "difficulty": 4,
-      "signature": "6d7416d339e0"
+      "signature": "c697f9536e9f"
     },
     {
       "id": "HowToCook:dishes/staple/基础牛奶面包/基础牛奶面包.md",
@@ -6983,7 +6983,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/staple/基础牛奶面包/基础牛奶面包.md",
       "relativePath": "dishes/staple/基础牛奶面包/基础牛奶面包.md",
-      "title": "基础牛奶面包的做法",
+      "title": "基础牛奶面包",
       "ingredients": [
         "鸡蛋",
         "干酵母",
@@ -7012,7 +7012,7 @@
       "tags": [],
       "estimatedMinutes": 35,
       "difficulty": 3,
-      "signature": "dea961ac8f13"
+      "signature": "e04c36f379ae"
     },
     {
       "id": "HowToCook:dishes/staple/微波炉腊肠煲仔饭/微波炉腊肠煲仔饭.md",
@@ -7020,7 +7020,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/staple/微波炉腊肠煲仔饭/微波炉腊肠煲仔饭.md",
       "relativePath": "dishes/staple/微波炉腊肠煲仔饭/微波炉腊肠煲仔饭.md",
-      "title": "微波炉腊肠煲仔饭的做法",
+      "title": "微波炉腊肠煲仔饭",
       "ingredients": [
         "工具",
         "微波炉",
@@ -7053,7 +7053,7 @@
       ],
       "estimatedMinutes": 45,
       "difficulty": 3,
-      "signature": "45375c38f89b"
+      "signature": "907152e8855b"
     },
     {
       "id": "HowToCook:dishes/staple/意式肉酱面/意式肉酱面.md",
@@ -7061,7 +7061,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/staple/意式肉酱面/意式肉酱面.md",
       "relativePath": "dishes/staple/意式肉酱面/意式肉酱面.md",
-      "title": "意式肉酱面的做法",
+      "title": "意式肉酱面",
       "ingredients": [
         "意利面",
         "意利面酱",
@@ -7087,7 +7087,7 @@
       ],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "de2f1ae663e6"
+      "signature": "96bbe406fbf8"
     },
     {
       "id": "HowToCook:dishes/staple/手工水饺.md",
@@ -7095,7 +7095,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/staple/手工水饺.md",
       "relativePath": "dishes/staple/手工水饺.md",
-      "title": "手工水饺的做法",
+      "title": "手工水饺",
       "ingredients": [
         "擀面杖",
         "面粉",
@@ -7119,7 +7119,7 @@
       ],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "e70236696b3f"
+      "signature": "f2c12fdbd6df"
     },
     {
       "id": "HowToCook:dishes/staple/扬州炒饭/扬州炒饭.md",
@@ -7127,7 +7127,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/staple/扬州炒饭/扬州炒饭.md",
       "relativePath": "dishes/staple/扬州炒饭/扬州炒饭.md",
-      "title": "扬州炒饭的做法",
+      "title": "扬州炒饭",
       "ingredients": [
         "冷饭",
         "鸡蛋",
@@ -7160,7 +7160,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "53157584ce49"
+      "signature": "0592fd6971c7"
     },
     {
       "id": "HowToCook:dishes/staple/披萨饼皮/披萨饼皮.md",
@@ -7168,7 +7168,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/staple/披萨饼皮/披萨饼皮.md",
       "relativePath": "dishes/staple/披萨饼皮/披萨饼皮.md",
-      "title": "披萨饼皮的做法",
+      "title": "披萨饼皮",
       "ingredients": [
         "原料",
         "中筋面粉",
@@ -7192,7 +7192,7 @@
       "tags": [],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "38734d9d9321"
+      "signature": "edfcbe121f64"
     },
     {
       "id": "HowToCook:dishes/staple/日式咖喱饭/日式咖喱饭.md",
@@ -7200,7 +7200,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/staple/日式咖喱饭/日式咖喱饭.md",
       "relativePath": "dishes/staple/日式咖喱饭/日式咖喱饭.md",
-      "title": "日式咖喱饭的做法",
+      "title": "日式咖喱饭",
       "ingredients": [
         "咖喱",
         "土豆",
@@ -7232,7 +7232,7 @@
       ],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "1119621b79e8"
+      "signature": "5bd3cf8461a0"
     },
     {
       "id": "HowToCook:dishes/staple/日式肥牛丼饭/日式肥牛丼饭.md",
@@ -7240,7 +7240,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/staple/日式肥牛丼饭/日式肥牛丼饭.md",
       "relativePath": "dishes/staple/日式肥牛丼饭/日式肥牛丼饭.md",
-      "title": "日式肥牛丼饭的做法",
+      "title": "日式肥牛丼饭",
       "ingredients": [
         "肥牛",
         "葱",
@@ -7265,7 +7265,7 @@
       ],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "ceba2e59c639"
+      "signature": "596d8d9cddbf"
     },
     {
       "id": "HowToCook:dishes/staple/汤面.md",
@@ -7273,7 +7273,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/staple/汤面.md",
       "relativePath": "dishes/staple/汤面.md",
-      "title": "汤面的做法",
+      "title": "汤面",
       "ingredients": [
         "鸡蛋鸭蛋鹅蛋鸵鸟蛋等蛋类",
         "豆豆筋豆腐皮等豆制品类",
@@ -7301,7 +7301,7 @@
       ],
       "estimatedMinutes": 20,
       "difficulty": 2,
-      "signature": "574fca01b705"
+      "signature": "a893eb681860"
     },
     {
       "id": "HowToCook:dishes/staple/河南蒸面条/河南蒸面条.md",
@@ -7309,7 +7309,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/staple/河南蒸面条/河南蒸面条.md",
       "relativePath": "dishes/staple/河南蒸面条/河南蒸面条.md",
-      "title": "河南蒸面条的做法",
+      "title": "河南蒸面条",
       "ingredients": [
         "挂面",
         "五花肉",
@@ -7337,7 +7337,7 @@
       ],
       "estimatedMinutes": 20,
       "difficulty": 2,
-      "signature": "d6ba12b2f5c0"
+      "signature": "60dcb14e2860"
     },
     {
       "id": "HowToCook:dishes/staple/火腿饭团/火腿饭团.md",
@@ -7345,7 +7345,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/staple/火腿饭团/火腿饭团.md",
       "relativePath": "dishes/staple/火腿饭团/火腿饭团.md",
-      "title": "火腿饭团的做法",
+      "title": "火腿饭团",
       "ingredients": [
         "火腿",
         "米饭",
@@ -7371,7 +7371,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "db9b57d3d225"
+      "signature": "b0e1b08a830d"
     },
     {
       "id": "HowToCook:dishes/staple/炒凉粉/炒凉粉.md",
@@ -7379,7 +7379,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/staple/炒凉粉/炒凉粉.md",
       "relativePath": "dishes/staple/炒凉粉/炒凉粉.md",
-      "title": "炒凉粉的做法",
+      "title": "炒凉粉",
       "ingredients": [
         "凉粉",
         "玉米油",
@@ -7414,7 +7414,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "44d5a12b29d3"
+      "signature": "b9874d16cbf8"
     },
     {
       "id": "HowToCook:dishes/staple/炒年糕.md",
@@ -7422,7 +7422,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/staple/炒年糕.md",
       "relativePath": "dishes/staple/炒年糕.md",
-      "title": "炒年糕的做法",
+      "title": "炒年糕",
       "ingredients": [
         "年糕白粿",
         "葱",
@@ -7449,7 +7449,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "7acdd313ef98"
+      "signature": "caac7100c150"
     },
     {
       "id": "HowToCook:dishes/staple/炒意大利面/炒意大利面.md",
@@ -7457,7 +7457,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/staple/炒意大利面/炒意大利面.md",
       "relativePath": "dishes/staple/炒意大利面/炒意大利面.md",
-      "title": "炒意大利面的做法",
+      "title": "炒意大利面",
       "ingredients": [
         "意利面",
         "肥牛",
@@ -7480,7 +7480,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "203aa25b3dc5"
+      "signature": "e79200b9e509"
     },
     {
       "id": "HowToCook:dishes/staple/炒方便面.md",
@@ -7488,7 +7488,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/staple/炒方便面.md",
       "relativePath": "dishes/staple/炒方便面.md",
-      "title": "炒方便面的做法",
+      "title": "炒方便面",
       "ingredients": [
         "方便面",
         "鸡蛋",
@@ -7513,7 +7513,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "ef2094e56ac9"
+      "signature": "a14a8f6ea38a"
     },
     {
       "id": "HowToCook:dishes/staple/炒河粉.md",
@@ -7521,7 +7521,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/staple/炒河粉.md",
       "relativePath": "dishes/staple/炒河粉.md",
-      "title": "炒河粉的做法",
+      "title": "炒河粉",
       "ingredients": [
         "炒河粉 猪肉牛肉",
         "其他调味料 胡椒粉",
@@ -7547,7 +7547,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "f4d715b7f379"
+      "signature": "d1b9f0c8efa9"
     },
     {
       "id": "HowToCook:dishes/staple/炒馍.md",
@@ -7555,7 +7555,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/staple/炒馍.md",
       "relativePath": "dishes/staple/炒馍.md",
-      "title": "炒馍的做法",
+      "title": "炒馍",
       "ingredients": [
         "馒头",
         "盐",
@@ -7582,7 +7582,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "a4de1f56a1ef"
+      "signature": "7f55115e1c0a"
     },
     {
       "id": "HowToCook:dishes/staple/炸酱面.md",
@@ -7590,7 +7590,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/staple/炸酱面.md",
       "relativePath": "dishes/staple/炸酱面.md",
-      "title": "炸酱面的做法",
+      "title": "炸酱面",
       "ingredients": [
         "肉丁肉末",
         "面",
@@ -7621,7 +7621,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 3,
-      "signature": "be61b8124987"
+      "signature": "749a0088f0c6"
     },
     {
       "id": "HowToCook:dishes/staple/烙饼/烙饼.md",
@@ -7629,7 +7629,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/staple/烙饼/烙饼.md",
       "relativePath": "dishes/staple/烙饼/烙饼.md",
-      "title": "烙饼的做法",
+      "title": "烙饼",
       "ingredients": [
         "油",
         "面粉",
@@ -7647,7 +7647,7 @@
       "tags": [],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "2296b263c7fe"
+      "signature": "20e817d02e80"
     },
     {
       "id": "HowToCook:dishes/staple/烧饼/芝麻烧饼.md",
@@ -7655,7 +7655,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/staple/烧饼/芝麻烧饼.md",
       "relativePath": "dishes/staple/烧饼/芝麻烧饼.md",
-      "title": "芝麻烧饼的做法",
+      "title": "芝麻烧饼",
       "ingredients": [
         "面粉",
         "酵母粉",
@@ -7679,7 +7679,7 @@
       ],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "e5a2042fda02"
+      "signature": "3cf69fc07688"
     },
     {
       "id": "HowToCook:dishes/staple/热干面.md",
@@ -7687,7 +7687,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/staple/热干面.md",
       "relativePath": "dishes/staple/热干面.md",
-      "title": "热干面的做法",
+      "title": "热干面",
       "ingredients": [
         "热干面特有的碱水面",
         "葱",
@@ -7721,7 +7721,7 @@
       ],
       "estimatedMinutes": 20,
       "difficulty": 2,
-      "signature": "f3b31d5c2c54"
+      "signature": "670f205cd720"
     },
     {
       "id": "HowToCook:dishes/staple/照烧鸡腿饭.md",
@@ -7729,7 +7729,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/staple/照烧鸡腿饭.md",
       "relativePath": "dishes/staple/照烧鸡腿饭.md",
-      "title": "照烧鸡腿饭的做法",
+      "title": "照烧鸡腿饭",
       "ingredients": [
         "鸡腿",
         "料酒",
@@ -7764,7 +7764,7 @@
       ],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "b191d7a8e125"
+      "signature": "fefe29157747"
     },
     {
       "id": "HowToCook:dishes/staple/煮泡面加蛋.md",
@@ -7772,7 +7772,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/staple/煮泡面加蛋.md",
       "relativePath": "dishes/staple/煮泡面加蛋.md",
-      "title": "煮泡面加蛋的做法",
+      "title": "煮泡面加蛋",
       "ingredients": [
         "泡面",
         "鸡蛋",
@@ -7793,7 +7793,7 @@
       "tags": [],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "9e3226ea2d56"
+      "signature": "fd0dc30d2b38"
     },
     {
       "id": "HowToCook:dishes/staple/猪油拌饭.md",
@@ -7801,7 +7801,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/staple/猪油拌饭.md",
       "relativePath": "dishes/staple/猪油拌饭.md",
-      "title": "猪油拌饭的做法",
+      "title": "猪油拌饭",
       "ingredients": [
         "米饭",
         "猪油",
@@ -7822,7 +7822,7 @@
       "tags": [],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "84470b730686"
+      "signature": "a8b3631dc84a"
     },
     {
       "id": "HowToCook:dishes/staple/电饭煲三文鱼炊饭/电饭煲三文鱼炊饭.md",
@@ -7830,7 +7830,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/staple/电饭煲三文鱼炊饭/电饭煲三文鱼炊饭.md",
       "relativePath": "dishes/staple/电饭煲三文鱼炊饭/电饭煲三文鱼炊饭.md",
-      "title": "电饭煲三文鱼炊饭的做法",
+      "title": "电饭煲三文鱼炊饭",
       "ingredients": [
         "有盐牛油",
         "三文鱼",
@@ -7853,7 +7853,7 @@
       ],
       "estimatedMinutes": 45,
       "difficulty": 3,
-      "signature": "f8d5c037b30f"
+      "signature": "5e8196707e62"
     },
     {
       "id": "HowToCook:dishes/staple/空气炸锅照烧鸡饭/空气炸锅照烧鸡饭.md",
@@ -7861,7 +7861,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/staple/空气炸锅照烧鸡饭/空气炸锅照烧鸡饭.md",
       "relativePath": "dishes/staple/空气炸锅照烧鸡饭/空气炸锅照烧鸡饭.md",
-      "title": "空气炸锅照烧鸡饭的做法",
+      "title": "空气炸锅照烧鸡饭",
       "ingredients": [
         "酱油",
         "糖"
@@ -7883,7 +7883,7 @@
       ],
       "estimatedMinutes": 35,
       "difficulty": 3,
-      "signature": "474aa790bf62"
+      "signature": "6b7819d87d1e"
     },
     {
       "id": "HowToCook:dishes/staple/米饭/煮锅蒸米饭.md",
@@ -7891,7 +7891,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/staple/米饭/煮锅蒸米饭.md",
       "relativePath": "dishes/staple/米饭/煮锅蒸米饭.md",
-      "title": "煮锅蒸米饭的做法",
+      "title": "煮锅蒸米饭",
       "ingredients": [
         "北方米",
         "水",
@@ -7912,7 +7912,7 @@
       ],
       "estimatedMinutes": 20,
       "difficulty": 2,
-      "signature": "f14548d013eb"
+      "signature": "52a77b6cae97"
     },
     {
       "id": "HowToCook:dishes/staple/米饭/电饭煲蒸米饭.md",
@@ -7920,7 +7920,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/staple/米饭/电饭煲蒸米饭.md",
       "relativePath": "dishes/staple/米饭/电饭煲蒸米饭.md",
-      "title": "电饭煲蒸米饭的做法",
+      "title": "电饭煲蒸米饭",
       "ingredients": [
         "电饭煲",
         "江南米或北方米",
@@ -7941,7 +7941,7 @@
       ],
       "estimatedMinutes": 45,
       "difficulty": 3,
-      "signature": "eedc2ed88d20"
+      "signature": "8dcefbbaf746"
     },
     {
       "id": "HowToCook:dishes/staple/红芸豆拌饭.md",
@@ -7949,7 +7949,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/staple/红芸豆拌饭.md",
       "relativePath": "dishes/staple/红芸豆拌饭.md",
-      "title": "红芸豆拌饭的做法",
+      "title": "红芸豆拌饭",
       "ingredients": [
         "红芸豆",
         "巴斯马蒂香米或普通米",
@@ -7980,7 +7980,7 @@
       ],
       "estimatedMinutes": 45,
       "difficulty": 4,
-      "signature": "dc6a6dbd066b"
+      "signature": "77d4ac36f217"
     },
     {
       "id": "HowToCook:dishes/staple/老友猪肉粉/老友猪肉粉.md",
@@ -7988,7 +7988,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/staple/老友猪肉粉/老友猪肉粉.md",
       "relativePath": "dishes/staple/老友猪肉粉/老友猪肉粉.md",
-      "title": "老友猪肉粉的做法",
+      "title": "老友猪肉粉",
       "ingredients": [
         "米粉",
         "猪肉",
@@ -8021,7 +8021,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "68878b57d955"
+      "signature": "4febc71a39fd"
     },
     {
       "id": "HowToCook:dishes/staple/老干妈拌面.md",
@@ -8029,7 +8029,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/staple/老干妈拌面.md",
       "relativePath": "dishes/staple/老干妈拌面.md",
-      "title": "老干妈拌面的做法",
+      "title": "老干妈拌面",
       "ingredients": [
         "面",
         "老干妈",
@@ -8052,7 +8052,7 @@
       ],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "d533ff6034bf"
+      "signature": "b66685c002a2"
     },
     {
       "id": "HowToCook:dishes/staple/肉蛋盖饭.md",
@@ -8060,7 +8060,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/staple/肉蛋盖饭.md",
       "relativePath": "dishes/staple/肉蛋盖饭.md",
-      "title": "肉蛋盖饭的做法",
+      "title": "肉蛋盖饭",
       "ingredients": [
         "米饭",
         "鸡蛋",
@@ -8087,7 +8087,7 @@
       "tags": [],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "841c85c26ea0"
+      "signature": "3b8554d5e9b2"
     },
     {
       "id": "HowToCook:dishes/staple/茄子肉煎饼/茄子肉煎饼.md",
@@ -8095,7 +8095,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/staple/茄子肉煎饼/茄子肉煎饼.md",
       "relativePath": "dishes/staple/茄子肉煎饼/茄子肉煎饼.md",
-      "title": "茄子肉煎饼的做法",
+      "title": "茄子肉煎饼",
       "ingredients": [
         "麦粉",
         "鸡蛋",
@@ -8121,7 +8121,7 @@
       "tags": [],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "1082c6606f94"
+      "signature": "6e9bb497fb5b"
     },
     {
       "id": "HowToCook:dishes/staple/葱油拌面.md",
@@ -8129,7 +8129,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/staple/葱油拌面.md",
       "relativePath": "dishes/staple/葱油拌面.md",
-      "title": "葱油拌面的做法",
+      "title": "葱油拌面",
       "ingredients": [
         "干面",
         "葱",
@@ -8157,7 +8157,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "f44dab7d3be8"
+      "signature": "952aff1d7ae7"
     },
     {
       "id": "HowToCook:dishes/staple/蒸卤面.md",
@@ -8165,7 +8165,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/staple/蒸卤面.md",
       "relativePath": "dishes/staple/蒸卤面.md",
-      "title": "蒸卤面的做法",
+      "title": "蒸卤面",
       "ingredients": [
         "猪五花肉",
         "芹菜",
@@ -8195,7 +8195,7 @@
       ],
       "estimatedMinutes": 45,
       "difficulty": 4,
-      "signature": "02225243112a"
+      "signature": "1b6deab40691"
     },
     {
       "id": "HowToCook:dishes/staple/蛋包饭.md",
@@ -8203,7 +8203,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/staple/蛋包饭.md",
       "relativePath": "dishes/staple/蛋包饭.md",
-      "title": "蛋包饭的做法",
+      "title": "蛋包饭",
       "ingredients": [
         "洋葱",
         "胡萝卜",
@@ -8237,7 +8237,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 3,
-      "signature": "2cce6b6c35ac"
+      "signature": "88d7ecf0e9db"
     },
     {
       "id": "HowToCook:dishes/staple/蛋炒饭.md",
@@ -8245,7 +8245,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/staple/蛋炒饭.md",
       "relativePath": "dishes/staple/蛋炒饭.md",
-      "title": "蛋炒饭的做法",
+      "title": "蛋炒饭",
       "ingredients": [
         "冷饭",
         "鸡蛋",
@@ -8279,7 +8279,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "f4bdb4c817df"
+      "signature": "854d62bf9158"
     },
     {
       "id": "HowToCook:dishes/staple/螺蛳粉.md",
@@ -8287,7 +8287,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/staple/螺蛳粉.md",
       "relativePath": "dishes/staple/螺蛳粉.md",
-      "title": "螺蛳粉的做法",
+      "title": "螺蛳粉",
       "ingredients": [
         "出于家常菜考虑 从螺蛳 酸笋等工序开始制",
         "装螺蛳粉一包 其中应该包含",
@@ -8312,7 +8312,7 @@
       ],
       "estimatedMinutes": 35,
       "difficulty": 3,
-      "signature": "1fa8e53d0e66"
+      "signature": "a7860f8b31c4"
     },
     {
       "id": "HowToCook:dishes/staple/西红柿鸡蛋挂面/西红柿鸡蛋挂面.md",
@@ -8320,7 +8320,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/staple/西红柿鸡蛋挂面/西红柿鸡蛋挂面.md",
       "relativePath": "dishes/staple/西红柿鸡蛋挂面/西红柿鸡蛋挂面.md",
-      "title": "西红柿鸡蛋挂面的做法",
+      "title": "西红柿鸡蛋挂面",
       "ingredients": [
         "挂面或者鲜面也行",
         "西红柿一",
@@ -8355,7 +8355,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "4bf654f92e5b"
+      "signature": "64a63fcc32f7"
     },
     {
       "id": "HowToCook:dishes/staple/豆角焖面/豆角焖面.md",
@@ -8363,7 +8363,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/staple/豆角焖面/豆角焖面.md",
       "relativePath": "dishes/staple/豆角焖面/豆角焖面.md",
-      "title": "豆角焖面的做法",
+      "title": "豆角焖面",
       "ingredients": [
         "鲜面",
         "肉",
@@ -8393,7 +8393,7 @@
       ],
       "estimatedMinutes": 45,
       "difficulty": 4,
-      "signature": "ca2e4a1ab8f4"
+      "signature": "2b2082c88b23"
     },
     {
       "id": "HowToCook:dishes/staple/酱拌荞麦面/酱拌荞麦面.md",
@@ -8401,7 +8401,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/staple/酱拌荞麦面/酱拌荞麦面.md",
       "relativePath": "dishes/staple/酱拌荞麦面/酱拌荞麦面.md",
-      "title": "酱拌荞麦面的做法",
+      "title": "酱拌荞麦面",
       "ingredients": [
         "荞麦面",
         "黄瓜",
@@ -8424,7 +8424,7 @@
       ],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "8523f23dc771"
+      "signature": "a3eef641a028"
     },
     {
       "id": "HowToCook:dishes/staple/酸辣蕨根粉.md",
@@ -8432,7 +8432,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/staple/酸辣蕨根粉.md",
       "relativePath": "dishes/staple/酸辣蕨根粉.md",
-      "title": "酸辣蕨根粉的做法",
+      "title": "酸辣蕨根粉",
       "ingredients": [
         "蕨粉",
         "油泼辣子",
@@ -8461,7 +8461,7 @@
       ],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "76d90bc82408"
+      "signature": "66d882f459fc"
     },
     {
       "id": "HowToCook:dishes/staple/醪糟小汤圆.md",
@@ -8469,7 +8469,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/staple/醪糟小汤圆.md",
       "relativePath": "dishes/staple/醪糟小汤圆.md",
-      "title": "醪糟小汤圆的做法",
+      "title": "醪糟小汤圆",
       "ingredients": [
         "圆",
         "醪糟",
@@ -8493,7 +8493,7 @@
       ],
       "estimatedMinutes": 20,
       "difficulty": 2,
-      "signature": "2b70eeac65d5"
+      "signature": "a22f57ad408f"
     },
     {
       "id": "HowToCook:dishes/staple/陕西油泼面/陕西油泼面.md",
@@ -8501,7 +8501,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/staple/陕西油泼面/陕西油泼面.md",
       "relativePath": "dishes/staple/陕西油泼面/陕西油泼面.md",
-      "title": "陕西油泼面的做法",
+      "title": "陕西油泼面",
       "ingredients": [
         "鲜面",
         "盐",
@@ -8533,7 +8533,7 @@
       ],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "f19cb8fd70b6"
+      "signature": "90ef88d9621d"
     },
     {
       "id": "HowToCook:dishes/staple/韩式拌饭/韩式拌饭.md",
@@ -8541,7 +8541,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/staple/韩式拌饭/韩式拌饭.md",
       "relativePath": "dishes/staple/韩式拌饭/韩式拌饭.md",
-      "title": "韩式拌饭的做法",
+      "title": "韩式拌饭",
       "ingredients": [
         "米饭",
         "鸡蛋",
@@ -8576,7 +8576,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "1c9d493da99e"
+      "signature": "1bd6d3ee22d7"
     },
     {
       "id": "HowToCook:dishes/staple/韭菜盒子.md",
@@ -8584,7 +8584,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/staple/韭菜盒子.md",
       "relativePath": "dishes/staple/韭菜盒子.md",
-      "title": "韭菜盒子的做法",
+      "title": "韭菜盒子",
       "ingredients": [
         "韭菜",
         "虾仁",
@@ -8607,7 +8607,7 @@
       "tags": [],
       "estimatedMinutes": 25,
       "difficulty": 3,
-      "signature": "ae06bef57cc2"
+      "signature": "0b1d2286f1d1"
     },
     {
       "id": "HowToCook:dishes/staple/鲜肉烧卖.md",
@@ -8615,7 +8615,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/staple/鲜肉烧卖.md",
       "relativePath": "dishes/staple/鲜肉烧卖.md",
-      "title": "鲜肉烧卖的做法",
+      "title": "鲜肉烧卖",
       "ingredients": [
         "烧卖皮",
         "生姜末",
@@ -8650,7 +8650,7 @@
       ],
       "estimatedMinutes": 20,
       "difficulty": 2,
-      "signature": "48635fd425e7"
+      "signature": "f7ab1398fb1a"
     },
     {
       "id": "HowToCook:dishes/staple/鲣鱼海苔玉米饭/鲣鱼海苔玉米饭.md",
@@ -8658,7 +8658,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/staple/鲣鱼海苔玉米饭/鲣鱼海苔玉米饭.md",
       "relativePath": "dishes/staple/鲣鱼海苔玉米饭/鲣鱼海苔玉米饭.md",
-      "title": "鲣鱼海苔玉米饭的做法",
+      "title": "鲣鱼海苔玉米饭",
       "ingredients": [
         "实际操作时间 分钟",
         "预估烹饪难度 ★★",
@@ -8688,7 +8688,7 @@
       ],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "a25d6c668c88"
+      "signature": "79753e8c904e"
     },
     {
       "id": "HowToCook:dishes/staple/鹰嘴豆炸饼.md",
@@ -8696,7 +8696,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/staple/鹰嘴豆炸饼.md",
       "relativePath": "dishes/staple/鹰嘴豆炸饼.md",
-      "title": "鹰嘴豆炸饼的做法",
+      "title": "鹰嘴豆炸饼",
       "ingredients": [
         "鹰嘴豆",
         "中筋面粉",
@@ -8730,7 +8730,7 @@
       ],
       "estimatedMinutes": 45,
       "difficulty": 4,
-      "signature": "5453f4e75a1c"
+      "signature": "d1605d0ccbba"
     },
     {
       "id": "HowToCook:dishes/staple/麻油拌面.md",
@@ -8738,7 +8738,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/staple/麻油拌面.md",
       "relativePath": "dishes/staple/麻油拌面.md",
-      "title": "麻油拌面的做法",
+      "title": "麻油拌面",
       "ingredients": [
         "麻油",
         "胡椒粉",
@@ -8762,7 +8762,7 @@
       ],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "91a79174da86"
+      "signature": "3e485f429a35"
     },
     {
       "id": "HowToCook:dishes/staple/麻辣减脂荞麦面.md",
@@ -8770,7 +8770,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/staple/麻辣减脂荞麦面.md",
       "relativePath": "dishes/staple/麻辣减脂荞麦面.md",
-      "title": "麻辣减脂荞麦面的做法",
+      "title": "麻辣减脂荞麦面",
       "ingredients": [
         "洗菜盆 直径 c 的锅",
         "建议购买方案",
@@ -8793,7 +8793,7 @@
       ],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "498195bb446a"
+      "signature": "f76d9a8dcd5c"
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/上汤娃娃菜/上汤娃娃菜.md",
@@ -8801,7 +8801,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/vegetable_dish/上汤娃娃菜/上汤娃娃菜.md",
       "relativePath": "dishes/vegetable_dish/上汤娃娃菜/上汤娃娃菜.md",
-      "title": "上汤娃娃菜的做法",
+      "title": "上汤娃娃菜",
       "ingredients": [
         "娃娃菜",
         "皮蛋",
@@ -8832,7 +8832,7 @@
       ],
       "estimatedMinutes": 20,
       "difficulty": 2,
-      "signature": "903939169866"
+      "signature": "4b92f21304a0"
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/凉拌木耳/凉拌木耳.md",
@@ -8840,7 +8840,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/vegetable_dish/凉拌木耳/凉拌木耳.md",
       "relativePath": "dishes/vegetable_dish/凉拌木耳/凉拌木耳.md",
-      "title": "凉拌木耳的做法",
+      "title": "凉拌木耳",
       "ingredients": [
         "蒜瓣",
         "白糖",
@@ -8869,7 +8869,7 @@
       ],
       "estimatedMinutes": 20,
       "difficulty": 1,
-      "signature": "23471376d018"
+      "signature": "5ba5784b9ddf"
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/凉拌油麦菜.md",
@@ -8877,7 +8877,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/vegetable_dish/凉拌油麦菜.md",
       "relativePath": "dishes/vegetable_dish/凉拌油麦菜.md",
-      "title": "凉拌油麦菜的做法",
+      "title": "凉拌油麦菜",
       "ingredients": [
         "油麦菜",
         "芝麻酱",
@@ -8904,7 +8904,7 @@
       ],
       "estimatedMinutes": 20,
       "difficulty": 1,
-      "signature": "906ea72ea54e"
+      "signature": "d529f1f8c4ec"
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/凉拌莴笋/凉拌莴笋.md",
@@ -8912,7 +8912,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/vegetable_dish/凉拌莴笋/凉拌莴笋.md",
       "relativePath": "dishes/vegetable_dish/凉拌莴笋/凉拌莴笋.md",
-      "title": "凉拌莴笋的做法",
+      "title": "凉拌莴笋",
       "ingredients": [
         "莴笋",
         "萝卜",
@@ -8941,7 +8941,7 @@
       ],
       "estimatedMinutes": 20,
       "difficulty": 1,
-      "signature": "c7a12f5d264e"
+      "signature": "4921df1a3994"
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/凉拌豆腐.md",
@@ -8949,7 +8949,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/vegetable_dish/凉拌豆腐.md",
       "relativePath": "dishes/vegetable_dish/凉拌豆腐.md",
-      "title": "凉拌豆腐的做法",
+      "title": "凉拌豆腐",
       "ingredients": [
         "葱",
         "蒜",
@@ -8979,7 +8979,7 @@
       ],
       "estimatedMinutes": 20,
       "difficulty": 1,
-      "signature": "6794a0c7b87f"
+      "signature": "4c8ddbefb2e6"
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/凉拌金针菇.md",
@@ -8987,7 +8987,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/vegetable_dish/凉拌金针菇.md",
       "relativePath": "dishes/vegetable_dish/凉拌金针菇.md",
-      "title": "凉拌金针菇的做法",
+      "title": "凉拌金针菇",
       "ingredients": [
         "金针菇",
         "葱",
@@ -9018,7 +9018,7 @@
       ],
       "estimatedMinutes": 20,
       "difficulty": 1,
-      "signature": "7048acf7e8e8"
+      "signature": "7cb294e99736"
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/凉拌黄瓜.md",
@@ -9026,7 +9026,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/vegetable_dish/凉拌黄瓜.md",
       "relativePath": "dishes/vegetable_dish/凉拌黄瓜.md",
-      "title": "凉拌黄瓜的做法",
+      "title": "凉拌黄瓜",
       "ingredients": [
         "黄瓜",
         "醋",
@@ -9050,7 +9050,7 @@
       ],
       "estimatedMinutes": 20,
       "difficulty": 2,
-      "signature": "823fc20c6f4b"
+      "signature": "f913df5e1b5b"
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/包菜炒鸡蛋粉丝/包菜炒鸡蛋粉丝.md",
@@ -9058,7 +9058,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/vegetable_dish/包菜炒鸡蛋粉丝/包菜炒鸡蛋粉丝.md",
       "relativePath": "dishes/vegetable_dish/包菜炒鸡蛋粉丝/包菜炒鸡蛋粉丝.md",
-      "title": "包菜炒鸡蛋粉丝的做法",
+      "title": "包菜炒鸡蛋粉丝",
       "ingredients": [
         "包菜",
         "鸡蛋",
@@ -9090,7 +9090,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 3,
-      "signature": "e9a9120514a7"
+      "signature": "3dfc38edf0a8"
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/印度土豆花菜.md",
@@ -9098,7 +9098,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/vegetable_dish/印度土豆花菜.md",
       "relativePath": "dishes/vegetable_dish/印度土豆花菜.md",
-      "title": "印度土豆花菜的做法",
+      "title": "印度土豆花菜",
       "ingredients": [
         "土豆",
         "花菜",
@@ -9137,7 +9137,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 3,
-      "signature": "c9a0d690e4f6"
+      "signature": "94023ce6a1f4"
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/印度葫芦丸子.md",
@@ -9145,7 +9145,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/vegetable_dish/印度葫芦丸子.md",
       "relativePath": "dishes/vegetable_dish/印度葫芦丸子.md",
-      "title": "印度葫芦丸子的做法",
+      "title": "印度葫芦丸子",
       "ingredients": [
         "瓠瓜",
         "鹰嘴豆粉",
@@ -9183,7 +9183,7 @@
       ],
       "estimatedMinutes": 45,
       "difficulty": 4,
-      "signature": "169564d530b4"
+      "signature": "226281d6fb19"
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/地三鲜.md",
@@ -9191,7 +9191,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/vegetable_dish/地三鲜.md",
       "relativePath": "dishes/vegetable_dish/地三鲜.md",
-      "title": "地三鲜的做法",
+      "title": "地三鲜",
       "ingredients": [
         "茄子",
         "土豆",
@@ -9228,7 +9228,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 3,
-      "signature": "be7f1d49d0ba"
+      "signature": "0456cadd348e"
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/家常日本豆腐.md",
@@ -9236,7 +9236,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/vegetable_dish/家常日本豆腐.md",
       "relativePath": "dishes/vegetable_dish/家常日本豆腐.md",
-      "title": "家常日本豆腐的做法",
+      "title": "家常日本豆腐",
       "ingredients": [
         "日本豆腐",
         "青椒",
@@ -9273,7 +9273,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "65caf2167a00"
+      "signature": "ff3d976a71e4"
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/小炒藕丁/小炒藕丁.md",
@@ -9281,7 +9281,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/vegetable_dish/小炒藕丁/小炒藕丁.md",
       "relativePath": "dishes/vegetable_dish/小炒藕丁/小炒藕丁.md",
-      "title": "小炒藕丁的做法",
+      "title": "小炒藕丁",
       "ingredients": [
         "葱",
         "米辣",
@@ -9311,7 +9311,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "873c998638ef"
+      "signature": "c36aa94dc48c"
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/干锅花菜/干锅花菜.md",
@@ -9319,7 +9319,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/vegetable_dish/干锅花菜/干锅花菜.md",
       "relativePath": "dishes/vegetable_dish/干锅花菜/干锅花菜.md",
-      "title": "干锅花菜的做法",
+      "title": "干锅花菜",
       "ingredients": [
         "花菜",
         "五花肉",
@@ -9350,7 +9350,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "b13d61308990"
+      "signature": "e60048f766b2"
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/手撕包菜/手撕包菜.md",
@@ -9358,7 +9358,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/vegetable_dish/手撕包菜/手撕包菜.md",
       "relativePath": "dishes/vegetable_dish/手撕包菜/手撕包菜.md",
-      "title": "手撕包菜的做法",
+      "title": "手撕包菜",
       "ingredients": [
         "包菜",
         "五花肉",
@@ -9392,7 +9392,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 3,
-      "signature": "e62a30d3bb22"
+      "signature": "031a5f892728"
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/拔丝土豆/拔丝土豆.md",
@@ -9400,7 +9400,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/vegetable_dish/拔丝土豆/拔丝土豆.md",
       "relativePath": "dishes/vegetable_dish/拔丝土豆/拔丝土豆.md",
-      "title": "拔丝土豆的做法",
+      "title": "拔丝土豆",
       "ingredients": [
         "土豆",
         "食用油",
@@ -9428,7 +9428,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 3,
-      "signature": "728579ade663"
+      "signature": "fce2d7e99f23"
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/松仁玉米.md",
@@ -9436,7 +9436,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/vegetable_dish/松仁玉米.md",
       "relativePath": "dishes/vegetable_dish/松仁玉米.md",
-      "title": "松仁玉米的做法",
+      "title": "松仁玉米",
       "ingredients": [
         "玉米粒",
         "熟松子仁",
@@ -9466,7 +9466,7 @@
       ],
       "estimatedMinutes": 20,
       "difficulty": 2,
-      "signature": "71a04382c82d"
+      "signature": "1bc75659f45c"
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/椒盐玉米/椒盐玉米.md",
@@ -9474,7 +9474,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/vegetable_dish/椒盐玉米/椒盐玉米.md",
       "relativePath": "dishes/vegetable_dish/椒盐玉米/椒盐玉米.md",
-      "title": "椒盐玉米的做法",
+      "title": "椒盐玉米",
       "ingredients": [
         "玉米粒",
         "椒盐",
@@ -9501,7 +9501,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "8984ff5b4538"
+      "signature": "9401a56e830b"
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/榄菜肉末四季豆/榄菜肉末四季豆.md",
@@ -9509,7 +9509,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/vegetable_dish/榄菜肉末四季豆/榄菜肉末四季豆.md",
       "relativePath": "dishes/vegetable_dish/榄菜肉末四季豆/榄菜肉末四季豆.md",
-      "title": "榄菜肉末四季豆的做法",
+      "title": "榄菜肉末四季豆",
       "ingredients": [
         "四季豆",
         "五花肉",
@@ -9537,7 +9537,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "893159820efb"
+      "signature": "58d024c3b080"
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/水油焖蔬菜.md",
@@ -9545,7 +9545,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/vegetable_dish/水油焖蔬菜.md",
       "relativePath": "dishes/vegetable_dish/水油焖蔬菜.md",
-      "title": "水油焖蔬菜的做法",
+      "title": "水油焖蔬菜",
       "ingredients": [
         "食用油",
         "盐",
@@ -9573,7 +9573,7 @@
       ],
       "estimatedMinutes": 45,
       "difficulty": 4,
-      "signature": "5a7a06a87c36"
+      "signature": "fdfb974da001"
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/油醋爆蛋.md",
@@ -9581,7 +9581,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/vegetable_dish/油醋爆蛋.md",
       "relativePath": "dishes/vegetable_dish/油醋爆蛋.md",
-      "title": "油醋爆蛋的做法",
+      "title": "油醋爆蛋",
       "ingredients": [
         "鸡蛋",
         "米辣",
@@ -9609,7 +9609,7 @@
       ],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "fe600b9c5d15"
+      "signature": "311d12d2a385"
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/洋葱炒鸡蛋/洋葱炒鸡蛋.md",
@@ -9617,7 +9617,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/vegetable_dish/洋葱炒鸡蛋/洋葱炒鸡蛋.md",
       "relativePath": "dishes/vegetable_dish/洋葱炒鸡蛋/洋葱炒鸡蛋.md",
-      "title": "洋葱炒鸡蛋的做法",
+      "title": "洋葱炒鸡蛋",
       "ingredients": [
         "鸡蛋",
         "洋葱",
@@ -9642,7 +9642,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 3,
-      "signature": "aa2c781210b9"
+      "signature": "15d8bcb38e74"
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/清炒花菜.md",
@@ -9650,7 +9650,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/vegetable_dish/清炒花菜.md",
       "relativePath": "dishes/vegetable_dish/清炒花菜.md",
-      "title": "清炒花菜的做法",
+      "title": "清炒花菜",
       "ingredients": [
         "花菜",
         "蒜",
@@ -9676,7 +9676,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "09e860a47390"
+      "signature": "b3f78bd36764"
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/清蒸南瓜.md",
@@ -9684,7 +9684,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/vegetable_dish/清蒸南瓜.md",
       "relativePath": "dishes/vegetable_dish/清蒸南瓜.md",
-      "title": "清蒸南瓜的做法",
+      "title": "清蒸南瓜",
       "ingredients": [
         "南瓜",
         "蒸锅"
@@ -9706,7 +9706,7 @@
       ],
       "estimatedMinutes": 20,
       "difficulty": 2,
-      "signature": "ddcdadef32e3"
+      "signature": "e309576b2589"
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/炒滑蛋/炒滑蛋.md",
@@ -9714,7 +9714,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/vegetable_dish/炒滑蛋/炒滑蛋.md",
       "relativePath": "dishes/vegetable_dish/炒滑蛋/炒滑蛋.md",
-      "title": "炒滑蛋的做法",
+      "title": "炒滑蛋",
       "ingredients": [
         "鸡蛋",
         "牛奶"
@@ -9736,7 +9736,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "e5a203aebdee"
+      "signature": "4111b98336ba"
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/炒茄子.md",
@@ -9744,7 +9744,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/vegetable_dish/炒茄子.md",
       "relativePath": "dishes/vegetable_dish/炒茄子.md",
-      "title": "炒茄子的做法",
+      "title": "炒茄子",
       "ingredients": [
         "茄子",
         "八角",
@@ -9776,7 +9776,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "bffe940a3dfe"
+      "signature": "0dd6fca71fc8"
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/炒青菜.md",
@@ -9784,7 +9784,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/vegetable_dish/炒青菜.md",
       "relativePath": "dishes/vegetable_dish/炒青菜.md",
-      "title": "炒青菜的做法",
+      "title": "炒青菜",
       "ingredients": [
         "青菜"
       ],
@@ -9806,7 +9806,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "f72367e8fff3"
+      "signature": "f859d06d0fc6"
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/烤茄子/烤茄子.md",
@@ -9814,7 +9814,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/vegetable_dish/烤茄子/烤茄子.md",
       "relativePath": "dishes/vegetable_dish/烤茄子/烤茄子.md",
-      "title": "烤茄子的做法",
+      "title": "烤茄子",
       "ingredients": [
         "茄子",
         "食用油",
@@ -9840,7 +9840,7 @@
       ],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "6c82224f54c0"
+      "signature": "59ce3e338163"
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/白灼菜心/白灼菜心.md",
@@ -9848,7 +9848,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/vegetable_dish/白灼菜心/白灼菜心.md",
       "relativePath": "dishes/vegetable_dish/白灼菜心/白灼菜心.md",
-      "title": "白灼菜心的做法",
+      "title": "白灼菜心",
       "ingredients": [
         "新鲜菜心",
         "生抽 蚝油 盐",
@@ -9876,7 +9876,7 @@
       ],
       "estimatedMinutes": 20,
       "difficulty": 2,
-      "signature": "3efbd56dab8b"
+      "signature": "b5d46449bec1"
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/皮蛋豆腐.md",
@@ -9884,7 +9884,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/vegetable_dish/皮蛋豆腐.md",
       "relativePath": "dishes/vegetable_dish/皮蛋豆腐.md",
-      "title": "皮蛋豆腐的做法",
+      "title": "皮蛋豆腐",
       "ingredients": [
         "皮蛋",
         "内酯豆腐",
@@ -9910,7 +9910,7 @@
       ],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "d09c2c4a1a6e"
+      "signature": "3159ad217db6"
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/糖拌西红柿/糖拌西红柿.md",
@@ -9918,7 +9918,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/vegetable_dish/糖拌西红柿/糖拌西红柿.md",
       "relativePath": "dishes/vegetable_dish/糖拌西红柿/糖拌西红柿.md",
-      "title": "糖拌西红柿的做法",
+      "title": "糖拌西红柿",
       "ingredients": [
         "西红柿",
         "白砂糖",
@@ -9936,7 +9936,7 @@
       "tags": [],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "99e487ca42ef"
+      "signature": "327cfcce29a0"
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/素炒豆角.md",
@@ -9944,7 +9944,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/vegetable_dish/素炒豆角.md",
       "relativePath": "dishes/vegetable_dish/素炒豆角.md",
-      "title": "素炒豆角的做法",
+      "title": "素炒豆角",
       "ingredients": [
         "豆角",
         "米椒",
@@ -9973,7 +9973,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "5cf18128c897"
+      "signature": "fbd16e36ae14"
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/红烧冬瓜/红烧冬瓜.md",
@@ -9981,7 +9981,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/vegetable_dish/红烧冬瓜/红烧冬瓜.md",
       "relativePath": "dishes/vegetable_dish/红烧冬瓜/红烧冬瓜.md",
-      "title": "红烧冬瓜的做法",
+      "title": "红烧冬瓜",
       "ingredients": [
         "冬瓜",
         "食用油",
@@ -10014,7 +10014,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 3,
-      "signature": "ce88caeadb4e"
+      "signature": "98e249252af6"
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/红烧茄子.md",
@@ -10022,7 +10022,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/vegetable_dish/红烧茄子.md",
       "relativePath": "dishes/vegetable_dish/红烧茄子.md",
-      "title": "红烧茄子的做法",
+      "title": "红烧茄子",
       "ingredients": [
         "蒜",
         "葱",
@@ -10056,7 +10056,7 @@
       ],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "4c617cc17061"
+      "signature": "99ce2f31a335"
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/脆皮豆腐.md",
@@ -10064,7 +10064,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/vegetable_dish/脆皮豆腐.md",
       "relativePath": "dishes/vegetable_dish/脆皮豆腐.md",
-      "title": "脆皮豆腐的做法",
+      "title": "脆皮豆腐",
       "ingredients": [
         "老豆腐",
         "鸡蛋",
@@ -10092,7 +10092,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "e9ecb6b43e82"
+      "signature": "c9439d90d9f7"
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/芹菜拌茶树菇/芹菜拌茶树菇.md",
@@ -10100,7 +10100,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/vegetable_dish/芹菜拌茶树菇/芹菜拌茶树菇.md",
       "relativePath": "dishes/vegetable_dish/芹菜拌茶树菇/芹菜拌茶树菇.md",
-      "title": "芹菜拌茶树菇的做法",
+      "title": "芹菜拌茶树菇",
       "ingredients": [
         "闽星树菇",
         "芹菜",
@@ -10122,7 +10122,7 @@
       "tags": [],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "95b327b12de2"
+      "signature": "3dfdde847dc6"
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/茄子炖土豆.md",
@@ -10130,7 +10130,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/vegetable_dish/茄子炖土豆.md",
       "relativePath": "dishes/vegetable_dish/茄子炖土豆.md",
-      "title": "茄子炖土豆的做法",
+      "title": "茄子炖土豆",
       "ingredients": [
         "茄子",
         "土豆",
@@ -10161,7 +10161,7 @@
       ],
       "estimatedMinutes": 45,
       "difficulty": 4,
-      "signature": "8023b3ef12b6"
+      "signature": "7afef7b6fb64"
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/莴笋叶煎饼/莴笋叶煎饼.md",
@@ -10169,7 +10169,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/vegetable_dish/莴笋叶煎饼/莴笋叶煎饼.md",
       "relativePath": "dishes/vegetable_dish/莴笋叶煎饼/莴笋叶煎饼.md",
-      "title": "莴笋叶煎饼的做法",
+      "title": "莴笋叶煎饼",
       "ingredients": [
         "莴笋叶",
         "鸡蛋",
@@ -10192,7 +10192,7 @@
       "tags": [],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "5002956a43ec"
+      "signature": "18b5054bda6e"
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/菠菜炒鸡蛋/菠菜炒鸡蛋.md",
@@ -10200,7 +10200,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/vegetable_dish/菠菜炒鸡蛋/菠菜炒鸡蛋.md",
       "relativePath": "dishes/vegetable_dish/菠菜炒鸡蛋/菠菜炒鸡蛋.md",
-      "title": "菠菜炒鸡蛋的做法",
+      "title": "菠菜炒鸡蛋",
       "ingredients": [
         "菠菜",
         "鸡蛋",
@@ -10224,7 +10224,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "f11a458a9cf7"
+      "signature": "75054d3a6bac"
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/葱煎豆腐.md",
@@ -10232,7 +10232,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/vegetable_dish/葱煎豆腐.md",
       "relativePath": "dishes/vegetable_dish/葱煎豆腐.md",
-      "title": "葱煎豆腐的做法",
+      "title": "葱煎豆腐",
       "ingredients": [
         "白豆腐",
         "葱",
@@ -10260,7 +10260,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "9dba9bb2ba74"
+      "signature": "6d6d264e4eb7"
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/蒜蓉空心菜/蒜蓉空心菜.md",
@@ -10268,7 +10268,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/vegetable_dish/蒜蓉空心菜/蒜蓉空心菜.md",
       "relativePath": "dishes/vegetable_dish/蒜蓉空心菜/蒜蓉空心菜.md",
-      "title": "蒜蓉空心菜的做法",
+      "title": "蒜蓉空心菜",
       "ingredients": [
         "空心菜",
         "蒜末",
@@ -10295,7 +10295,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "e31a5867c41c"
+      "signature": "76e6a2f65791"
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/蒜蓉西兰花.md",
@@ -10303,7 +10303,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/vegetable_dish/蒜蓉西兰花.md",
       "relativePath": "dishes/vegetable_dish/蒜蓉西兰花.md",
-      "title": "蒜蓉西兰花的做法",
+      "title": "蒜蓉西兰花",
       "ingredients": [
         "西兰花",
         "蒜 - 瓣",
@@ -10330,7 +10330,7 @@
       ],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "99e6bd40eae2"
+      "signature": "cd971b232797"
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/蒲烧茄子.md",
@@ -10338,7 +10338,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/vegetable_dish/蒲烧茄子.md",
       "relativePath": "dishes/vegetable_dish/蒲烧茄子.md",
-      "title": "蒲烧茄子的做法",
+      "title": "蒲烧茄子",
       "ingredients": [
         "茄子",
         "蒲烧汁",
@@ -10369,7 +10369,7 @@
       ],
       "estimatedMinutes": 45,
       "difficulty": 4,
-      "signature": "09096f22cd25"
+      "signature": "8b9636a4d2ef"
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/虎皮青椒/虎皮青椒.md",
@@ -10377,7 +10377,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/vegetable_dish/虎皮青椒/虎皮青椒.md",
       "relativePath": "dishes/vegetable_dish/虎皮青椒/虎皮青椒.md",
-      "title": "虎皮青椒的做法",
+      "title": "虎皮青椒",
       "ingredients": [
         "青椒",
         "蒜",
@@ -10404,7 +10404,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "3855f1bd98bb"
+      "signature": "38c7221b41f5"
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/蚝油三鲜菇/蚝油三鲜菇.md",
@@ -10412,7 +10412,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/vegetable_dish/蚝油三鲜菇/蚝油三鲜菇.md",
       "relativePath": "dishes/vegetable_dish/蚝油三鲜菇/蚝油三鲜菇.md",
-      "title": "蚝油三鲜菇的做法",
+      "title": "蚝油三鲜菇",
       "ingredients": [
         "香菇",
         "蟹味菇",
@@ -10446,7 +10446,7 @@
       ],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "10e5da3a70d4"
+      "signature": "4682ac0697e4"
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/蚝油生菜.md",
@@ -10454,7 +10454,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/vegetable_dish/蚝油生菜.md",
       "relativePath": "dishes/vegetable_dish/蚝油生菜.md",
-      "title": "蚝油生菜的做法",
+      "title": "蚝油生菜",
       "ingredients": [
         "生菜",
         "蚝油",
@@ -10480,7 +10480,7 @@
       "tags": [],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "2653ab4f7556"
+      "signature": "9e6d5a5c4b23"
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/西红柿炒鸡蛋.md",
@@ -10488,7 +10488,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/vegetable_dish/西红柿炒鸡蛋.md",
       "relativePath": "dishes/vegetable_dish/西红柿炒鸡蛋.md",
-      "title": "西红柿炒鸡蛋的做法",
+      "title": "西红柿炒鸡蛋",
       "ingredients": [
         "西红柿",
         "鸡蛋",
@@ -10516,7 +10516,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "1e8c12dfcdfd"
+      "signature": "3c682661cafe"
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/西红柿豆腐汤羹/西红柿豆腐汤羹.md",
@@ -10524,7 +10524,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/vegetable_dish/西红柿豆腐汤羹/西红柿豆腐汤羹.md",
       "relativePath": "dishes/vegetable_dish/西红柿豆腐汤羹/西红柿豆腐汤羹.md",
-      "title": "西红柿豆腐汤羹的做法",
+      "title": "西红柿豆腐汤羹",
       "ingredients": [
         "西红柿",
         "鸡蛋",
@@ -10555,7 +10555,7 @@
       ],
       "estimatedMinutes": 20,
       "difficulty": 2,
-      "signature": "62e64e9d891e"
+      "signature": "41ffebf048cf"
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/西葫芦炒鸡蛋/西葫芦炒鸡蛋.md",
@@ -10563,7 +10563,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/vegetable_dish/西葫芦炒鸡蛋/西葫芦炒鸡蛋.md",
       "relativePath": "dishes/vegetable_dish/西葫芦炒鸡蛋/西葫芦炒鸡蛋.md",
-      "title": "西葫芦炒鸡蛋的做法",
+      "title": "西葫芦炒鸡蛋",
       "ingredients": [
         "西葫芦",
         "鸡蛋",
@@ -10589,7 +10589,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "bbe01c8f014b"
+      "signature": "3d72836e38e3"
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/话梅煮毛豆/话梅煮毛豆.md",
@@ -10597,7 +10597,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/vegetable_dish/话梅煮毛豆/话梅煮毛豆.md",
       "relativePath": "dishes/vegetable_dish/话梅煮毛豆/话梅煮毛豆.md",
-      "title": "话梅煮毛豆的做法",
+      "title": "话梅煮毛豆",
       "ingredients": [
         "毛豆",
         "话梅",
@@ -10616,7 +10616,7 @@
       "tags": [],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "7f6ca447dfbe"
+      "signature": "8e2b981228d4"
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/酸辣土豆丝.md",
@@ -10624,7 +10624,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/vegetable_dish/酸辣土豆丝.md",
       "relativePath": "dishes/vegetable_dish/酸辣土豆丝.md",
-      "title": "酸辣土豆丝的做法",
+      "title": "酸辣土豆丝",
       "ingredients": [
         "土豆",
         "蒜",
@@ -10654,7 +10654,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "3a7ba0b71059"
+      "signature": "28c6ebbfa3f8"
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/金针菇日本豆腐煲.md",
@@ -10662,7 +10662,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/vegetable_dish/金针菇日本豆腐煲.md",
       "relativePath": "dishes/vegetable_dish/金针菇日本豆腐煲.md",
-      "title": "金针菇日本豆腐煲的做法",
+      "title": "金针菇日本豆腐煲",
       "ingredients": [
         "金针菇",
         "日本豆腐",
@@ -10690,7 +10690,7 @@
       ],
       "estimatedMinutes": 45,
       "difficulty": 4,
-      "signature": "afe16beaacf5"
+      "signature": "1c33346aa22b"
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/金钱蛋.md",
@@ -10698,7 +10698,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/vegetable_dish/金钱蛋.md",
       "relativePath": "dishes/vegetable_dish/金钱蛋.md",
-      "title": "金钱蛋的做法",
+      "title": "金钱蛋",
       "ingredients": [
         "鸡蛋",
         "线椒",
@@ -10733,7 +10733,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "90d2385247e8"
+      "signature": "58e2fceee282"
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/陕北熬豆角.md",
@@ -10741,7 +10741,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/vegetable_dish/陕北熬豆角.md",
       "relativePath": "dishes/vegetable_dish/陕北熬豆角.md",
-      "title": "陕北熬豆角的做法",
+      "title": "陕北熬豆角",
       "ingredients": [
         "豆角",
         "土豆",
@@ -10775,7 +10775,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "f42f8b032e7f"
+      "signature": "c08c7b29161f"
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/雷椒皮蛋.md",
@@ -10783,7 +10783,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/vegetable_dish/雷椒皮蛋.md",
       "relativePath": "dishes/vegetable_dish/雷椒皮蛋.md",
-      "title": "雷椒皮蛋的做法",
+      "title": "雷椒皮蛋",
       "ingredients": [
         "皮蛋",
         "长青椒",
@@ -10813,7 +10813,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "1a0601e47934"
+      "signature": "6eaf4c6d716e"
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/鸡蛋火腿炒黄瓜.md",
@@ -10821,7 +10821,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/vegetable_dish/鸡蛋火腿炒黄瓜.md",
       "relativePath": "dishes/vegetable_dish/鸡蛋火腿炒黄瓜.md",
-      "title": "鸡蛋火腿炒黄瓜的做法",
+      "title": "鸡蛋火腿炒黄瓜",
       "ingredients": [
         "黄瓜",
         "鸡蛋",
@@ -10847,7 +10847,7 @@
       ],
       "estimatedMinutes": 25,
       "difficulty": 2,
-      "signature": "13560cace56f"
+      "signature": "afa8ce4ef18d"
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/鸡蛋羹/微波炉鸡蛋羹.md",
@@ -10855,7 +10855,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/vegetable_dish/鸡蛋羹/微波炉鸡蛋羹.md",
       "relativePath": "dishes/vegetable_dish/鸡蛋羹/微波炉鸡蛋羹.md",
-      "title": "微波炉鸡蛋羹的做法",
+      "title": "微波炉鸡蛋羹",
       "ingredients": [
         "鸡蛋",
         "水"
@@ -10879,7 +10879,7 @@
       ],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "ad1c652a7b29"
+      "signature": "a3a86c90269a"
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/鸡蛋羹/蒸箱鸡蛋羹.md",
@@ -10887,7 +10887,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/vegetable_dish/鸡蛋羹/蒸箱鸡蛋羹.md",
       "relativePath": "dishes/vegetable_dish/鸡蛋羹/蒸箱鸡蛋羹.md",
-      "title": "蒸箱鸡蛋羹的做法",
+      "title": "蒸箱鸡蛋羹",
       "ingredients": [
         "鸡蛋",
         "食用盐",
@@ -10914,7 +10914,7 @@
       ],
       "estimatedMinutes": 20,
       "difficulty": 2,
-      "signature": "1bae3d298d49"
+      "signature": "32f170bc8393"
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/鸡蛋羹/鸡蛋羹.md",
@@ -10922,7 +10922,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/vegetable_dish/鸡蛋羹/鸡蛋羹.md",
       "relativePath": "dishes/vegetable_dish/鸡蛋羹/鸡蛋羹.md",
-      "title": "鸡蛋羹的做法",
+      "title": "鸡蛋羹",
       "ingredients": [
         "鸡蛋",
         "食用盐",
@@ -10951,7 +10951,7 @@
       ],
       "estimatedMinutes": 20,
       "difficulty": 1,
-      "signature": "b0dd214282d3"
+      "signature": "3b0bcc418138"
     },
     {
       "id": "HowToCook:dishes/vegetable_dish/鸡蛋花/鸡蛋花.md",
@@ -10959,7 +10959,7 @@
       "sourceRoot": "/tmp/HowToCook-master",
       "sourcePath": "/tmp/HowToCook-master/dishes/vegetable_dish/鸡蛋花/鸡蛋花.md",
       "relativePath": "dishes/vegetable_dish/鸡蛋花/鸡蛋花.md",
-      "title": "鸡蛋花的做法",
+      "title": "鸡蛋花",
       "ingredients": [
         "鸡蛋",
         "白糖",
@@ -10979,7 +10979,7 @@
       "tags": [],
       "estimatedMinutes": 35,
       "difficulty": 2,
-      "signature": "4ff1bac88518"
+      "signature": "6e1af8284cf8"
     },
     {
       "id": "CookLikeHOC:主食/大大大块牛腩面.md",

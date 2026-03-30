@@ -264,8 +264,18 @@ def title_from_text(text: str, fallback: str) -> str:
     for line in text.splitlines():
         label = heading_label(line)
         if label:
-            return label
-    return fallback
+            return normalize_title(label)
+    return normalize_title(fallback)
+
+
+def normalize_title(title: str) -> str:
+    title = strip_markdown(title)
+    title = re.sub(r"\s+", " ", title).strip()
+    title = re.sub(r"的做法$", "", title)
+    title = re.sub(r"^(菜谱|教程|做菜|家常菜)\s*[:：-]\s*", "", title)
+    title = re.sub(r"\s*[（(](家常版|家庭版|详细版|附视频|视频版|懒人版|简单版|图文版|教程)[)）]\s*$", "", title)
+    title = re.sub(r"\s+", " ", title).strip(" -_:：")
+    return title
 
 
 def text_sections(text: str) -> dict[str, list[str]]:
