@@ -1,0 +1,789 @@
+{
+  "version": 2,
+  "updatedAt": "2026-03-30T10:40:16.625405",
+  "activeWeek": {
+    "weekStart": "2026-03-30",
+    "generatedAt": "2026-03-30T10:40:16.625398",
+    "poolSignature": "f1351d8b396f10d1",
+    "season": "spring",
+    "proteinTargets": [
+      "chicken",
+      "fish",
+      "beef",
+      "pork",
+      "shrimp",
+      "chicken",
+      "beef"
+    ],
+    "proteinCounts": {
+      "chicken": 2,
+      "fish": 2,
+      "beef": 1,
+      "pork": 1,
+      "tofu": 1
+    },
+    "days": {
+      "Monday": {
+        "weekday": "Monday",
+        "weekdayCn": "周一",
+        "breakfast": "燕麦 + 鸡蛋 + 酸奶 + 水果",
+        "main": {
+          "id": "HowToCook:dishes/meat_dish/新疆大盘鸡/新疆大盘鸡.md",
+          "name": "新疆大盘鸡的做法",
+          "sourceName": "HowToCook",
+          "relativePath": "dishes/meat_dish/新疆大盘鸡/新疆大盘鸡.md",
+          "protein": "chicken",
+          "vegTypes": [
+            "root"
+          ],
+          "ingredients": [
+            "预估烹饪难度 ★★★★",
+            "必备原料和工具",
+            "计算",
+            "人食用",
+            "两火枪腿的鸡肉",
+            "土豆 中",
+            "葱",
+            "菜椒甜椒各一 各"
+          ],
+          "method": "- 炒糖色：先将油加入锅中，然后将白砂糖放入，用锅铲来回搅拌，将糖炒化，然后炒出焦黄色，此时将空干水的鸡肉倒入锅中翻炒，进行上色；- 放入花椒，香叶，香果，干线椒等进行翻炒；- 放入 5g 盐，生抽 7ml，蚝油 10g ，料酒 100g，倒入 1 升清水，料酒可以用啤酒代替",
+          "estimatedMinutes": 25,
+          "weekdayFriendly": true,
+          "tags": [
+            "quick"
+          ]
+        },
+        "side": {
+          "id": "HowToCook:dishes/vegetable_dish/凉拌木耳/凉拌木耳.md",
+          "name": "凉拌木耳的做法",
+          "sourceName": "HowToCook",
+          "relativePath": "dishes/vegetable_dish/凉拌木耳/凉拌木耳.md",
+          "protein": "other",
+          "vegTypes": [
+            "fungi"
+          ],
+          "ingredients": [
+            "蒜瓣",
+            "白糖",
+            "米辣",
+            "盐",
+            "香油",
+            "生抽",
+            "醋",
+            "芥末"
+          ],
+          "method": "起锅烧水，水开后放入木耳, 大火煮 1.5-2 分钟。；将蒜瓣、小米辣切碎放入碗中 （可选取中大碗）, 并依次加入盐、糖、生抽、醋、香油、芥末, 用量如上。；木耳盛出后沥水, 放入上一步碗中。",
+          "estimatedMinutes": 20,
+          "weekdayFriendly": true,
+          "tags": [
+            "light",
+            "quick",
+            "spicy-friendly"
+          ]
+        },
+        "cookSet": "新疆大盘鸡的做法 + 凉拌木耳的做法 + 米饭",
+        "dinnerReuse": "中午多做一份，晚上直接复热",
+        "note": "午餐主做，晚餐复热"
+      },
+      "Tuesday": {
+        "weekday": "Tuesday",
+        "weekdayCn": "周二",
+        "breakfast": "全麦面包 + 鸡蛋 + 牛奶 + 水果",
+        "main": {
+          "id": "HowToCook:dishes/aquatic/红烧鱼.md",
+          "name": "红烧鱼的做法",
+          "sourceName": "HowToCook",
+          "relativePath": "dishes/aquatic/红烧鱼.md",
+          "protein": "fish",
+          "vegTypes": [
+            "other"
+          ],
+          "ingredients": [
+            "姜 蒜瓣 干辣椒",
+            "鱼",
+            "蚝油",
+            "葱",
+            "香菜",
+            "米椒",
+            "味精",
+            "姜蒜准备好 切碎"
+          ],
+          "method": "- 此做法代表通用红烧鱼做法，材料分为必备和可添加~；加入 30-50ml 油，等待锅热...；放入擦干水分的鱼（不想被热油溅一身的话），然后晃动锅，用热油煎鱼，注意这过程一定要小火",
+          "estimatedMinutes": 25,
+          "weekdayFriendly": true,
+          "tags": [
+            "reheats-well",
+            "spicy-friendly"
+          ]
+        },
+        "side": {
+          "id": "HowToCook:dishes/vegetable_dish/凉拌黄瓜.md",
+          "name": "凉拌黄瓜的做法",
+          "sourceName": "HowToCook",
+          "relativePath": "dishes/vegetable_dish/凉拌黄瓜.md",
+          "protein": "other",
+          "vegTypes": [
+            "fresh"
+          ],
+          "ingredients": [
+            "黄瓜",
+            "醋",
+            "酱油",
+            "蒜"
+          ],
+          "method": "做好之后直接开吃，亦可先准备好后放入冰箱冷藏（并非冷冻）后食用；若放入冰箱冷藏，则需使用保鲜膜包紧，并在 8 小时内食用完毕，否则黄瓜会因过度腌制失去清脆口感",
+          "estimatedMinutes": 20,
+          "weekdayFriendly": true,
+          "tags": [
+            "light",
+            "quick",
+            "reheats-well"
+          ]
+        },
+        "cookSet": "红烧鱼的做法 + 凉拌黄瓜的做法 + 米饭",
+        "dinnerReuse": "中午多做一份，晚上直接复热",
+        "note": "可做微辣家常版"
+      },
+      "Wednesday": {
+        "weekday": "Wednesday",
+        "weekdayCn": "周三",
+        "breakfast": "玉米/红薯 + 鸡蛋 + 水果",
+        "main": {
+          "id": "HowToCook:dishes/meat_dish/巴基斯坦牛肉咖喱/巴基斯坦牛肉咖喱.md",
+          "name": "巴基斯坦牛肉咖喱的做法",
+          "sourceName": "HowToCook",
+          "relativePath": "dishes/meat_dish/巴基斯坦牛肉咖喱/巴基斯坦牛肉咖喱.md",
+          "protein": "beef",
+          "vegTypes": [
+            "colorful"
+          ],
+          "ingredients": [
+            "普通的炒锅",
+            "电饭煲电炖锅",
+            "asaa 粉",
+            "牛肉",
+            "番茄",
+            "螺丝椒",
+            "原味酸奶",
+            "蒜粉"
+          ],
+          "method": "- 炒锅中倒入一层油（用来防止番茄蓉沸腾蒸发）；- 加入 5g 蒜粉，5g 姜粉和 1 包 50g 的 Masala 粉，搅拌均匀；- 加入牛肉和螺丝椒段，搅拌均匀",
+          "estimatedMinutes": 20,
+          "weekdayFriendly": true,
+          "tags": [
+            "light",
+            "quick",
+            "reheats-well"
+          ]
+        },
+        "side": {
+          "id": "HowToCook:dishes/vegetable_dish/凉拌油麦菜.md",
+          "name": "凉拌油麦菜的做法",
+          "sourceName": "HowToCook",
+          "relativePath": "dishes/vegetable_dish/凉拌油麦菜.md",
+          "protein": "other",
+          "vegTypes": [
+            "leafy"
+          ],
+          "ingredients": [
+            "油麦菜",
+            "芝麻酱",
+            "酱油",
+            "醋",
+            "蚝油",
+            "白糖",
+            "香油",
+            "蒜"
+          ],
+          "method": "参考原文步骤制作。",
+          "estimatedMinutes": 20,
+          "weekdayFriendly": true,
+          "tags": [
+            "light",
+            "quick",
+            "reheats-well",
+            "spicy-friendly"
+          ]
+        },
+        "cookSet": "巴基斯坦牛肉咖喱的做法 + 凉拌油麦菜的做法 + 米饭",
+        "dinnerReuse": "中午多做一份，晚上直接复热",
+        "note": "午餐主做，晚餐复热"
+      },
+      "Thursday": {
+        "weekday": "Thursday",
+        "weekdayCn": "周四",
+        "breakfast": "杂粮粥 + 鸡蛋 + 酸奶",
+        "main": {
+          "id": "HowToCook:dishes/meat_dish/鱼香肉丝.md",
+          "name": "鱼香肉丝的做法",
+          "sourceName": "HowToCook",
+          "relativePath": "dishes/meat_dish/鱼香肉丝.md",
+          "protein": "pork",
+          "vegTypes": [
+            "fungi",
+            "colorful",
+            "root"
+          ],
+          "ingredients": [
+            "里脊肉",
+            "胡萝卜",
+            "青椒",
+            "木耳",
+            "生抽",
+            "料酒",
+            "蛋清",
+            "淀粉"
+          ],
+          "method": "将锅烧热，加入 15ml 油。；将锅烧热，加入 5ml 油。；倒入全部胡萝卜，翻炒 20s 后，放入青椒和木耳，翻炒 2 分钟。",
+          "estimatedMinutes": 25,
+          "weekdayFriendly": true,
+          "tags": [
+            "quick",
+            "reheats-well",
+            "spicy-friendly"
+          ]
+        },
+        "side": {
+          "id": "HowToCook:dishes/vegetable_dish/上汤娃娃菜/上汤娃娃菜.md",
+          "name": "上汤娃娃菜的做法",
+          "sourceName": "HowToCook",
+          "relativePath": "dishes/vegetable_dish/上汤娃娃菜/上汤娃娃菜.md",
+          "protein": "egg",
+          "vegTypes": [
+            "leafy"
+          ],
+          "ingredients": [
+            "娃娃菜",
+            "皮蛋",
+            "午餐肉",
+            "葱",
+            "姜",
+            "蒜",
+            "盐",
+            "糖"
+          ],
+          "method": "- 烧热水娃娃菜放进去十秒钟出一下水捞出。；- 调至小火加入葱姜蒜，煎炒出香味即可。；- 加入适 300g 清水（水量没过娃娃菜即可）, 放入娃娃菜, 金针菇, 午餐肉",
+          "estimatedMinutes": 20,
+          "weekdayFriendly": true,
+          "tags": [
+            "light",
+            "quick"
+          ]
+        },
+        "cookSet": "鱼香肉丝的做法 + 上汤娃娃菜的做法 + 米饭",
+        "dinnerReuse": "中午多做一份，晚上直接复热",
+        "note": "可做微辣家常版"
+      },
+      "Friday": {
+        "weekday": "Friday",
+        "weekdayCn": "周五",
+        "breakfast": "燕麦 + 鸡蛋 + 酸奶 + 水果",
+        "main": {
+          "id": "HowToCook:dishes/meat_dish/麻婆豆腐/麻婆豆腐.md",
+          "name": "麻婆豆腐的做法",
+          "sourceName": "HowToCook",
+          "relativePath": "dishes/meat_dish/麻婆豆腐/麻婆豆腐.md",
+          "protein": "tofu",
+          "vegTypes": [
+            "other"
+          ],
+          "ingredients": [
+            "内脂豆腐",
+            "水果刀",
+            "咸鸭蛋",
+            "五花肉",
+            "蒜",
+            "生姜",
+            "米椒",
+            "香辣酱"
+          ],
+          "method": "- 肉糜中加入一半的食盐和味极鲜酱油，搅拌均匀，备用；- 热锅，锅内放入 10ml - 15ml 食用油。等待 10 秒让油温升高；- 调成小火，放入大蒜、生姜、辣椒圈、花椒、咸鸭蛋、蒜蓉辣酱翻炒 20 秒，炒出香味",
+          "estimatedMinutes": 25,
+          "weekdayFriendly": true,
+          "tags": [
+            "light",
+            "quick",
+            "reheats-well",
+            "spicy-friendly"
+          ]
+        },
+        "side": {
+          "id": "HowToCook:dishes/vegetable_dish/家常日本豆腐.md",
+          "name": "家常日本豆腐的做法",
+          "sourceName": "HowToCook",
+          "relativePath": "dishes/vegetable_dish/家常日本豆腐.md",
+          "protein": "tofu",
+          "vegTypes": [
+            "fungi",
+            "colorful",
+            "root"
+          ],
+          "ingredients": [
+            "日本豆腐",
+            "青椒",
+            "胡萝卜",
+            "火腿肠",
+            "黑木耳",
+            "洋葱",
+            "生粉",
+            "蒜"
+          ],
+          "method": "- 在平底锅里放 150 ml 油，油能没过豆腐一大半即可，看边缘颜色变成金黄，翻面煎就可以了；- 两边都煎好的时候捞出来放在干净的盘里备用；- 在炒锅中倒入 10-15 ml 油，放入葱蒜，爆香后放入青椒、胡萝卜、火腿肠、黑木耳",
+          "estimatedMinutes": 25,
+          "weekdayFriendly": true,
+          "tags": [
+            "light",
+            "quick",
+            "reheats-well"
+          ]
+        },
+        "cookSet": "麻婆豆腐的做法 + 家常日本豆腐的做法 + 米饭",
+        "dinnerReuse": "中午多做一份，晚上直接复热",
+        "note": "可做微辣家常版"
+      },
+      "Saturday": {
+        "weekday": "Saturday",
+        "weekdayCn": "周六",
+        "breakfast": "全麦面包 + 鸡蛋 + 牛奶 + 水果",
+        "main": {
+          "id": "HowToCook:dishes/meat_dish/香菇滑鸡/香菇滑鸡.md",
+          "name": "香菇滑鸡的做法",
+          "sourceName": "HowToCook",
+          "relativePath": "dishes/meat_dish/香菇滑鸡/香菇滑鸡.md",
+          "protein": "chicken",
+          "vegTypes": [
+            "fungi"
+          ],
+          "ingredients": [
+            "鸡腿",
+            "干香菇",
+            "姜",
+            "葱",
+            "蒜"
+          ],
+          "method": "- 油温 3 成，下入鸡腿肉煸炒，等鸡腿肉金黄后盛出备用；- 锅留底油，下入葱、姜、蒜炒香，香菇入锅，大火翻匀；- 等待 20 秒会有香菇香味从锅中飘出，此时下入煸炒过的鸡腿肉，下入香菇水（全部，本程序员认为的灵魂操作）、糖 15ml、生抽 30ml",
+          "estimatedMinutes": 25,
+          "weekdayFriendly": true,
+          "tags": [
+            "quick"
+          ]
+        },
+        "side": {
+          "id": "HowToCook:dishes/soup/罗宋汤.md",
+          "name": "罗宋汤的做法",
+          "sourceName": "HowToCook",
+          "relativePath": "dishes/soup/罗宋汤.md",
+          "protein": "other",
+          "vegTypes": [
+            "colorful"
+          ],
+          "ingredients": [
+            "番茄"
+          ],
+          "method": "煎制过程；- 平底锅烧热，加入植物油；- 煎制牛肉，直至表面焦黄色（可以带生，千万别糊了），取出备用。",
+          "estimatedMinutes": 20,
+          "weekdayFriendly": true,
+          "tags": [
+            "light"
+          ]
+        },
+        "cookSet": "香菇滑鸡的做法 + 罗宋汤的做法 + 米饭",
+        "dinnerReuse": "中午多做一份，晚上直接复热",
+        "note": "午餐主做，晚餐复热"
+      },
+      "Sunday": {
+        "weekday": "Sunday",
+        "weekdayCn": "周日",
+        "breakfast": "玉米/红薯 + 鸡蛋 + 水果",
+        "main": {
+          "id": "HowToCook:dishes/aquatic/鳊鱼炖豆腐/鳊鱼炖豆腐.md",
+          "name": "鳊鱼炖豆腐的做法",
+          "sourceName": "HowToCook",
+          "relativePath": "dishes/aquatic/鳊鱼炖豆腐/鳊鱼炖豆腐.md",
+          "protein": "fish",
+          "vegTypes": [
+            "other"
+          ],
+          "ingredients": [
+            "老豆腐",
+            "姜",
+            "葱",
+            "蒜",
+            "老抽",
+            "桂皮",
+            "冰糖",
+            "干辣椒"
+          ],
+          "method": "- 老豆腐切块后放入水中备用；- 锅中加油，可以放点盐在锅里，防止煎鱼的时候粘锅，把腌制的鱼用厨房纸擦干水分，把鱼放到锅中，两面都煎一下；- 等两面都煎好时，把鱼推向锅边一点，留点空间放入葱姜蒜，干辣椒，香叶，八角炒出味道",
+          "estimatedMinutes": 45,
+          "weekdayFriendly": false,
+          "tags": [
+            "light",
+            "quick",
+            "reheats-well",
+            "spicy-friendly"
+          ]
+        },
+        "side": {
+          "id": "HowToCook:dishes/vegetable_dish/金针菇日本豆腐煲.md",
+          "name": "金针菇日本豆腐煲的做法",
+          "sourceName": "HowToCook",
+          "relativePath": "dishes/vegetable_dish/金针菇日本豆腐煲.md",
+          "protein": "tofu",
+          "vegTypes": [
+            "fungi"
+          ],
+          "ingredients": [
+            "金针菇",
+            "日本豆腐",
+            "米椒",
+            "生抽",
+            "蚝油",
+            "盐",
+            "糖",
+            "食用油"
+          ],
+          "method": "- 豆腐切片，小火煎到两面金黄出锅备用。；- 热锅放油，油热放小米椒、蒜末爆香，先放金针菇，炒软，把煎好的豆腐平铺在金针菇上，倒入2 配好的料汁，焖 5 分钟，大火收汁。",
+          "estimatedMinutes": 45,
+          "weekdayFriendly": false,
+          "tags": [
+            "light",
+            "quick",
+            "reheats-well"
+          ]
+        },
+        "cookSet": "鳊鱼炖豆腐的做法 + 金针菇日本豆腐煲的做法 + 米饭",
+        "dinnerReuse": "中午多做一份，晚上直接复热",
+        "note": "可做微辣家常版；更适合周末或提前备菜"
+      }
+    },
+    "weeklyBuy": {
+      "protein": [
+        "日本豆腐",
+        "两火枪腿的鸡肉",
+        "鱼",
+        "牛肉",
+        "蛋清",
+        "皮蛋",
+        "内脂豆腐",
+        "咸鸭蛋"
+      ],
+      "freshVeg": [
+        "番茄",
+        "黄瓜",
+        "油麦菜"
+      ],
+      "durableVeg": [
+        "胡萝卜",
+        "土豆 中",
+        "木耳",
+        "娃娃菜",
+        "黑木耳",
+        "洋葱",
+        "干香菇",
+        "金针菇"
+      ],
+      "breakfastStaples": [
+        "燕麦",
+        "鸡蛋",
+        "酸奶",
+        "全麦面包",
+        "牛奶",
+        "水果"
+      ],
+      "fruitExtra": [
+        "香蕉",
+        "苹果",
+        "橙子/梨",
+        "小米椒/剁椒"
+      ]
+    }
+  },
+  "history": [
+    {
+      "weekStart": "2026-03-30",
+      "usedMainIds": [
+        "CookLikeHOC:蒸菜/白切鸡.md",
+        "CookLikeHOC:蒸菜/酱椒蒜香片片鱼.md",
+        "CookLikeHOC:蒸菜/胡萝卜牛肉.md",
+        "CookLikeHOC:蒸菜/蒜蓉娃娃菜.md",
+        "CookLikeHOC:蒸菜/风干牛肉蒸白干.md",
+        "CookLikeHOC:炒菜/油渣大白菜.md",
+        "CookLikeHOC:蒸菜/酱香小河虾.md"
+      ],
+      "usedSideIds": [
+        "CookLikeHOC:砂锅菜/砂锅原味鸡汤米线.md",
+        "CookLikeHOC:凉拌/凉拌莴笋丝.md",
+        "CookLikeHOC:砂锅菜/砂锅牛杂煲.md",
+        "CookLikeHOC:炖菜/鸡血汤.md",
+        "CookLikeHOC:凉拌/柠檬凤爪.md",
+        "CookLikeHOC:炒菜/家常小炒.md",
+        "CookLikeHOC:炖菜/白菜炖豆腐.md"
+      ],
+      "proteinCounts": {
+        "chicken": 3,
+        "fish": 1,
+        "beef": 2,
+        "shrimp": 1
+      },
+      "poolSignature": "3f1a96986490bae0"
+    },
+    {
+      "weekStart": "2026-03-30",
+      "usedMainIds": [
+        "CookLikeHOC:炒菜/清炒油麦菜.md",
+        "HowToCook:dishes/aquatic/小龙虾/小龙虾.md",
+        "HowToCook:dishes/aquatic/咖喱炒蟹.md",
+        "CookLikeHOC:炒菜/芹菜炒香干.md",
+        "CookLikeHOC:炒菜/小炒黄牛肉.md",
+        "CookLikeHOC:砂锅菜/砂锅三鲜豆腐.md",
+        "CookLikeHOC:炒菜/清炒青菜.md"
+      ],
+      "usedSideIds": [
+        "CookLikeHOC:炒菜/小炒花菜.md",
+        "CookLikeHOC:炒菜/小炒花菜.md",
+        "CookLikeHOC:炖菜/白菜炖豆腐.md",
+        "CookLikeHOC:炖菜/白菜炖豆腐.md",
+        "CookLikeHOC:炒菜/小炒花菜.md",
+        "CookLikeHOC:炒菜/家常小炒.md",
+        "CookLikeHOC:炒菜/小炒花菜.md"
+      ],
+      "proteinCounts": {
+        "chicken": 4,
+        "shrimp": 2,
+        "beef": 1
+      },
+      "poolSignature": "56d8539a21aa4278"
+    },
+    {
+      "weekStart": "2026-03-30",
+      "usedMainIds": [
+        "HowToCook:dishes/vegetable_dish/鸡蛋羹/鸡蛋羹.md",
+        "HowToCook:dishes/aquatic/清蒸生蚝.md",
+        "HowToCook:dishes/meat_dish/巴基斯坦牛肉咖喱/巴基斯坦牛肉咖喱.md",
+        "HowToCook:dishes/meat_dish/农家一碗香/农家一碗香.md",
+        "HowToCook:dishes/aquatic/芥末黄油罗氏虾/芥末黄油罗氏虾.md",
+        "HowToCook:dishes/meat_dish/带把肘子.md",
+        "HowToCook:dishes/meat_dish/荔枝肉/荔枝肉.md"
+      ],
+      "usedSideIds": [
+        "HowToCook:dishes/vegetable_dish/凉拌黄瓜.md",
+        "CookLikeHOC:砂锅菜/砂锅三鲜豆腐.md",
+        "HowToCook:dishes/vegetable_dish/凉拌油麦菜.md",
+        "HowToCook:dishes/vegetable_dish/西红柿豆腐汤羹/西红柿豆腐汤羹.md",
+        "HowToCook:dishes/vegetable_dish/家常日本豆腐.md",
+        "HowToCook:dishes/vegetable_dish/上汤娃娃菜/上汤娃娃菜.md",
+        "HowToCook:dishes/vegetable_dish/白灼菜心/白灼菜心.md"
+      ],
+      "proteinCounts": {
+        "chicken": 2,
+        "fish": 1,
+        "beef": 1,
+        "pork": 1,
+        "shrimp": 1,
+        "tofu": 1
+      },
+      "poolSignature": "0418aa69da57ee95"
+    },
+    {
+      "weekStart": "2026-03-30",
+      "usedMainIds": [
+        "HowToCook:dishes/meat_dish/番茄红酱.md",
+        "HowToCook:dishes/aquatic/红烧鱼.md",
+        "HowToCook:dishes/meat_dish/咖喱肥牛/咖喱肥牛.md",
+        "HowToCook:dishes/meat_dish/小炒肉.md",
+        "HowToCook:dishes/vegetable_dish/炒茄子.md",
+        "HowToCook:dishes/meat_dish/黄焖鸡.md",
+        "HowToCook:dishes/meat_dish/水煮牛肉/水煮牛肉.md"
+      ],
+      "usedSideIds": [
+        "HowToCook:dishes/vegetable_dish/凉拌莴笋/凉拌莴笋.md",
+        "CookLikeHOC:炒菜/芹菜炒香干.md",
+        "HowToCook:dishes/vegetable_dish/金针菇日本豆腐煲.md",
+        "HowToCook:dishes/vegetable_dish/蒜蓉空心菜/蒜蓉空心菜.md",
+        "HowToCook:dishes/soup/黄瓜皮蛋汤.md",
+        "CookLikeHOC:炒菜/清炒油麦菜.md",
+        "HowToCook:dishes/soup/生汆丸子汤.md"
+      ],
+      "proteinCounts": {
+        "beef": 3,
+        "fish": 1,
+        "pork": 1,
+        "shrimp": 1,
+        "chicken": 1
+      },
+      "poolSignature": "c6eb9b94ad926296"
+    },
+    {
+      "weekStart": "2026-03-30",
+      "usedMainIds": [
+        "CookLikeHOC:蒸菜/白切鸡.md",
+        "HowToCook:dishes/aquatic/清蒸鲈鱼/清蒸鲈鱼.md",
+        "HowToCook:dishes/meat_dish/尖椒炒牛肉.md",
+        "HowToCook:dishes/meat_dish/杀猪菜.md",
+        "HowToCook:dishes/meat_dish/芥末罗氏虾/芥末罗氏虾.md",
+        "HowToCook:dishes/meat_dish/香辣鸡爪煲/香辣鸡爪煲.md",
+        "HowToCook:dishes/meat_dish/酱牛肉/酱牛肉.md"
+      ],
+      "usedSideIds": [
+        "HowToCook:dishes/vegetable_dish/蒲烧茄子.md",
+        "HowToCook:dishes/soup/番茄牛肉蛋花汤.md",
+        "HowToCook:dishes/vegetable_dish/清炒花菜.md",
+        "HowToCook:dishes/soup/金针菇汤.md",
+        "CookLikeHOC:炒菜/清炒青菜.md",
+        "HowToCook:dishes/soup/西红柿鸡蛋汤.md",
+        "HowToCook:dishes/vegetable_dish/凉拌豆腐.md"
+      ],
+      "proteinCounts": {
+        "chicken": 2,
+        "fish": 1,
+        "beef": 2,
+        "pork": 1,
+        "shrimp": 1
+      },
+      "poolSignature": "914053d98803ca2f"
+    },
+    {
+      "weekStart": "2026-03-30",
+      "usedMainIds": [
+        "HowToCook:dishes/aquatic/红烧鱼头.md",
+        "HowToCook:dishes/meat_dish/清蒸鳜鱼/清蒸鳜鱼.md",
+        "HowToCook:dishes/meat_dish/巴基斯坦牛肉咖喱/巴基斯坦牛肉咖喱.md",
+        "HowToCook:dishes/meat_dish/小米辣炒肉.md",
+        "CookLikeHOC:炒菜/小炒河虾.md",
+        "CookLikeHOC:炖菜/香辣鸡杂.md",
+        "HowToCook:dishes/meat_dish/西红柿土豆炖牛肉/西红柿土豆炖牛肉.md"
+      ],
+      "usedSideIds": [
+        "HowToCook:dishes/vegetable_dish/菠菜炒鸡蛋/菠菜炒鸡蛋.md",
+        "HowToCook:dishes/vegetable_dish/芹菜拌茶树菇/芹菜拌茶树菇.md",
+        "HowToCook:dishes/vegetable_dish/包菜炒鸡蛋粉丝/包菜炒鸡蛋粉丝.md",
+        "HowToCook:dishes/soup/菌菇炖乳鸽/菌菇炖乳鸽.md",
+        "HowToCook:dishes/vegetable_dish/凉拌黄瓜.md",
+        "HowToCook:dishes/vegetable_dish/炒青菜.md",
+        "HowToCook:dishes/vegetable_dish/红烧茄子.md"
+      ],
+      "proteinCounts": {
+        "fish": 2,
+        "beef": 2,
+        "pork": 1,
+        "shrimp": 1,
+        "chicken": 1
+      },
+      "poolSignature": "f88b8871aba3d180"
+    },
+    {
+      "weekStart": "2026-03-30",
+      "usedMainIds": [
+        "CookLikeHOC:蒸菜/白切鸡.md",
+        "HowToCook:dishes/meat_dish/豆豉鲮鱼油麦菜/豆豉鲮鱼油麦菜.md",
+        "HowToCook:dishes/meat_dish/水煮牛肉/水煮牛肉.md",
+        "HowToCook:dishes/meat_dish/洋葱炒猪肉.md",
+        "HowToCook:dishes/aquatic/微波葱姜黑鳕鱼.md",
+        "HowToCook:dishes/meat_dish/可乐鸡翅.md",
+        "HowToCook:dishes/meat_dish/柱候牛腩/柱候牛腩.md"
+      ],
+      "usedSideIds": [
+        "HowToCook:dishes/vegetable_dish/蚝油生菜.md",
+        "HowToCook:dishes/soup/皮蛋瘦肉粥.md",
+        "HowToCook:dishes/vegetable_dish/凉拌黄瓜.md",
+        "HowToCook:dishes/vegetable_dish/凉拌油麦菜.md",
+        "HowToCook:dishes/vegetable_dish/莴笋叶煎饼/莴笋叶煎饼.md",
+        "HowToCook:dishes/vegetable_dish/烤茄子/烤茄子.md",
+        "HowToCook:dishes/vegetable_dish/西葫芦炒鸡蛋/西葫芦炒鸡蛋.md"
+      ],
+      "proteinCounts": {
+        "chicken": 2,
+        "fish": 2,
+        "beef": 2,
+        "pork": 1
+      },
+      "poolSignature": "931555916c38eea4"
+    },
+    {
+      "weekStart": "2026-03-30",
+      "usedMainIds": [
+        "HowToCook:dishes/meat_dish/宫保鸡丁/宫保鸡丁.md",
+        "HowToCook:dishes/aquatic/香煎翘嘴鱼/香煎翘嘴鱼.md",
+        "HowToCook:dishes/meat_dish/孜然牛肉.md",
+        "HowToCook:dishes/meat_dish/青椒土豆炒肉/青椒土豆炒肉.md",
+        "HowToCook:dishes/meat_dish/红烧鸡翅.md",
+        "HowToCook:dishes/meat_dish/腐乳肉.md",
+        "HowToCook:dishes/aquatic/鲤鱼炖白菜/鲤鱼炖白菜.md"
+      ],
+      "usedSideIds": [
+        "HowToCook:dishes/vegetable_dish/凉拌黄瓜.md",
+        "HowToCook:dishes/vegetable_dish/鸡蛋火腿炒黄瓜.md",
+        "HowToCook:dishes/vegetable_dish/凉拌油麦菜.md",
+        "HowToCook:dishes/vegetable_dish/小炒藕丁/小炒藕丁.md",
+        "CookLikeHOC:炒菜/西红柿炒鸡蛋.md",
+        "HowToCook:dishes/vegetable_dish/家常日本豆腐.md",
+        "HowToCook:dishes/vegetable_dish/雷椒皮蛋.md"
+      ],
+      "proteinCounts": {
+        "chicken": 2,
+        "fish": 2,
+        "beef": 1,
+        "pork": 2
+      },
+      "poolSignature": "f1351d8b396f10d1"
+    },
+    {
+      "weekStart": "2026-03-30",
+      "usedMainIds": [
+        "CookLikeHOC:蒸菜/白切鸡.md",
+        "HowToCook:dishes/aquatic/葱油桂鱼/葱油桂鱼.md",
+        "HowToCook:dishes/meat_dish/小炒黄牛肉/小炒黄牛肉.md",
+        "HowToCook:dishes/meat_dish/湖南家常红烧肉/湖南家常红烧肉.md",
+        "HowToCook:dishes/meat_dish/香煎五花肉/香煎五花肉.md",
+        "HowToCook:dishes/meat_dish/姜炒鸡/姜炒鸡.md",
+        "HowToCook:dishes/meat_dish/广式萝卜牛腩/广式萝卜牛腩.md"
+      ],
+      "usedSideIds": [
+        "HowToCook:dishes/vegetable_dish/凉拌油麦菜.md",
+        "CookLikeHOC:炒菜/芹菜炒香干.md",
+        "HowToCook:dishes/vegetable_dish/凉拌黄瓜.md",
+        "HowToCook:dishes/vegetable_dish/凉拌金针菇.md",
+        "HowToCook:dishes/vegetable_dish/金针菇日本豆腐煲.md",
+        "HowToCook:dishes/vegetable_dish/蒜蓉西兰花.md",
+        "CookLikeHOC:砂锅菜/砂锅三鲜豆腐.md"
+      ],
+      "proteinCounts": {
+        "chicken": 2,
+        "fish": 1,
+        "beef": 2,
+        "pork": 2
+      },
+      "poolSignature": "5b600f8c8d425b62"
+    },
+    {
+      "weekStart": "2026-03-30",
+      "usedMainIds": [
+        "HowToCook:dishes/meat_dish/新疆大盘鸡/新疆大盘鸡.md",
+        "HowToCook:dishes/aquatic/红烧鱼.md",
+        "HowToCook:dishes/meat_dish/巴基斯坦牛肉咖喱/巴基斯坦牛肉咖喱.md",
+        "HowToCook:dishes/meat_dish/鱼香肉丝.md",
+        "HowToCook:dishes/meat_dish/麻婆豆腐/麻婆豆腐.md",
+        "HowToCook:dishes/meat_dish/香菇滑鸡/香菇滑鸡.md",
+        "HowToCook:dishes/aquatic/鳊鱼炖豆腐/鳊鱼炖豆腐.md"
+      ],
+      "usedSideIds": [
+        "HowToCook:dishes/vegetable_dish/凉拌木耳/凉拌木耳.md",
+        "HowToCook:dishes/vegetable_dish/凉拌黄瓜.md",
+        "HowToCook:dishes/vegetable_dish/凉拌油麦菜.md",
+        "HowToCook:dishes/vegetable_dish/上汤娃娃菜/上汤娃娃菜.md",
+        "HowToCook:dishes/vegetable_dish/家常日本豆腐.md",
+        "HowToCook:dishes/soup/罗宋汤.md",
+        "HowToCook:dishes/vegetable_dish/金针菇日本豆腐煲.md"
+      ],
+      "proteinCounts": {
+        "chicken": 2,
+        "fish": 2,
+        "beef": 1,
+        "pork": 1,
+        "tofu": 1
+      },
+      "poolSignature": "f1351d8b396f10d1"
+    }
+  ]
+}

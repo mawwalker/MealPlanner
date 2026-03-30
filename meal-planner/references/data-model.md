@@ -1,109 +1,88 @@
 # Meal Planner Data Model
 
-## Overview
+## Pipeline layers
 
-The planner currently uses a multi-stage data pipeline instead of a static week-template file.
+### 1. Imported source layer
+[`/home/dsm/workspace/MealPlanner/diet/imported_recipes.json`](/home/dsm/workspace/MealPlanner/diet/imported_recipes.json)
 
-## File graph
+One entry per imported markdown recipe.
 
-### 1. Raw import layer
-`diet/imported_recipes.json`
-
-Contains raw normalized imports from source repositories.
-Each recipe entry typically includes:
+Important fields:
 - `id`
-- `name`
-- `sourceRepo`
-- `sourcePath`
-- `protein`
-- `tags`
+- `sourceName`
+- `relativePath`
+- `title`
 - `ingredients`
+- `steps`
 - `method`
-
-### 2. Refined candidate layer
-`diet/refined_recipe_pool.json`
-
-Contains first-pass cleaned and deduplicated recipe candidates.
-Additional fields may include:
-- `estimatedMinutes`
-- `homeScore`
-- `reheatScore`
-- `weekdayFriendly`
-- `light`
-- `spicyFriendly`
-- `vegHits`
-
-### 3. Structured planner layer
-`diet/structured_recipe_pool.json`
-
-Contains planner-ready recipes used directly by the weekly planner.
-Each entry should be compact and stable for planning:
-- `id`
-- `name`
-- `sourceRepo`
-- `sourcePath`
 - `protein`
+- `role`
 - `vegTypes`
 - `tags`
-- `ingredients`
-- `method`
 - `estimatedMinutes`
-- `reheatScore`
-- `weekdayFriendly`
-- `light`
-- `spicyFriendly`
+- `difficulty`
+
+### 2. Refined candidate layer
+[`/home/dsm/workspace/MealPlanner/diet/refined_recipe_pool.json`](/home/dsm/workspace/MealPlanner/diet/refined_recipe_pool.json)
+
+Adds planning heuristics:
 - `homeScore`
+- `nutritionScore`
+- `weekdayFriendly`
+- `isPractical`
+- `useFrequency`
 
-### 4. Persistent runtime state
-`diet/state.json`
+This is the main filter that removes:
+- non-meal content
+- obvious non-home-cooking entries
+- weak main dishes
+- chain-kitchen style recipes that depend on prebuilt bases
 
-Current runtime state for the planner.
-This file is the continuity anchor and should persist only the planning state that is actually needed:
-- current generated week start
-- generated timestamp
-- `generatedWeekPlan`
-- optional lightweight history / planning metadata
+### 3. Structured planning pool
+[`/home/dsm/workspace/MealPlanner/diet/structured_recipe_pool.json`](/home/dsm/workspace/MealPlanner/diet/structured_recipe_pool.json)
 
-Do not turn this into a full inventory ledger unless explicitly requested.
+Planner-ready grouped pool:
+- `mains`
+- `sides`
+- `soups`
+- `recipes`
+- `breakfastTemplates`
+- `stats`
+- `poolSignature`
 
-### 5. Human policy layer
-`diet/weekly_meal_plan.md`
+### 4. Compatibility view
+[`/home/dsm/workspace/MealPlanner/diet/meal_pool.json`](/home/dsm/workspace/MealPlanner/diet/meal_pool.json)
+[`/home/dsm/workspace/MealPlanner/diet/recipe_pool.json`](/home/dsm/workspace/MealPlanner/diet/recipe_pool.json)
 
-Human-readable planning assumptions, user preferences, shopping cadence, and nutrition policy.
+These keep a grouped view that is easier for agents or older integrations to consume.
 
-## `generatedWeekPlan` structure
+### 5. Persistent runtime state
+[`/home/dsm/workspace/MealPlanner/diet/state.json`](/home/dsm/workspace/MealPlanner/diet/state.json)
 
-The generated plan currently stores:
+State contains:
+- `activeWeek`
+- `history`
+- `updatedAt`
+
+`activeWeek` contains:
 - `weekStart`
+- `generatedAt`
+- `poolSignature`
+- `season`
+- `proteinTargets`
+- `proteinCounts`
 - `days`
-  - per weekday:
-    - `breakfast`
-    - `main`
-    - `side`
-    - `cookOnce`
-    - `dinnerReuse`
-    - `purchaseMode`
-    - `note`
 - `weeklyBuy`
-  - `protein`
-  - `durableVeg`
-  - `breakfastStaples`
-  - `fruitExtra`
-  - `replenishFresh`
-- optional analytics fields such as:
-  - `proteinCounts`
-  - `sideDiversity`
 
-## Semantics
+### 6. User preference overrides
+[`/home/dsm/workspace/MealPlanner/diet/preferences.json`](/home/dsm/workspace/MealPlanner/diet/preferences.json)
 
-### Daily cooking rhythm
-- breakfast is independent
-- lunch is the main cooked meal
-- dinner usually reuses lunch
+Current supported override:
+- `blacklist.exactTitles`
+- `blacklist.titleKeywords`
+- `blacklist.sourcePaths`
 
-### Shopping rhythm
-- shopping is handled at the **weekly recommendation** level by default
-- daily reminders reference the saved weekly plan instead of generating daily shopping lists
+### 7. Human-readable week file
+[`/home/dsm/workspace/MealPlanner/diet/weekly_meal_plan.md`](/home/dsm/workspace/MealPlanner/diet/weekly_meal_plan.md)
 
-### Continuity rule
-Daily messages should be rendered from the saved weekly state, not re-planned from scratch each day.
+Compact markdown rendering of the current saved week.

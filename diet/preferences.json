@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "updatedAt": null,
+  "blacklist": {
+    "exactTitles": [],
+    "titleKeywords": [],
+    "sourcePaths": []
+  }
+}

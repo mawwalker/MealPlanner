@@ -1,195 +1,188 @@
 ---
 name: meal-planner
-description: Build, maintain, and run a stateful meal-planning system for home cooking. Use when the user wants weekly meal planning, grocery planning, nutrition-balanced home cooking, recurring daily menu reminders, recipe-pool curation from GitHub cookbooks, or a persistent meal workflow that remembers current-week plans and shopping cadence.
+description: Curate a large multi-source home-cooking recipe pool, classify it into planning-ready buckets, generate a balanced weekly meal plan, and render daily reminders. Use when the user wants recipe-pool building, home-cooking filtering, weekly meal planning, or daily menu delivery from GitHub cookbook sources.
 ---
 
 # Meal Planner
 
-Use this skill to manage meal planning as a **persistent weekly planning system** rather than a one-off reminder.
+Use this skill when the task is not "pick a few dishes right now", but "maintain a reusable recipe pool and plan a real week of home cooking from it".
 
-Do **not** overengineer inventory tracking or purchased-item tracking unless the user explicitly asks for it. The default design is: weekly plan + weekly shopping recommendation + daily execution reminder.
+The system is built around four layers:
+- source import from cookbook repositories
+- recipe feature extraction and practical filtering
+- grouped meal pool generation
+- weekly planning plus daily reminder rendering
 
-The current implementation is built around:
-- recipe ingestion from GitHub cookbook repositories
-- recipe cleaning / normalization / scoring
-- weekly plan generation
-- one weekly shopping recommendation
-- daily reminder generation from the saved week plan
-- model-assisted final daily phrasing/selection refinement when needed
+## Default usage
 
-## Current recipe sources
+For normal day-to-day use, treat this skill as a `weekly plan + daily reminder` system.
 
-Primary source repositories:
+Default behavior:
+- at the start of a new week, generate or refresh the weekly plan
+- on normal days, only render today's recommendation from saved state
+- do not rebuild the recipe pool unless sources, blacklist rules, or filtering logic changed
+
+If the user simply asks for today's meals or this week's meals, prefer the persisted week state instead of re-curating the whole recipe pool.
+
+## Agent playbook
+
+When another agent uses this skill, follow these defaults.
+
+### If the user asks "这周吃什么" / "生成本周计划"
+
+Do:
+1. run `plan_week.py`
+2. run `generate_weekly_plan.py`
+3. return the rendered weekly plan
+
+Do not:
+- rebuild the recipe pool by default
+- re-import source repositories by default
+
+### If the user asks "今天吃什么" / "生成今日推荐"
+
+Do:
+1. ensure a current week exists, running `plan_week.py` only if the saved week is missing or stale
+2. run `generate_daily_plan.py`
+3. return today's rendered recommendation
+
+Do not:
+- regenerate the whole week every day
+- rebuild the recipe pool for normal daily usage
+
+### If the user says "以后不要这个菜"
+
+Do:
+1. add a blacklist rule to [`/home/dsm/workspace/MealPlanner/diet/preferences.json`](/home/dsm/workspace/MealPlanner/diet/preferences.json)
+2. run the full rebuild pipeline
+3. regenerate the week if needed
+
+Prefer:
+- `exactTitles` when the user names one specific dish
+- `titleKeywords` when the user means a dish family such as `鸡爪`
+- `sourcePaths` only when the exact source entry matters
+
+### If the user asks to refresh the recipe pool or changes source/filter rules
+
+Do:
+1. update preferences or source/filter logic as needed
+2. run `rebuild_pipeline.py`
+
+Use the full rebuild path only for data/pool changes, not routine daily requests.
+
+## Planning assumptions
+
+Default user profile:
+- adult male, maintenance-oriented
+- lunch is the main cooking session
+- dinner usually reuses lunch
+- breakfast is simpler and template-based
+- target is practical, balanced home cooking, not restaurant recreation
+
+Planning principles:
+- main dishes should be real lunch anchors, not sauces, condiments, or thin egg-only dishes
+- side dishes should complement the main and improve weekly vegetable balance
+- weekly planning should vary proteins and avoid repeating the same dishes too often
+- the plan should be stable within the week and reused for daily reminders
+
+## Current sources
+
+Supported cookbook repositories:
 - `Anduin2017/HowToCook`
 - `Gar-b-age/CookLikeHOC`
 
-Use `HowToCook` mainly as the home-cooking base source.
-Use `CookLikeHOC` as a supplemental source for flavor patterns, structured dish naming, and standardized combinations, but down-rank recipes that depend too heavily on semi-finished sauces or central-kitchen style inputs.
+Source policy:
+- `HowToCook` is the primary home-cooking source
+- `CookLikeHOC` is supplemental and should be down-ranked when entries depend on chain-kitchen bases, prebuilt sauces, or semi-finished components
 
-## Real user constraints
+## Canonical files
 
-Always plan around these persistent constraints:
-- user is a `28-year-old`, `67kg`, maintenance-oriented adult male
-- goal is `health + stable body shape + practical home cooking`
-- user usually cooks **once per day**
-- the cooked meal is mainly for **lunch**, and **dinner usually reuses lunch**
-- breakfast can be separate and simpler
-- **weekend = main purchase window**
-- **weekday = replenishment window**
-- flavor can be adjusted toward **Jiangxi-friendly light spicy home style**
-- output must be **Telegram-mobile-friendly** and compact
+Generated data lives in [`/home/dsm/workspace/MealPlanner/diet/imported_recipes.json`](/home/dsm/workspace/MealPlanner/diet/imported_recipes.json), [`/home/dsm/workspace/MealPlanner/diet/refined_recipe_pool.json`](/home/dsm/workspace/MealPlanner/diet/refined_recipe_pool.json), [`/home/dsm/workspace/MealPlanner/diet/structured_recipe_pool.json`](/home/dsm/workspace/MealPlanner/diet/structured_recipe_pool.json), [`/home/dsm/workspace/MealPlanner/diet/meal_pool.json`](/home/dsm/workspace/MealPlanner/diet/meal_pool.json), and [`/home/dsm/workspace/MealPlanner/diet/state.json`](/home/dsm/workspace/MealPlanner/diet/state.json).
 
-## Required files and their roles
+Human-readable output lives in [`/home/dsm/workspace/MealPlanner/diet/weekly_meal_plan.md`](/home/dsm/workspace/MealPlanner/diet/weekly_meal_plan.md).
 
-### Source and normalization layers
-- `/home/dsm/.openclaw/workspace/diet/imported_recipes.json`
-  - raw imported recipes from supported source repositories
-- `/home/dsm/.openclaw/workspace/diet/refined_recipe_pool.json`
-  - first-pass cleaned recipes with deduplication, tags, scores, and usability filtering
-- `/home/dsm/.openclaw/workspace/diet/structured_recipe_pool.json`
-  - planner-ready structured recipe pool used by the weekly planner
+User preference overrides live in [`/home/dsm/workspace/MealPlanner/diet/preferences.json`](/home/dsm/workspace/MealPlanner/diet/preferences.json).
 
-### Persistent planning layers
-- `/home/dsm/.openclaw/workspace/diet/state.json`
-  - generated week state, active weekly plan, and planning continuity
-- `/home/dsm/.openclaw/workspace/diet/weekly_meal_plan.md`
-  - human-readable nutrition policy, shopping cadence, and high-level planning assumptions
+## Scripts
 
-### Scripts
-- `scripts/import_sources.py`
-  - import markdown recipes from source repositories into `diet/imported_recipes.json`
-- `scripts/refine_recipe_pool.py`
-  - clean, score, and deduplicate imported recipes into `diet/refined_recipe_pool.json`
-- `scripts/build_structured_pool.py`
-  - convert refined recipes into planner-ready structured entries in `diet/structured_recipe_pool.json`
-- `scripts/plan_week.py`
-  - generate the current week's meal plan from the structured pool and write it into `diet/state.json`
-- `scripts/generate_daily_plan.py`
-  - read the persisted week plan from `diet/state.json` and render today's reminder
+- [`/home/dsm/workspace/MealPlanner/meal-planner/scripts/import_sources.py`](/home/dsm/workspace/MealPlanner/meal-planner/scripts/import_sources.py)
+  Imports only recipe markdown from supported repositories.
+- [`/home/dsm/workspace/MealPlanner/meal-planner/scripts/refine_recipe_pool.py`](/home/dsm/workspace/MealPlanner/meal-planner/scripts/refine_recipe_pool.py)
+  Scores, filters, and deduplicates imported recipes.
+- [`/home/dsm/workspace/MealPlanner/meal-planner/scripts/build_structured_pool.py`](/home/dsm/workspace/MealPlanner/meal-planner/scripts/build_structured_pool.py)
+  Builds planning-ready grouped pools: mains, sides, soups, breakfast templates.
+- [`/home/dsm/workspace/MealPlanner/meal-planner/scripts/plan_week.py`](/home/dsm/workspace/MealPlanner/meal-planner/scripts/plan_week.py)
+  Generates the current week's plan and persists it.
+- [`/home/dsm/workspace/MealPlanner/meal-planner/scripts/generate_weekly_plan.py`](/home/dsm/workspace/MealPlanner/meal-planner/scripts/generate_weekly_plan.py)
+  Renders the saved weekly plan.
+- [`/home/dsm/workspace/MealPlanner/meal-planner/scripts/generate_daily_plan.py`](/home/dsm/workspace/MealPlanner/meal-planner/scripts/generate_daily_plan.py)
+  Renders today's reminder from persisted state.
+- [`/home/dsm/workspace/MealPlanner/meal-planner/scripts/rebuild_pipeline.py`](/home/dsm/workspace/MealPlanner/meal-planner/scripts/rebuild_pipeline.py)
+  Runs the full import -> refine -> pool build -> weekly plan -> render pipeline.
+- [`/home/dsm/workspace/MealPlanner/meal-planner/scripts/add_blacklist.py`](/home/dsm/workspace/MealPlanner/meal-planner/scripts/add_blacklist.py)
+  Adds user blacklist rules into `diet/preferences.json`.
 
-## Canonical workflow
+## Blacklist entry
 
-### 1. Update recipe sources when needed
-Run this when source repositories change or when importing a new cookbook source:
+If the user says a dish should never be suggested again, add it to [`/home/dsm/workspace/MealPlanner/diet/preferences.json`](/home/dsm/workspace/MealPlanner/diet/preferences.json) and rebuild the pipeline.
 
-1. Run `scripts/import_sources.py`
-2. Run `scripts/refine_recipe_pool.py`
-3. Run `scripts/build_structured_pool.py`
+Supported blacklist scopes:
+- `exactTitles`: exact recipe titles
+- `titleKeywords`: partial title keywords
+- `sourcePaths`: exact imported relative paths
 
-Do not skip refinement/structuring and jump straight from raw imports into planning.
+Convenient command:
 
-### 2. Generate or refresh the weekly plan
-Run `scripts/plan_week.py` when:
-- a new week begins
-- shopping cadence changes
-- the user changes taste / health / cooking assumptions
-- the recipe pool has materially changed
-- the current saved week is missing or invalid
+```bash
+python3 /home/dsm/workspace/MealPlanner/meal-planner/scripts/add_blacklist.py --title "宫保鸡丁的做法"
+```
 
-Do **not** regenerate a week plan every day unless the saved plan is clearly stale or broken.
+## Operating workflow
 
-### 3. Generate the daily reminder
-Run `scripts/generate_daily_plan.py` for the daily reminder.
-The daily reminder must be derived from the persisted weekly plan instead of ad hoc re-selection.
+### Daily default path
 
-## Planning method
+This is the default operational path the agent should prefer:
 
-Use explicit constraints instead of intuition-only selection.
+1. Weekly: run `plan_week.py` and `generate_weekly_plan.py`
+2. Daily: run `generate_daily_plan.py`
 
-### Weekly structure
-For each day, generate:
-- breakfast
-- one lunch main dish
-- one side dish or soup
-- dinner reuse note
-- short method notes
+Only use the full rebuild path when:
+- source repositories changed
+- blacklist / preference rules changed
+- parsing or filtering logic changed
+- the existing planning pool is clearly stale or broken
 
-For each week, generate separately:
-- one weekly shopping recommendation
-- one compact weekly menu view
+### Full rebuild
 
-Important delivery rule:
-- on `Monday`, include the **weekly plan + weekly shopping recommendation first**, then append the current day's plan
-- on other days, daily reminders may send only the current day's plan
+Run when source repositories or filtering heuristics changed:
 
-### Cross-week variety (key design)
+```bash
+python3 /home/dsm/workspace/MealPlanner/meal-planner/scripts/rebuild_pipeline.py
+```
 
-`plan_week.py` maintains variety across weeks via three mechanisms:
+### Weekly refresh
 
-1. **History tracking**: `state.json` records the last 8 weeks of used recipe IDs and side names.
-   - Recipes used in the last 1-4 weeks receive a diminishing penalty score.
-   - Sides used in the last 2 weeks receive an additional penalty.
+Run when starting a new week or when the saved week is missing/stale:
 
-2. **Protein pattern rotation**: 7 valid protein patterns are pre-defined. Each new week picks the next pattern in the cycle (by history length modulo 7). All patterns satisfy the weekly protein target.
+```bash
+python3 /home/dsm/workspace/MealPlanner/meal-planner/scripts/plan_week.py
+python3 /home/dsm/workspace/MealPlanner/meal-planner/scripts/generate_weekly_plan.py
+```
 
-3. **Controlled randomness**: Instead of always picking the top-ranked recipe, the planner selects from the top-3 candidates using weighted random choice (weights 4:2:1). This prevents the same dish appearing even if it re-enters the top spot.
+### Daily delivery
 
-Noodle/rice-bowl style dishes (`面`,`饭`,`盖浇`, etc.) are penalized globally so they don't displace proper main+side meals.
+Run on normal days:
 
-### Weekly nutrition logic
-Prefer a weekly protein distribution close to:
-- `chicken`: 2 days
-- `beef`: 1-2 days
-- `pork`: 1 day
-- `tofu / bean protein`: 1 day
-- `fish / shrimp`: 2 days
-
-Prefer weekly vegetable diversity across:
-- leafy greens
-- cruciferous vegetables
-- colorful vegetables
-- fungi / mushrooms / wood ear
-
-### Weekday practicality
-Weekday mains should usually be:
-- reheatable
-- not too oily
-- not too complex
-- suitable for one cooking session
-- generally around `<= 35-40` minutes active effort when possible
-
-### Weekend shopping logic
-Weekend main purchase should cover:
-- core proteins
-- durable vegetables
-- breakfast staples
-- fruit / spicy add-ons
-
-Weekday replenishment should focus on:
-- leafy greens
-- mushrooms
-- tomatoes / cucumbers / fresh vegetables
-- fruit
-- temporary ingredient gaps
-
-## Output rules
-
-For Telegram/mobile delivery:
-- optimize for scanability and information density
-- use compact tables or pseudo-tables only when they remain readable in Telegram
-- keep all key fields present: meals, shopping, method, note, week continuity
-- avoid long narrative paragraphs in scheduled reminders
-- prefer concise code formatting for dish names, ingredients, and key fields
+```bash
+python3 /home/dsm/workspace/MealPlanner/meal-planner/scripts/generate_daily_plan.py
+```
 
 ## References
 
-Read these when changing planning quality:
-- `references/scoring-model.md` — scoring and balancing rules
-- `references/selection-rules.md` — weekly plan constraints and decision rules
-- `references/data-model.md` — current persistent file/data model
-- `references/integration-sources.md` — source import and merge policy
-- `references/telegram-format.md` — output layout guidance
-- `references/runbook.md` — operational run path and rebuild procedure
+- [`references/data-model.md`](/home/dsm/workspace/MealPlanner/meal-planner/references/data-model.md): generated file layout and state model
+- [`references/selection-rules.md`](/home/dsm/workspace/MealPlanner/meal-planner/references/selection-rules.md): weekly planning constraints
+- [`references/scoring-model.md`](/home/dsm/workspace/MealPlanner/meal-planner/references/scoring-model.md): recipe filtering and ranking heuristics
+- [`references/integration-sources.md`](/home/dsm/workspace/MealPlanner/meal-planner/references/integration-sources.md): source-specific import policy
+- [`references/runbook.md`](/home/dsm/workspace/MealPlanner/meal-planner/references/runbook.md): operational usage
 
-## When updating the system
-
-Whenever behavior changes, update **both** code and documentation.
-
-Specifically, when you change scripts or data flow, also update:
-- `SKILL.md`
-- `references/data-model.md`
-- `references/selection-rules.md`
-- `references/scoring-model.md`
-- `references/integration-sources.md` if import/source behavior changed
-
-Do not leave the skill docs describing an old architecture after scripts evolve.
+When the pipeline changes, update both code and these references together.
