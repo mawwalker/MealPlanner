@@ -10,7 +10,14 @@ from pathlib import Path
 from typing import Iterable
 
 
-REPO_ROOT = Path(__file__).resolve().parents[2]
+def detect_repo_root() -> Path:
+    candidate = Path(__file__).resolve().parents[2]
+    if candidate.name == "skills" and (candidate.parent / "diet").exists():
+        return candidate.parent
+    return candidate
+
+
+REPO_ROOT = detect_repo_root()
 DATA_DIR = REPO_ROOT / "diet"
 
 IMPORTED_RECIPES = DATA_DIR / "imported_recipes.json"
